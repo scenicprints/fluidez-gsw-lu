@@ -1,0 +1,109 @@
+{
+  "id": "sc06",
+  "title": "At the market",
+  "desc": "Buy fruit from a farmer",
+  "setting": "At the Tuesday market on the Reuss, you approach a fruit stand.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Buurin",
+      "es": "Grüezi! Schöni Öpfel hüt, wänd Sie probiere?",
+      "en": "Hello! Nice apples today, would you like to try one?",
+      "options": [
+        {
+          "es": "Grüezi! Ja gärn, merci.",
+          "en": "Hello! Yes gladly, thanks.",
+          "verdict": "good",
+          "feedback": "Warm and natural — accepting a taste is exactly the right market etiquette."
+        },
+        {
+          "es": "Was choschted sie?",
+          "en": "How much are they?",
+          "verdict": "ok",
+          "feedback": "Fine, though accepting the friendly offer first builds rapport. You can ask the price after."
+        },
+        {
+          "es": "Nei.",
+          "en": "No.",
+          "verdict": "ok",
+          "feedback": "A bit curt for a friendly farmer. A 'nei danke' would be softer."
+        }
+      ]
+    },
+    {
+      "speaker": "Buurin",
+      "es": "Drü Stutz s'Kilo. Alls vo da, regional.",
+      "en": "Three francs a kilo. All from here, regional.",
+      "options": [
+        {
+          "es": "Denn nimm ich es Kilo, bitte.",
+          "en": "Then I'll take a kilo, please.",
+          "verdict": "good",
+          "feedback": "Clear and decisive — perfect market exchange."
+        },
+        {
+          "es": "Sind sie süess?",
+          "en": "Are they sweet?",
+          "verdict": "good",
+          "feedback": "A natural question — farmers love to talk about their produce."
+        },
+        {
+          "es": "Das isch z'tüür.",
+          "en": "That's too expensive.",
+          "verdict": "bad",
+          "feedback": "Swiss markets don't haggle, and three francs is fair. If it's too much, just say 'nei danke.'"
+        }
+      ]
+    },
+    {
+      "speaker": "Buurin",
+      "es": "Gärn! Susch no öppis? Ich han au schöni Bire.",
+      "en": "Gladly! Anything else? I also have nice pears.",
+      "options": [
+        {
+          "es": "Nei merci, das isch alls für hüt.",
+          "en": "No thanks, that's all for today.",
+          "verdict": "good",
+          "feedback": "Polite and complete. 'Das isch alls' neatly closes the order."
+        },
+        {
+          "es": "Ja, au es paar Bire, bitte.",
+          "en": "Yes, a few pears too, please.",
+          "verdict": "good",
+          "feedback": "Great — and you used 'au' (too) naturally."
+        },
+        {
+          "es": "Ich ha kei Geld.",
+          "en": "I have no money.",
+          "verdict": "ok",
+          "feedback": "Bit awkward to announce — a simple 'nei merci' is smoother."
+        }
+      ]
+    },
+    {
+      "speaker": "Buurin",
+      "es": "Da bitte, drü Stutz. Schöne Tag und merci!",
+      "en": "Here you go, three francs. Nice day and thanks!",
+      "options": [
+        {
+          "es": "Merci viilmal, glichfalls!",
+          "en": "Thank you very much, likewise!",
+          "verdict": "good",
+          "feedback": "Perfect — warm and local. The market is where you become a regular."
+        },
+        {
+          "es": "Danke, tschüss!",
+          "en": "Thanks, bye!",
+          "verdict": "good",
+          "feedback": "Friendly and natural."
+        },
+        {
+          "es": "Ja.",
+          "en": "Yeah.",
+          "verdict": "ok",
+          "feedback": "Too flat for such a friendly exchange. Send the warmth back."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "sc22",
+  "title": "Smoothing over a spat",
+  "desc": "Repair after a small argument",
+  "ph": 4,
+  "setting": "You snapped at your partner this morning over something small. Now you're back home and want to make peace.",
+  "steps": [
+    {
+      "speaker": "Partnerin",
+      "es": "Du bisch hüt Morge ziemli schroff gsii zu mir.",
+      "en": "You were pretty short with me this morning.",
+      "options": [
+        {
+          "es": "Du häsch rächt, und es tuet mer leid.",
+          "en": "You're right, and I'm sorry.",
+          "verdict": "good",
+          "feedback": "Owning it straight away takes all the heat out. Excellent repair."
+        },
+        {
+          "es": "Ich han halt schlächt gschlafe.",
+          "en": "I just slept badly.",
+          "verdict": "ok",
+          "feedback": "An explanation isn't an apology — lead with sorry, then the context."
+        },
+        {
+          "es": "Du häsch aagfange.",
+          "en": "You started it.",
+          "verdict": "bad",
+          "feedback": "Blame restarts the fight. This is the moment to de-escalate."
+        }
+      ]
+    },
+    {
+      "speaker": "Partnerin",
+      "es": "Es het mi würkli treffe. Ich han nöd gwüsst, was los isch.",
+      "en": "It really got to me. I didn't know what was going on.",
+      "options": [
+        {
+          "es": "Ich han Stress gha, aber das isch kei Entschuldigung gsii.",
+          "en": "I was stressed, but that was no excuse.",
+          "verdict": "good",
+          "feedback": "Honest about the cause without using it as a shield. Mature and warm."
+        },
+        {
+          "es": "Tut mer leid, ich erkläre der's spöter.",
+          "en": "Sorry, I'll explain later.",
+          "verdict": "ok",
+          "feedback": "Don't defer — she's open now. A short honest word matters more than timing."
+        },
+        {
+          "es": "Mach jetz nöd e so es Drama.",
+          "en": "Don't make such a drama out of it now.",
+          "verdict": "bad",
+          "feedback": "Dismissing her feelings after hurting them only deepens the rift."
+        }
+      ]
+    },
+    {
+      "speaker": "Partnerin",
+      "es": "Ich schätze, dass du das zuegisch.",
+      "en": "I appreciate that you're admitting it.",
+      "options": [
+        {
+          "es": "Mir sind es Team. Ich wott der nöd weh tue.",
+          "en": "We're a team. I don't want to hurt you.",
+          "verdict": "good",
+          "feedback": "Reaffirms the bond. Exactly what closes a small wound."
+        },
+        {
+          "es": "Guet, denn isch ja alls wider okay.",
+          "en": "Good, so everything's fine again then.",
+          "verdict": "ok",
+          "feedback": "A little quick to wrap it up — let the reconciliation breathe a moment."
+        },
+        {
+          "es": "Chömer's jetz vergässe?",
+          "en": "Can we just forget it now?",
+          "verdict": "ok",
+          "feedback": "Understandable, but acknowledging beats rushing to move on."
+        }
+      ]
+    },
+    {
+      "speaker": "Partnerin",
+      "es": "Chum, mer mached öis en Tee und sitzed chli ane.",
+      "en": "Come on, let's make a tea and sit down for a bit.",
+      "options": [
+        {
+          "es": "Sehr gärn. Ich hol s'Wasser.",
+          "en": "I'd love to. I'll get the water.",
+          "verdict": "good",
+          "feedback": "Accepting the peace offering with a small gesture — lovely close."
+        },
+        {
+          "es": "Okay, wänn du wottsch.",
+          "en": "Okay, if you want.",
+          "verdict": "ok",
+          "feedback": "Fine, but a warmer yes would meet her halfway after she reached out."
+        },
+        {
+          "es": "Ich han eigentli kei Ziit.",
+          "en": "I don't really have time.",
+          "verdict": "bad",
+          "feedback": "Turning down the olive branch undoes the whole apology."
+        }
+      ]
+    }
+  ]
+}

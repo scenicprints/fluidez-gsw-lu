@@ -1,0 +1,109 @@
+{
+  "id": "sc35",
+  "title": "Lucerne vs Zurich",
+  "desc": "Friendly regional ribbing",
+  "ph": 6,
+  "setting": "A friend from Zurich is visiting and teasing Lucerne. You defend your adopted city with good humour.",
+  "steps": [
+    {
+      "speaker": "Zürcher",
+      "es": "Sali! Und, no nöd iigschlafe i dem chliine Luzärn?",
+      "en": "Hey! So, not fallen asleep yet in tiny little Lucerne?",
+      "options": [
+        {
+          "es": "Ha! Bi öis isch's halt gmüetlich, nöd hektisch wie bi euch.",
+          "en": "Ha! It's cosy here, not hectic like at yours.",
+          "verdict": "good",
+          "feedback": "You claim Lucerne as 'ours' and tease right back — perfectly local."
+        },
+        {
+          "es": "Es isch wirklich ruhig, ja.",
+          "en": "It really is quiet, yes.",
+          "verdict": "ok",
+          "feedback": "You half-agree with the dig — defend your turf with a grin instead."
+        },
+        {
+          "es": "Luzärn isch besser als Züri, fertig.",
+          "en": "Lucerne is better than Zurich, end of.",
+          "verdict": "ok",
+          "feedback": "Spirited, but the fun is in the banter, not the verdict — keep it playful."
+        }
+      ]
+    },
+    {
+      "speaker": "Zürcher",
+      "es": "Gmüetlich? Du meinsch langwiilig, oder?",
+      "en": "Cosy? You mean boring, don't you?",
+      "options": [
+        {
+          "es": "Langwiilig? Chum mal a d'Fasnacht, denn redemer wider.",
+          "en": "Boring? Come to Fasnacht, then we'll talk again.",
+          "verdict": "good",
+          "feedback": "A confident, specific comeback — and Fasnacht is the perfect card to play."
+        },
+        {
+          "es": "Mir händ de schönscht See und d'Bärg grad vor de Tür.",
+          "en": "We've got the most beautiful lake and the mountains right on the doorstep.",
+          "verdict": "good",
+          "feedback": "Proud and true — local pride worn lightly. Great."
+        },
+        {
+          "es": "Findsch wirkli?",
+          "en": "You really think so?",
+          "verdict": "ok",
+          "feedback": "Don't take the bait as a real question — bat it back with a smile."
+        }
+      ]
+    },
+    {
+      "speaker": "Zürcher",
+      "es": "Okay, de See isch scho schöö, das gib ich zue.",
+      "en": "Okay, the lake is beautiful, I'll give you that.",
+      "options": [
+        {
+          "es": "Gsesch! Und d'Lüt sind fründlicher als bi euch, gäll.",
+          "en": "See! And the people are friendlier than at yours, eh.",
+          "verdict": "good",
+          "feedback": "You press your advantage with a wink — exactly the right energy."
+        },
+        {
+          "es": "Eba. Mer mues nu mal da gsii sii.",
+          "en": "Exactly. You just have to have been here.",
+          "verdict": "good",
+          "feedback": "Easy and assured — you sound like you've lived here for years."
+        },
+        {
+          "es": "Ja, also doch nöd so schlächt.",
+          "en": "Yes, so not so bad after all.",
+          "verdict": "ok",
+          "feedback": "You won the point — claim it with a bit more flair."
+        }
+      ]
+    },
+    {
+      "speaker": "Zürcher",
+      "es": "Du verteidigsch Luzärn ja wie en echte Iiheimische!",
+      "en": "You defend Lucerne like a real native!",
+      "options": [
+        {
+          "es": "Bin ich ja au, fascht. Da bin ich dehei.",
+          "en": "Well I almost am one. This is home for me.",
+          "verdict": "good",
+          "feedback": "Warm, proud, and true — the whole journey in one line."
+        },
+        {
+          "es": "Klar, es isch jetz mini Stadt.",
+          "en": "Of course, it's my city now.",
+          "verdict": "good",
+          "feedback": "Quiet confidence — you've fully claimed your place. Lovely."
+        },
+        {
+          "es": "Naja, ich gib mer halt Müe.",
+          "en": "Well, I just make an effort.",
+          "verdict": "ok",
+          "feedback": "Too modest for the moment — you've earned the right to say it's home."
+        }
+      ]
+    }
+  ]
+}

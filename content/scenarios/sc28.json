@@ -1,0 +1,109 @@
+{
+  "id": "sc28",
+  "title": "At Fasnacht",
+  "desc": "Get swept into the carnival",
+  "ph": 5,
+  "setting": "It's the first morning of Fasnacht. The streets are full of masks and Guggen bands. A costumed stranger pulls you in.",
+  "steps": [
+    {
+      "speaker": "Maskierte",
+      "es": "Hoi! Warum stahsch denn so am Rand? Chum is Gwüel!",
+      "en": "Hey! Why are you standing at the edge? Come into the crowd!",
+      "options": [
+        {
+          "es": "Ha, warum nöd! Ich bi no nie a de Fasnacht gsii.",
+          "en": "Ha, why not! I've never been to Fasnacht before.",
+          "verdict": "good",
+          "feedback": "Game and honest — locals love showing a newcomer the ropes."
+        },
+        {
+          "es": "Ich luege lieber zue.",
+          "en": "I'd rather just watch.",
+          "verdict": "ok",
+          "feedback": "Fasnacht is for joining, not watching — let yourself be pulled in."
+        },
+        {
+          "es": "Es isch mer z'laut.",
+          "en": "It's too loud for me.",
+          "verdict": "ok",
+          "feedback": "It is loud! But that's the whole point — embrace the chaos once."
+        }
+      ]
+    },
+    {
+      "speaker": "Maskierte",
+      "es": "Nie a de Fasnacht?! Denn wird's Ziit. Häsch e Larve?",
+      "en": "Never to Fasnacht?! Then it's high time. Do you have a mask?",
+      "options": [
+        {
+          "es": "Nei, no kei. Wo überchunnt mer eini?",
+          "en": "No, not yet. Where do you get one?",
+          "verdict": "good",
+          "feedback": "Curious and willing — and now you're part of the tradition."
+        },
+        {
+          "es": "Bruuch ich das würkli?",
+          "en": "Do I really need that?",
+          "verdict": "ok",
+          "feedback": "At Fasnacht, dressing up is half the fun — lean in rather than out."
+        },
+        {
+          "es": "Ich blibe lieber ich säuber.",
+          "en": "I'd rather stay just myself.",
+          "verdict": "ok",
+          "feedback": "The mask is the joy of it — for one day, being someone else is the gift."
+        }
+      ]
+    },
+    {
+      "speaker": "Maskierte",
+      "es": "Da, nimm mini Reserve-Larve. Jetz ghörsch dezue!",
+      "en": "Here, take my spare mask. Now you belong!",
+      "options": [
+        {
+          "es": "Merci viilmal! Jetz bin ich e richtige Fasnächtler.",
+          "en": "Thank you so much! Now I'm a proper carnival-goer.",
+          "verdict": "good",
+          "feedback": "You accept the gesture with joy — that's the spirit exactly."
+        },
+        {
+          "es": "Bisch sicher? Das isch ja dini.",
+          "en": "Are you sure? That's yours.",
+          "verdict": "good",
+          "feedback": "Considerate, and it'll be warmly waved off. A kind beat."
+        },
+        {
+          "es": "Naja, wenn's sii mues.",
+          "en": "Well, if it must be.",
+          "verdict": "bad",
+          "feedback": "Reluctance deflates a generous moment. Take the joy on offer."
+        }
+      ]
+    },
+    {
+      "speaker": "Maskierte",
+      "es": "Chum, d'Guggemusig fangt aa! Tanz mit öis!",
+      "en": "Come, the Guggen band is starting! Dance with us!",
+      "options": [
+        {
+          "es": "Los gaht's! Ich tanze mit, au wenn ich's nöd cha!",
+          "en": "Here we go! I'll dance along, even if I can't!",
+          "verdict": "good",
+          "feedback": "Pure Fasnacht — nobody cares how you dance, only that you do."
+        },
+        {
+          "es": "Ich probier's mal.",
+          "en": "I'll give it a go.",
+          "verdict": "good",
+          "feedback": "Willing and easy — you're fully in the swing of it now."
+        },
+        {
+          "es": "Ich tanze eigentli nie.",
+          "en": "I never really dance.",
+          "verdict": "ok",
+          "feedback": "Today's the day to break that rule — the crowd hides everyone anyway."
+        }
+      ]
+    }
+  ]
+}

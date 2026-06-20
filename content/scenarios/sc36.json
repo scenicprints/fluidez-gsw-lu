@@ -1,0 +1,109 @@
+{
+  "id": "sc36",
+  "title": "A nuanced disagreement",
+  "desc": "Hold a subtle position with grace",
+  "ph": 7,
+  "setting": "At a dinner, the talk turns to whether a new lakefront development is good for Lucerne. Opinions differ; you have a nuanced view.",
+  "steps": [
+    {
+      "speaker": "Gascht",
+      "es": "Das neue Projekt am See isch doch en Skandal, oder findsch nöd?",
+      "en": "That new lakefront project is a scandal, don't you think?",
+      "options": [
+        {
+          "es": "Ich gseh's chli differenzierter, ehrlich gseit.",
+          "en": "I see it a bit more in shades of grey, to be honest.",
+          "verdict": "good",
+          "feedback": "A confident, adult opening that signals nuance without picking a fight. Excellent register."
+        },
+        {
+          "es": "Ja, total, e Frächheit!",
+          "en": "Yes, totally, an outrage!",
+          "verdict": "ok",
+          "feedback": "Agreeing just to fit in flattens the conversation — you have a real view, share it."
+        },
+        {
+          "es": "Das interessiert mi nöd.",
+          "en": "That doesn't interest me.",
+          "verdict": "bad",
+          "feedback": "Dismissive and a conversation-killer — engage with the topic instead."
+        }
+      ]
+    },
+    {
+      "speaker": "Gascht",
+      "es": "Aha? Wie meinsch das denn?",
+      "en": "Oh? How do you mean that?",
+      "options": [
+        {
+          "es": "D'Idee isch guet, aber d'Umsetzig macht mer chli Sorge.",
+          "en": "The idea is good, but the execution worries me a bit.",
+          "verdict": "good",
+          "feedback": "You separate principle from practice — precisely the kind of subtle point that earns respect."
+        },
+        {
+          "es": "Es het halt Vor- und Nachteil.",
+          "en": "It just has pros and cons.",
+          "verdict": "ok",
+          "feedback": "True but a touch bland — naming a specific concern would sharpen it."
+        },
+        {
+          "es": "Eifach alls schlächt z'finde isch z'eifach.",
+          "en": "Just finding it all bad is too easy.",
+          "verdict": "ok",
+          "feedback": "Fair, but said to someone who did just that, it can sting — soften the framing."
+        }
+      ]
+    },
+    {
+      "speaker": "Gascht",
+      "es": "Da häsch villicht nöd ganz unrächt. Aber de See ghört doch öis allne.",
+      "en": "You might not be entirely wrong. But the lake belongs to all of us.",
+      "options": [
+        {
+          "es": "Eba, und gnau drum mues mer's sorgfältig mache.",
+          "en": "Exactly, and that's precisely why it must be done carefully.",
+          "verdict": "good",
+          "feedback": "You take their point and fold it into your own — masterful, gracious debating."
+        },
+        {
+          "es": "Da bin ich völlig dim Meinig.",
+          "en": "There I completely agree with you.",
+          "verdict": "good",
+          "feedback": "Finding common ground keeps it warm and constructive. Nicely judged."
+        },
+        {
+          "es": "Naja, irgendwer mues ja entscheide.",
+          "en": "Well, someone has to decide.",
+          "verdict": "ok",
+          "feedback": "A bit of a shrug — you were making a stronger point, don't retreat from it."
+        }
+      ]
+    },
+    {
+      "speaker": "Gascht",
+      "es": "Schön, mit der cha mer würkli rede. Nöd eifach nu schwarz-wiiss.",
+      "en": "Nice, one can really talk with you. Not just black and white.",
+      "options": [
+        {
+          "es": "Merci! Genau söttigi Gschpröch han ich gärn.",
+          "en": "Thanks! These are exactly the conversations I enjoy.",
+          "verdict": "good",
+          "feedback": "Warm and self-assured — you held a nuanced line and won genuine respect."
+        },
+        {
+          "es": "S'Läbe isch sälte schwarz-wiiss, gäll.",
+          "en": "Life is rarely black and white, you know.",
+          "verdict": "good",
+          "feedback": "A quietly wise close, particle and all. Beautifully done."
+        },
+        {
+          "es": "Ich wott eifach nöd astrenge.",
+          "en": "I just don't want to be a hassle.",
+          "verdict": "ok",
+          "feedback": "Undersells you — you weren't avoiding conflict, you were thinking clearly. Own it."
+        }
+      ]
+    }
+  ]
+}

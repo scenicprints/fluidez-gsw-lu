@@ -1,0 +1,29 @@
+{
+  "id": "sc17",
+  "title": "At the town office",
+  "desc": "Register your residence",
+  "setting": "You've come to the Gemeinde to register now that you've moved to Lucerne.",
+  "ph": 3,
+  "steps": [
+    { "speaker": "Beamtin", "es": "Grüezi. Wie chan ich Ihne hälfe?", "en": "Hello. How can I help you?", "options": [
+      { "es": "Grüezi. Ich möcht mi aamälde, ich bi nöi zoge.", "en": "Hello. I'd like to register, I just moved here.", "verdict": "good", "feedback": "Clear and polite — exactly what she needs to start." },
+      { "es": "Aamälde.", "en": "Register.", "verdict": "ok", "feedback": "Understandable, just abrupt. A full sentence fits an office better." },
+      { "es": "Ich weiss nöd genau, wieso ich da bi.", "en": "I'm not sure why I'm here.", "verdict": "ok", "feedback": "If unsure, just say you've moved and need to register." }
+    ]},
+    { "speaker": "Beamtin", "es": "Gärn. Händ Sie en Uswiis und de Mietvertrag dabii?", "en": "Gladly. Do you have ID and the rental contract with you?", "options": [
+      { "es": "Ja, ich han alls dabii.", "en": "Yes, I have everything with me.", "verdict": "good", "feedback": "Prepared and direct — perfect." },
+      { "es": "Was bruuch ich genau?", "en": "What exactly do I need?", "verdict": "good", "feedback": "A smart question if unsure — better to ask than be turned away." },
+      { "es": "Nei, nüt.", "en": "No, nothing.", "verdict": "bad", "feedback": "You can't register without documents. Always bring them." }
+    ]},
+    { "speaker": "Beamtin", "es": "Guet. Füled Sie das Formular us und ünnerschriibed da.", "en": "Good. Fill out this form and sign here.", "options": [
+      { "es": "Wo genau mues ich ünnerschriibe?", "en": "Where exactly do I sign?", "verdict": "good", "feedback": "Asking to be sure on an official form is the right instinct." },
+      { "es": "Scho fertig, alls ünnerschribe.", "en": "Already done, all signed.", "verdict": "ok", "feedback": "Fine if you're sure — but confirming where never hurts." },
+      { "es": "Ich mag kei Formular.", "en": "I don't like forms.", "verdict": "ok", "feedback": "Relatable! But it's required — just work through it." }
+    ]},
+    { "speaker": "Beamtin", "es": "Alls in Ornig. D'Bewilligung chunnt mit de Poscht.", "en": "All in order. The permit will come by mail.", "options": [
+      { "es": "Merci viilmal für Ihri Hilf.", "en": "Thank you very much for your help.", "verdict": "good", "feedback": "Polite and warm — the right note to end on." },
+      { "es": "Mit de Poscht? Wie langsam.", "en": "By mail? How slow.", "verdict": "bad", "feedback": "That's normal here. Complaining just sours things." },
+      { "es": "Perfekt. En schöne Tag no.", "en": "Perfect. Have a nice day.", "verdict": "good", "feedback": "Smooth and courteous." }
+    ]}
+  ]
+}

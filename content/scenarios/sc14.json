@@ -1,0 +1,109 @@
+{
+  "id": "sc14",
+  "title": "A friend needs support",
+  "desc": "Comfort someone having a hard time",
+  "setting": "Your friend Lukas seems down and finally opens up to you.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Lukas",
+      "es": "Sorry, ich bi grad nöd so guet druf. Schwiirigi Wuche.",
+      "en": "Sorry, I'm not in a great mood. Tough week.",
+      "options": [
+        {
+          "es": "Hei, erzäll, was isch los. Ich lose zue.",
+          "en": "Hey, tell me what's going on. I'm listening.",
+          "verdict": "good",
+          "feedback": "Warm and open — offering to listen is the best first move."
+        },
+        {
+          "es": "Was isch passiert?",
+          "en": "What happened?",
+          "verdict": "good",
+          "feedback": "Direct and caring. Invites him to share."
+        },
+        {
+          "es": "Das gaht verbii.",
+          "en": "It'll pass.",
+          "verdict": "ok",
+          "feedback": "Means well but brushes past his feelings. Let him talk first."
+        }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Uf de Arbet lauft's grad gar nöd. Ich bi voll im Stress.",
+      "en": "Work is going badly right now. I'm totally stressed.",
+      "options": [
+        {
+          "es": "Das tönt würkli streng. Mues hart sii grad.",
+          "en": "That sounds really tough. Must be hard right now.",
+          "verdict": "good",
+          "feedback": "Validating his feeling before fixing — exactly what a friend does."
+        },
+        {
+          "es": "Magsch drüber rede?",
+          "en": "Do you want to talk about it?",
+          "verdict": "good",
+          "feedback": "Gentle and giving him space. Kind."
+        },
+        {
+          "es": "Anderi händ's schlimmer.",
+          "en": "Others have it worse.",
+          "verdict": "bad",
+          "feedback": "This dismisses his pain — never helpful. Stay with how he feels."
+        }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Merci, dass d'eifach zuelosisch. Das tuet scho guet.",
+      "en": "Thanks for just listening. That already helps.",
+      "options": [
+        {
+          "es": "Immer. Defür sind Fründe da.",
+          "en": "Always. That's what friends are for.",
+          "verdict": "good",
+          "feedback": "Simple and true — the perfect thing to say."
+        },
+        {
+          "es": "Klar, jederziit.",
+          "en": "Of course, anytime.",
+          "verdict": "good",
+          "feedback": "Warm and reassuring. Good."
+        },
+        {
+          "es": "Scho guet.",
+          "en": "It's fine.",
+          "verdict": "ok",
+          "feedback": "A bit dismissive of his thanks. Let the warmth land."
+        }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Sölle mir am Wucheänd öppis mache, zum abschalte?",
+      "en": "Should we do something this weekend, to switch off?",
+      "options": [
+        {
+          "es": "Unbedingt! Mir gönd go wandere, das tuet dir guet.",
+          "en": "Definitely! Let's go hiking, that'll do you good.",
+          "verdict": "good",
+          "feedback": "Caring and concrete — turning support into a plan. Excellent."
+        },
+        {
+          "es": "Ja, gärn! Ich plane öppis Schöns.",
+          "en": "Yes, gladly! I'll plan something nice.",
+          "verdict": "good",
+          "feedback": "Generous and warm. A real friend's reply."
+        },
+        {
+          "es": "Vilicht.",
+          "en": "Maybe.",
+          "verdict": "ok",
+          "feedback": "He reached out — a clearer yes would mean more to him right now."
+        }
+      ]
+    }
+  ]
+}

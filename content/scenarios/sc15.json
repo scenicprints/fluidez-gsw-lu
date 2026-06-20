@@ -1,0 +1,49 @@
+{
+  "id": "sc15",
+  "title": "Making weekend plans",
+  "desc": "Plan an outing with friends",
+  "setting": "You, Sara, and Lukas are figuring out what to do this weekend.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Sara",
+      "es": "Was wänd mir am Wucheänd zäme mache?",
+      "en": "What shall we do together this weekend?",
+      "options": [
+        { "es": "Mir chönted uf de Rigi go wandere, bi schööm Wätter.", "en": "We could hike up the Rigi, if the weather's nice.", "verdict": "good", "feedback": "A concrete, local suggestion with a sensible condition. Great planning." },
+        { "es": "Egal, was wänd ihr?", "en": "Whatever, what do you two want?", "verdict": "ok", "feedback": "Easy-going is fine, but offering an idea moves things forward." },
+        { "es": "Ich ha kei Idee.", "en": "I have no idea.", "verdict": "ok", "feedback": "Try to contribute one option — it helps the group decide." }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Gueti Idee! Aber s'Wätter söll am Samschtig schlächt sii.",
+      "en": "Good idea! But the weather's supposed to be bad on Saturday.",
+      "options": [
+        { "es": "Denn gömmer am Sunntig, und Samschtig is Museum?", "en": "Then let's go Sunday, and Saturday to a museum?", "verdict": "good", "feedback": "Flexible problem-solving with a plan B. Exactly the right instinct." },
+        { "es": "Schade. Denn halt es anders Mal.", "en": "Shame. Another time then.", "verdict": "ok", "feedback": "Don't give up so fast — a small reshuffle saves the weekend." },
+        { "es": "S'Wätter isch mir egal.", "en": "I don't care about the weather.", "verdict": "ok", "feedback": "Hiking the Rigi in bad weather isn't much fun — better to adapt the plan." }
+      ]
+    },
+    {
+      "speaker": "Sara",
+      "es": "Perfekt! Sunntig Rigi, Samschtig öppis Gmüetlichs.",
+      "en": "Perfect! Sunday the Rigi, Saturday something cozy.",
+      "options": [
+        { "es": "Top. Wänn und wo treffed mir öis am Sunntig?", "en": "Great. When and where do we meet on Sunday?", "verdict": "good", "feedback": "Nailing down the details — that's how plans actually happen." },
+        { "es": "Tönt super!", "en": "Sounds great!", "verdict": "good", "feedback": "Enthusiastic and positive. You could pin the time too." },
+        { "es": "Mir gseh denn.", "en": "We'll see.", "verdict": "ok", "feedback": "Vague after a plan came together — lock in the time so it's real." }
+      ]
+    },
+    {
+      "speaker": "Sara",
+      "es": "Am nüni am Bahnhof. Ich freu mich uf öis drü!",
+      "en": "At nine at the station. I'm looking forward to the three of us!",
+      "options": [
+        { "es": "Ich au! Bis Sunntig denn, ihr zwöi.", "en": "Me too! See you Sunday then, you two.", "verdict": "good", "feedback": "Warm and confirming. The plan is set and the mood is great." },
+        { "es": "Super, bis denn!", "en": "Great, see you then!", "verdict": "good", "feedback": "Clear and friendly. Well done." },
+        { "es": "Ja ja, bis denn.", "en": "Yeah yeah, see you.", "verdict": "ok", "feedback": "'Ja ja' can sound dismissive — a warmer note suits the good mood." }
+      ]
+    }
+  ]
+}

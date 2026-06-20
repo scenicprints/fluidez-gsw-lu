@@ -1,0 +1,49 @@
+{
+  "id": "sc12",
+  "title": "The dinner invitation",
+  "desc": "Accept and respond graciously",
+  "setting": "Your friend Sara invites you to her family's home for dinner.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Sara",
+      "es": "Wetsch am Friitig zu öis go Znacht ässe?",
+      "en": "Would you like to come to ours for dinner on Friday?",
+      "options": [
+        { "es": "Sehr gärn! Das isch lieb, dass d'mich iiladsch.", "en": "Gladly! It's sweet of you to invite me.", "verdict": "good", "feedback": "Warm acceptance that acknowledges the kindness. Just right." },
+        { "es": "Ja, okay.", "en": "Yes, okay.", "verdict": "ok", "feedback": "Accepts, but flatly. A little warmth honors the invitation." },
+        { "es": "Chund druf aa.", "en": "Depends.", "verdict": "ok", "feedback": "Hesitant for a kind invite — if you can come, say yes warmly." }
+      ]
+    },
+    {
+      "speaker": "Sara",
+      "es": "Super! Mini Eltere fröied sich, dich z'gseh.",
+      "en": "Great! My parents are looking forward to meeting you.",
+      "options": [
+        { "es": "Söll ich öppis mitbringe?", "en": "Should I bring something?", "verdict": "good", "feedback": "Exactly the polite question to ask — it's expected etiquette here." },
+        { "es": "Ich freu mich au!", "en": "I'm looking forward to it too!", "verdict": "good", "feedback": "Warm and natural. You could also offer to bring something." },
+        { "es": "Hoffentlich isch s'Esse guet.", "en": "Hopefully the food is good.", "verdict": "bad", "feedback": "Reads as rude about your hosts' cooking. Avoid — just express thanks." }
+      ]
+    },
+    {
+      "speaker": "Sara",
+      "es": "Nu di säuber! Aber Blueme freued mini Mueter immer.",
+      "en": "Just yourself! But flowers always please my mother.",
+      "options": [
+        { "es": "Denn bring ich ere Blueme. Guete Tipp!", "en": "Then I'll bring her flowers. Good tip!", "verdict": "good", "feedback": "Perfect — you took the hint graciously. That'll land beautifully." },
+        { "es": "Alles klar, merci für de Tipp.", "en": "Got it, thanks for the tip.", "verdict": "good", "feedback": "Easy and friendly. Well handled." },
+        { "es": "Blueme sind teuer.", "en": "Flowers are expensive.", "verdict": "bad", "feedback": "Sounds stingy about a kind gesture. A small bouquet goes a long way here." }
+      ]
+    },
+    {
+      "speaker": "Sara",
+      "es": "Perfekt, denn bis Friitig am sibni!",
+      "en": "Perfect, then see you Friday at seven!",
+      "options": [
+        { "es": "Bis Friitig, ich freu mich! Merci, Sara.", "en": "See you Friday, looking forward to it! Thanks, Sara.", "verdict": "good", "feedback": "Warm, grateful, personal. A model response." },
+        { "es": "Super, bis denn!", "en": "Great, see you then!", "verdict": "good", "feedback": "Friendly and clear." },
+        { "es": "Okay tschüss.", "en": "Okay bye.", "verdict": "ok", "feedback": "A bit flat for such a warm invitation. Show you're pleased." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "sc34",
+  "title": "Too fast for me",
+  "desc": "Ask for a repeat without losing face",
+  "ph": 6,
+  "setting": "A colleague rattles off plans for a work outing at top speed. You catch maybe half.",
+  "steps": [
+    {
+      "speaker": "Kolleg",
+      "es": "Also mir träffed öis am halbi sächsi am Bahnhof bim Gleis drü, okay?",
+      "en": "So we meet at half past five at the station by platform three, okay?",
+      "options": [
+        {
+          "es": "Momänt, chasch das nomal säge? Du bisch mer z'schnäll gsii.",
+          "en": "Hold on, can you say that again? You were too fast for me.",
+          "verdict": "good",
+          "feedback": "Honest, easy, no shame — and you'll actually get the details right."
+        },
+        {
+          "es": "Ja ja, han's verstande.",
+          "en": "Yeah yeah, got it.",
+          "verdict": "bad",
+          "feedback": "You didn't, though — bluffing now means missing the meet-up later."
+        },
+        {
+          "es": "Halbi sächsi... und wo gnau?",
+          "en": "Half five... and where exactly?",
+          "verdict": "good",
+          "feedback": "You repeat what you caught and ask for the rest — smart and natural."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Klar, sorry! Am halbi sächsi. Bim Gleis drü. Abgmacht?",
+      "en": "Sure, sorry! At half five. By platform three. Agreed?",
+      "options": [
+        {
+          "es": "Jetz han ich's. Halbi sächsi, Gleis drü. Merci!",
+          "en": "Now I've got it. Half five, platform three. Thanks!",
+          "verdict": "good",
+          "feedback": "Confirming back the details — exactly how to lock a plan in."
+        },
+        {
+          "es": "Perfekt, bin debii.",
+          "en": "Perfect, I'm in.",
+          "verdict": "good",
+          "feedback": "Clear and committed. Nicely done."
+        },
+        {
+          "es": "Und warum so früeh?",
+          "en": "And why so early?",
+          "verdict": "ok",
+          "feedback": "Fair question, but confirm the plan first so it doesn't slip again."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Super. Übrigens redsch scho rächt guet, nur chli langsam no.",
+      "en": "Great. By the way you speak quite well now, just still a bit slow.",
+      "options": [
+        {
+          "es": "Langsam aber sicher, gäll. S'Schnälle chunnt no.",
+          "en": "Slow but sure, eh. The speed will come.",
+          "verdict": "good",
+          "feedback": "Confident and good-humoured — the right way to take honest feedback."
+        },
+        {
+          "es": "Ich bi froh, verstahsch mi überhaupt.",
+          "en": "I'm glad you understand me at all.",
+          "verdict": "ok",
+          "feedback": "A touch self-deprecating — you're doing better than that, own it."
+        },
+        {
+          "es": "Du redsch eifach z'schnäll.",
+          "en": "You just talk too fast.",
+          "verdict": "ok",
+          "feedback": "Playful blame is okay between colleagues, but keep it light."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Eba! Mir übed's am Fritig zäme bim Apéro.",
+      "en": "Exactly! We'll practise it together at the apéro on Friday.",
+      "options": [
+        {
+          "es": "Abgmacht! Denn lose ich der ganz gnau zue.",
+          "en": "Deal! Then I'll listen to you very closely.",
+          "verdict": "good",
+          "feedback": "Warm and game — turning a stumble into a plan together. Lovely."
+        },
+        {
+          "es": "Gärn, freu mi druf.",
+          "en": "Gladly, looking forward to it.",
+          "verdict": "good",
+          "feedback": "Easy and friendly — a solid close."
+        },
+        {
+          "es": "Wenn ich Ziit han.",
+          "en": "If I have time.",
+          "verdict": "ok",
+          "feedback": "Lukewarm after a kind offer — a clearer yes keeps the goodwill."
+        }
+      ]
+    }
+  ]
+}

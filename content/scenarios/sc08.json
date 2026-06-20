@@ -1,0 +1,49 @@
+{
+  "id": "sc08",
+  "title": "Asking on the bus",
+  "desc": "Make sure you're going the right way",
+  "setting": "You've boarded a bus but aren't sure it goes where you need. You ask a fellow passenger.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Passagier",
+      "es": "Ja bitte?",
+      "en": "Yes?",
+      "options": [
+        { "es": "Entschuldigung, fahrt de Bus zum Bahnhof?", "en": "Excuse me, does this bus go to the station?", "verdict": "good", "feedback": "Clear, polite, and exactly the question you need. Well done." },
+        { "es": "Bahnhof?", "en": "Station?", "verdict": "ok", "feedback": "It might work with a questioning tone, but the full question is clearer." },
+        { "es": "Wo bin ich?", "en": "Where am I?", "verdict": "ok", "feedback": "A bit alarming! Ask specifically whether the bus goes where you want." }
+      ]
+    },
+    {
+      "speaker": "Passagier",
+      "es": "Jaja, de gaht zum Bahnhof, no drü Halt.",
+      "en": "Yes, it goes to the station, three more stops.",
+      "options": [
+        { "es": "Ah super, merci viilmal!", "en": "Oh great, thank you very much!", "verdict": "good", "feedback": "Warm and grateful — perfect." },
+        { "es": "Drü Halt, verstande. Danke!", "en": "Three stops, got it. Thanks!", "verdict": "good", "feedback": "Repeating it back shows you understood. Nice." },
+        { "es": "Sicher?", "en": "Sure?", "verdict": "ok", "feedback": "No need to doubt a helpful local. A simple thanks is enough." }
+      ]
+    },
+    {
+      "speaker": "Passagier",
+      "es": "Ich säg Ihne denn, wänn Sie use mönd.",
+      "en": "I'll tell you when you need to get off.",
+      "options": [
+        { "es": "Das isch sehr nett vo Ihne, merci!", "en": "That's very kind of you, thanks!", "verdict": "good", "feedback": "Lovely — acknowledging the kindness warmly is just right." },
+        { "es": "Oh, danke, das hilft mer.", "en": "Oh, thanks, that helps me.", "verdict": "good", "feedback": "Genuine and friendly." },
+        { "es": "Nöd nötig.", "en": "Not necessary.", "verdict": "ok", "feedback": "They're being kind — let them help. 'Merci' is warmer." }
+      ]
+    },
+    {
+      "speaker": "Passagier",
+      "es": "So, jetz mönd Sie use. Da isch de Bahnhof!",
+      "en": "There, now you get off. Here's the station!",
+      "options": [
+        { "es": "Merci viilmal für d'Hilf, schöne Tag!", "en": "Thanks a lot for the help, nice day!", "verdict": "good", "feedback": "Warm send-off honoring their help. You sound like a local." },
+        { "es": "Perfekt, danke! Tschüss!", "en": "Perfect, thanks! Bye!", "verdict": "good", "feedback": "Friendly and natural." },
+        { "es": "Okay.", "en": "Okay.", "verdict": "ok", "feedback": "Too flat after they watched out for your stop. Thank them properly." }
+      ]
+    }
+  ]
+}

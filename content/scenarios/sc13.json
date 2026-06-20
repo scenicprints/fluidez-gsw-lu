@@ -1,0 +1,49 @@
+{
+  "id": "sc13",
+  "title": "Talking about your past",
+  "desc": "Share where you come from",
+  "setting": "At dinner, Sara's father asks about your life before Lucerne.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Vater",
+      "es": "Also Tom, erzäll: wohär chunsch und was häsch früener gmacht?",
+      "en": "So Tom, tell us: where are you from and what did you do before?",
+      "options": [
+        { "es": "Ich bi z'Amerika ufgwachse und han als Ingenieur gschafft.", "en": "I grew up in America and worked as an engineer.", "verdict": "good", "feedback": "Clear past-tense narration — origin and work in one neat answer." },
+        { "es": "Amerika, Ingenieur.", "en": "America, engineer.", "verdict": "ok", "feedback": "The facts are there but it's clipped. Full sentences invite warmth." },
+        { "es": "Lang gschicht.", "en": "Long story.", "verdict": "ok", "feedback": "Leaves him hanging — he asked because he's interested. Give him a little." }
+      ]
+    },
+    {
+      "speaker": "Vater",
+      "es": "Spannend! Und warum bisch grad uf Luzärn cho?",
+      "en": "Interesting! And why did you come to Lucerne of all places?",
+      "options": [
+        { "es": "Wäge de Arbet, aber blibe wäge de Lüt und em See.", "en": "For work, but I'm staying for the people and the lake.", "verdict": "good", "feedback": "Lovely answer — and crediting the people will warm any local's heart." },
+        { "es": "Wäge de Arbet.", "en": "Because of work.", "verdict": "good", "feedback": "Honest and clear. A little more would make it sing, but this is solid." },
+        { "es": "Zuefall.", "en": "Coincidence.", "verdict": "ok", "feedback": "A touch dismissive of his town. Even 'work brought me, but I love it' is warmer." }
+      ]
+    },
+    {
+      "speaker": "Vater",
+      "es": "Vermissisch dini Familie nöd?",
+      "en": "Don't you miss your family?",
+      "options": [
+        { "es": "Doch, scho. Aber mer telefoniered oft, und da han ich au Lüt gärn.", "en": "Yes, I do. But we call often, and I care for people here too.", "verdict": "good", "feedback": "Honest and heartfelt — and it gently includes his family. Beautifully judged." },
+        { "es": "Mängisch, ja.", "en": "Sometimes, yes.", "verdict": "good", "feedback": "Genuine and fine. You can leave it there or add a hopeful note." },
+        { "es": "Nei, gar nöd.", "en": "No, not at all.", "verdict": "ok", "feedback": "Sounds a little cold — most people miss family sometimes, and honesty connects." }
+      ]
+    },
+    {
+      "speaker": "Vater",
+      "es": "Du bisch da immer willkomme, das weisch, gäll?",
+      "en": "You're always welcome here, you know that, right?",
+      "options": [
+        { "es": "Das bedütet mer viel. Merci viilmal.", "en": "That means a lot to me. Thank you very much.", "verdict": "good", "feedback": "Sincere and moving — exactly how to receive such warmth." },
+        { "es": "Merci, das isch sehr lieb.", "en": "Thanks, that's very kind.", "verdict": "good", "feedback": "Gracious and warm. Lovely." },
+        { "es": "Ja, weiss ich.", "en": "Yeah, I know.", "verdict": "ok", "feedback": "Undersells a heartfelt moment. Let him see it touched you." }
+      ]
+    }
+  ]
+}

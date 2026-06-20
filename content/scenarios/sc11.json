@@ -1,0 +1,49 @@
+{
+  "id": "sc11",
+  "title": "At the party",
+  "desc": "Introduce yourself to new people",
+  "setting": "At Lukas's party, someone you haven't met turns to you.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Nina",
+      "es": "Sali! Dich han ich no nie gseh. Wär bisch du?",
+      "en": "Hi! I've never seen you before. Who are you?",
+      "options": [
+        { "es": "Sali! Ich bi de Tom, e Fründ vom Lukas.", "en": "Hi! I'm Tom, a friend of Lukas.", "verdict": "good", "feedback": "Perfect — name plus how you fit in. That's exactly how to place yourself at a party." },
+        { "es": "Tom.", "en": "Tom.", "verdict": "ok", "feedback": "Gives your name but little to grab onto. Mentioning Lukas would open the chat." },
+        { "es": "Wieso wotsch das wüsse?", "en": "Why do you want to know?", "verdict": "bad", "feedback": "Way too guarded at a friendly party — she's just being sociable." }
+      ]
+    },
+    {
+      "speaker": "Nina",
+      "es": "Ah schön! Ich bi d'Nina. Wohär chunsch?",
+      "en": "Ah nice! I'm Nina. Where are you from?",
+      "options": [
+        { "es": "Us Amerika. Ich wohne sit es halbs Jahr da.", "en": "From America. I've lived here for half a year.", "verdict": "good", "feedback": "Great — gives her two things to ask about. Conversation flows from detail." },
+        { "es": "Us Amerika.", "en": "From America.", "verdict": "good", "feedback": "Clear and fine. A touch more detail would invite more chat." },
+        { "es": "Rate mal.", "en": "Guess.", "verdict": "ok", "feedback": "Playful, but can fall flat with someone you just met. Keep it easy." }
+      ]
+    },
+    {
+      "speaker": "Nina",
+      "es": "Und wie gfallt's dir z'Luzärn?",
+      "en": "And how do you like Lucerne?",
+      "options": [
+        { "es": "Sehr guet! D'Lüt sind fründlich und de See isch traumhaft.", "en": "Very much! The people are friendly and the lake is dreamlike.", "verdict": "good", "feedback": "Warm and specific — locals love hearing what you appreciate about home." },
+        { "es": "Es gfallt mer guet.", "en": "I like it.", "verdict": "good", "feedback": "Perfectly nice, if a little brief." },
+        { "es": "Es gaht.", "en": "It's okay.", "verdict": "ok", "feedback": "Lukewarm — and a Lucerner might take it personally. A little warmth goes far." }
+      ]
+    },
+    {
+      "speaker": "Nina",
+      "es": "Schön, dass d'da bisch! Mir gsehnd öis sicher wider.",
+      "en": "Glad you're here! We'll surely see each other again.",
+      "options": [
+        { "es": "Das hoff ich! Es het mich gfreut, Nina.", "en": "I hope so! Nice to meet you, Nina.", "verdict": "good", "feedback": "Warm and personal, using her name. A great first impression." },
+        { "es": "Ja, gärn! Bis bald.", "en": "Yes, gladly! See you soon.", "verdict": "good", "feedback": "Friendly and open. Nicely done." },
+        { "es": "Mal luege.", "en": "We'll see.", "verdict": "ok", "feedback": "A bit noncommittal after a warm chat. Match her openness." }
+      ]
+    }
+  ]
+}

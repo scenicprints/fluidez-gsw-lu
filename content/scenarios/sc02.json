@@ -1,0 +1,49 @@
+{
+  "id": "sc02",
+  "title": "Meeting Lukas",
+  "desc": "Introduce yourself to a new acquaintance",
+  "setting": "On the train, a friendly young man strikes up a conversation.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Lukas",
+      "es": "Sali! Wohär chunsch?",
+      "en": "Hi! Where are you from?",
+      "options": [
+        { "es": "Sali! Ich chume us Amerika.", "en": "Hi! I come from America.", "verdict": "good", "feedback": "Great — 'ich chume us...' is exactly how to say where you're from." },
+        { "es": "Amerika.", "en": "America.", "verdict": "ok", "feedback": "He'll understand, but a full sentence sounds friendlier. Return his 'Sali' too." },
+        { "es": "Ich verstande nöd.", "en": "I don't understand.", "verdict": "ok", "feedback": "Honest if you're lost — but this one you can handle. 'Ich chume us...' is the answer." }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Aha, schön! Und wie heissisch?",
+      "en": "Ah, nice! And what's your name?",
+      "options": [
+        { "es": "Ich heisse Tom. Und du?", "en": "My name is Tom. And you?", "verdict": "good", "feedback": "Perfect — answering and turning the question back keeps the chat flowing." },
+        { "es": "Tom.", "en": "Tom.", "verdict": "ok", "feedback": "Fine, though 'ich heisse Tom, und du?' feels warmer and keeps it going." },
+        { "es": "Wieso fragsch?", "en": "Why are you asking?", "verdict": "bad", "feedback": "That comes off suspicious — he's just being friendly. Swiss small talk is gentle; meet it." }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Ich bi de Lukas. Wohnsch jetz da z'Luzärn?",
+      "en": "I'm Lukas. Do you live here in Lucerne now?",
+      "options": [
+        { "es": "Ja, ich bi grad iizoge. Es gfallt mer.", "en": "Yes, I just moved in. I like it.", "verdict": "good", "feedback": "Lovely — sharing that you like it invites a warm response. Natural and open." },
+        { "es": "Ja, ich wohne da.", "en": "Yes, I live here.", "verdict": "good", "feedback": "Clear and correct. A little detail would make it warmer, but this is solid." },
+        { "es": "Das gaht di nüt aa.", "en": "That's none of your business.", "verdict": "bad", "feedback": "Far too cold for friendly small talk! He's being kind — keep it open." }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Schön di z'kenne! Viel Glück z'Luzärn.",
+      "en": "Nice to meet you! Good luck in Lucerne.",
+      "options": [
+        { "es": "Merci glich, Lukas. Tschüss!", "en": "Thanks likewise, Lukas. Bye!", "verdict": "good", "feedback": "Warm and natural — using his name and 'merci glich' is a perfect sign-off." },
+        { "es": "Danke, dir au!", "en": "Thanks, you too!", "verdict": "good", "feedback": "Friendly and easy. 'Dir au' (you too) is just right." },
+        { "es": "Okay.", "en": "Okay.", "verdict": "ok", "feedback": "A bit flat after such a friendly chat. A 'merci' and 'tschüss' would land better." }
+      ]
+    }
+  ]
+}

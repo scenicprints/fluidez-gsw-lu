@@ -1,0 +1,49 @@
+{
+  "id": "sc09",
+  "title": "At the doctor",
+  "desc": "Describe your symptoms",
+  "setting": "You're at the doctor's office, not feeling well.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Dokter",
+      "es": "Grüezi, chömed Sie ine. Was händ Sie für Beschwärde?",
+      "en": "Hello, come in. What's troubling you?",
+      "options": [
+        { "es": "De Hals tuet weh und ich ha Fieber.", "en": "My throat hurts and I have a fever.", "verdict": "good", "feedback": "Clear symptom description — exactly what the doctor needs." },
+        { "es": "Ich bi chrank.", "en": "I'm sick.", "verdict": "ok", "feedback": "True, but vague. Naming the symptoms helps the doctor help you." },
+        { "es": "Ich weiss nöd.", "en": "I don't know.", "verdict": "ok", "feedback": "Try to describe what you feel — even 'mer isch nöd guet' plus where it hurts." }
+      ]
+    },
+    {
+      "speaker": "Dokter",
+      "es": "Sit wänn händ Sie das?",
+      "en": "Since when have you had this?",
+      "options": [
+        { "es": "Sit geschter Aabig öppe.", "en": "Since about yesterday evening.", "verdict": "good", "feedback": "Good — a clear timeframe. 'Öppe' (about) is a handy softener." },
+        { "es": "Es paar Täg scho.", "en": "A few days already.", "verdict": "good", "feedback": "Clear and natural." },
+        { "es": "Kei Ahnig.", "en": "No idea.", "verdict": "ok", "feedback": "Try to estimate — 'sit geschter' or 'sit es paar Täg' helps the diagnosis." }
+      ]
+    },
+    {
+      "speaker": "Dokter",
+      "es": "Ich lueg mal. Ja, e Erkältig. Nüt Schlimms.",
+      "en": "Let me look. Yes, a cold. Nothing serious.",
+      "options": [
+        { "es": "Was chan ich degege mache?", "en": "What can I do about it?", "verdict": "good", "feedback": "Exactly the right follow-up — asking for treatment advice." },
+        { "es": "Oh guet, da bin ich erlichteret.", "en": "Oh good, I'm relieved.", "verdict": "good", "feedback": "Natural and human. Then you can ask what to do." },
+        { "es": "Sicher nu e Erkältig?", "en": "Sure it's just a cold?", "verdict": "ok", "feedback": "Trust the doctor's read — but it's fine to ask what to watch for." }
+      ]
+    },
+    {
+      "speaker": "Dokter",
+      "es": "Trinked viel, ruehed sich us. I es paar Täg gaht's bsser.",
+      "en": "Drink lots, rest. In a few days it'll be better.",
+      "options": [
+        { "es": "Merci viilmal, Herr Dokter!", "en": "Thank you very much, doctor!", "verdict": "good", "feedback": "Warm and respectful close. Perfect." },
+        { "es": "Guet, das mach ich. Danke!", "en": "Good, I'll do that. Thanks!", "verdict": "good", "feedback": "Shows you'll follow the advice. Nicely done." },
+        { "es": "Nu das?", "en": "Just that?", "verdict": "ok", "feedback": "For a cold, rest really is the cure — no need for more." }
+      ]
+    }
+  ]
+}

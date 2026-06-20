@@ -1,0 +1,109 @@
+{
+  "id": "sc33",
+  "title": "Are you local?",
+  "desc": "Someone mistakes you for a native",
+  "ph": 6,
+  "setting": "At a bus stop, a tourist asks you for directions in halting German, assuming you're a local.",
+  "steps": [
+    {
+      "speaker": "Tourist",
+      "es": "Entschuldigung, wüssed Sie, wo de Löwedänkmal isch?",
+      "en": "Excuse me, do you know where the Lion Monument is?",
+      "options": [
+        {
+          "es": "Ja klar! Da dure und denn linggs, öppe fümf Minute.",
+          "en": "Yes of course! Through there and then left, about five minutes.",
+          "verdict": "good",
+          "feedback": "Confident, local, and helpful — they'd never guess you're not from here."
+        },
+        {
+          "es": "Ähm, ich bi au nöd sicher.",
+          "en": "Um, I'm not sure either.",
+          "verdict": "ok",
+          "feedback": "If you do know it, own it — you've earned the local's confidence."
+        },
+        {
+          "es": "Ich bi nöd vo da.",
+          "en": "I'm not from here.",
+          "verdict": "ok",
+          "feedback": "Ironic, since they took you for a native! If you know the way, just help."
+        }
+      ]
+    },
+    {
+      "speaker": "Tourist",
+      "es": "Oh super, merci! Sie kenned sich ja guet uus.",
+      "en": "Oh great, thanks! You know your way around well.",
+      "options": [
+        {
+          "es": "Ja, ich wohne da. S'isch e schöni Stadt, gäll.",
+          "en": "Yes, I live here. It's a beautiful city, isn't it.",
+          "verdict": "good",
+          "feedback": "Easy local pride — and a quiet thrill at being seen as one of them."
+        },
+        {
+          "es": "Mer lärnt's mit de Ziit.",
+          "en": "You learn it with time.",
+          "verdict": "good",
+          "feedback": "Modest and true — a nice, grounded reply."
+        },
+        {
+          "es": "Eigentli bin ich au nöd lang da.",
+          "en": "Actually I haven't been here long either.",
+          "verdict": "ok",
+          "feedback": "No need to downplay it — to them, you're as local as they come."
+        }
+      ]
+    },
+    {
+      "speaker": "Tourist",
+      "es": "Chönd Sie mer no es guets Restaurant empfehle?",
+      "en": "Could you recommend a good restaurant too?",
+      "options": [
+        {
+          "es": "Gärn! Probiered s'Wirtshuus a de Reuss, das isch fein.",
+          "en": "Gladly! Try the inn by the Reuss, it's lovely.",
+          "verdict": "good",
+          "feedback": "A real local tip delivered with ease. You're the expert now."
+        },
+        {
+          "es": "Es git viili, chunnt druf aa, was Sie möged.",
+          "en": "There are many, depends on what you like.",
+          "verdict": "good",
+          "feedback": "Thoughtful and helpful — a natural follow-up question would seal it."
+        },
+        {
+          "es": "Kei Ahnig, suechid Sie im Internet.",
+          "en": "No idea, look it up online.",
+          "verdict": "bad",
+          "feedback": "Dismissive when you could shine — offer even one place you like."
+        }
+      ]
+    },
+    {
+      "speaker": "Tourist",
+      "es": "Sie sind sehr fründlich. Vielä Dank und schöne Tag!",
+      "en": "You're very friendly. Many thanks and have a nice day!",
+      "options": [
+        {
+          "es": "Bitte gärn, viel Spass z'Luzärn! Tschüss.",
+          "en": "You're very welcome, enjoy Lucerne! Bye.",
+          "verdict": "good",
+          "feedback": "Warm, local, complete. A lovely full-circle moment for you."
+        },
+        {
+          "es": "Glichfalls, en schöne Ufenthalt!",
+          "en": "Likewise, a lovely stay!",
+          "verdict": "good",
+          "feedback": "Gracious and natural — exactly what a local would say."
+        },
+        {
+          "es": "Jaja, tschüss.",
+          "en": "Yeah yeah, bye.",
+          "verdict": "ok",
+          "feedback": "A bit curt after such thanks — a warmer send-off costs nothing."
+        }
+      ]
+    }
+  ]
+}

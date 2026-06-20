@@ -1,0 +1,109 @@
+{
+  "id": "sc25",
+  "title": "Opening up",
+  "desc": "Share something that matters",
+  "ph": 4,
+  "setting": "You're with your partner on a quiet evening. You want to share a fear you've been carrying about your life here.",
+  "steps": [
+    {
+      "speaker": "Du",
+      "es": "(You want to open up about something hard. How do you start?)",
+      "en": "(You want to open up about something hard. How do you start?)",
+      "options": [
+        {
+          "es": "Cha ich der öppis säge, wo mi scho lang beschäftiget?",
+          "en": "Can I tell you something that's been on my mind for a while?",
+          "verdict": "good",
+          "feedback": "Signals you're being vulnerable and invites her in gently. Lovely opening."
+        },
+        {
+          "es": "Ich mues der öppis säge.",
+          "en": "I have to tell you something.",
+          "verdict": "ok",
+          "feedback": "Works, but it can sound ominous — a softer lead-in puts her at ease."
+        },
+        {
+          "es": "Es isch villicht blöd, aber...",
+          "en": "It's probably stupid, but...",
+          "verdict": "ok",
+          "feedback": "Don't pre-dismiss your own feelings — they're worth saying plainly."
+        }
+      ]
+    },
+    {
+      "speaker": "Partnerin",
+      "es": "Natürli. Du chasch mer alls säge. Was isch?",
+      "en": "Of course. You can tell me anything. What is it?",
+      "options": [
+        {
+          "es": "Mängisch han ich Angscht, ich ghör da nie würkli derzue.",
+          "en": "Sometimes I'm afraid I'll never really belong here.",
+          "verdict": "good",
+          "feedback": "Honest and clear about the real fear. This is true intimacy."
+        },
+        {
+          "es": "Es isch nüt Schlimms, eigentli.",
+          "en": "It's nothing serious, really.",
+          "verdict": "ok",
+          "feedback": "You're backing away from what you opened. Trust her and say it."
+        },
+        {
+          "es": "Vergiss es, isch nöd wichtig.",
+          "en": "Forget it, it's not important.",
+          "verdict": "bad",
+          "feedback": "Shutting down now leaves her worried and you unheard. Stay open."
+        }
+      ]
+    },
+    {
+      "speaker": "Partnerin",
+      "es": "Das ghör ich zum erste Mal. Verzell mer meh.",
+      "en": "This is the first I'm hearing of it. Tell me more.",
+      "options": [
+        {
+          "es": "Ich bi vo so wiit här. Mängisch fühl ich mi zwüschet zwei Wälte.",
+          "en": "I'm from so far away. Sometimes I feel caught between two worlds.",
+          "verdict": "good",
+          "feedback": "You trust her with the full picture. That's how closeness deepens."
+        },
+        {
+          "es": "Es isch schwär z'erkläre.",
+          "en": "It's hard to explain.",
+          "verdict": "ok",
+          "feedback": "It is hard — but trying, even clumsily, means more than staying silent."
+        },
+        {
+          "es": "Lömmer's, ich wott der nöd de Aabig verderbe.",
+          "en": "Let's drop it, I don't want to ruin your evening.",
+          "verdict": "bad",
+          "feedback": "She wants to be there for you — don't protect her out of the moment."
+        }
+      ]
+    },
+    {
+      "speaker": "Partnerin",
+      "es": "Du ghörsch zu mir. Das isch dis Dehei, und ich bi da.",
+      "en": "You belong with me. This is your home, and I'm here.",
+      "options": [
+        {
+          "es": "Das z'höre bedütet mer mee, als du dänksch.",
+          "en": "Hearing that means more to me than you know.",
+          "verdict": "good",
+          "feedback": "Receives her reassurance openly. A tender, honest close."
+        },
+        {
+          "es": "Merci. Ich han mi besser gfühlt, wenn ich's gseit han.",
+          "en": "Thank you. I felt better once I'd said it.",
+          "verdict": "good",
+          "feedback": "Names the relief of opening up — affirms her listening was worth it."
+        },
+        {
+          "es": "Ja ja, scho guet.",
+          "en": "Yeah yeah, it's fine.",
+          "verdict": "bad",
+          "feedback": "Brushing off her warmth after she met you there is a missed moment."
+        }
+      ]
+    }
+  ]
+}

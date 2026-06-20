@@ -1,0 +1,109 @@
+{
+  "id": "sc39",
+  "title": "The reunion question",
+  "desc": "Reflect on your journey out loud",
+  "ph": 7,
+  "setting": "An old friend from America is visiting and asks, over dinner, whether it was all worth it.",
+  "steps": [
+    {
+      "speaker": "Fründ",
+      "es": "Sag ehrlich: hät sich das alls glohnt, so wiit weg z'zieh?",
+      "en": "Tell me honestly: was it all worth it, moving so far away?",
+      "options": [
+        {
+          "es": "Ja. Es isch hert gsii, aber ich würd's wider mache.",
+          "en": "Yes. It was hard, but I'd do it again.",
+          "verdict": "good",
+          "feedback": "Honest about the cost and the reward both — a grounded, earned answer."
+        },
+        {
+          "es": "Schwierigi Frog.",
+          "en": "Tough question.",
+          "verdict": "ok",
+          "feedback": "It is — but they came a long way to ask, so let them in a little."
+        },
+        {
+          "es": "Klar, alls super!",
+          "en": "Sure, everything's great!",
+          "verdict": "ok",
+          "feedback": "A bit glib — the truth, including the hard parts, would mean more to an old friend."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Was isch s'Schwerschte gsii, ehrlich?",
+      "en": "What was the hardest part, honestly?",
+      "options": [
+        {
+          "es": "Am Aafang d'Eismkeit. Niemmer kenne, niemmer verstah.",
+          "en": "At the start, the loneliness. Knowing no one, understanding no one.",
+          "verdict": "good",
+          "feedback": "Real and vulnerable — this is the kind of honesty that deepens an old friendship."
+        },
+        {
+          "es": "D'Sproch, ganz klar.",
+          "en": "The language, clearly.",
+          "verdict": "good",
+          "feedback": "Honest and relatable. You could add a word on how it felt, but this is solid."
+        },
+        {
+          "es": "Eigentli nüt Bsundrigs.",
+          "en": "Nothing special really.",
+          "verdict": "ok",
+          "feedback": "That can't be quite true after such a journey — trust them with the real answer."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Und jetz? Fühlsch di würkli dehei da?",
+      "en": "And now? Do you really feel at home here?",
+      "options": [
+        {
+          "es": "Ja. Nöd well alls perfekt isch, sondern well's mis isch.",
+          "en": "Yes. Not because it's all perfect, but because it's mine.",
+          "verdict": "good",
+          "feedback": "A profound, hard-won line — this is what arrival actually sounds like."
+        },
+        {
+          "es": "Meh als ich dänkt hätt, ehrlich.",
+          "en": "More than I'd have thought, honestly.",
+          "verdict": "good",
+          "feedback": "Quietly moving and true. Lovely."
+        },
+        {
+          "es": "Mängisch scho, mängisch nöd.",
+          "en": "Sometimes yes, sometimes no.",
+          "verdict": "ok",
+          "feedback": "Honest, but you've come further than that — let yourself claim it."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Ich bi würkli stolz uf di. Du häsch der es ganz neus Läbe ufbout.",
+      "en": "I'm really proud of you. You've built yourself a whole new life.",
+      "options": [
+        {
+          "es": "Das bedütet mer viel, vo dir. Merci, dass d'cho bisch.",
+          "en": "That means a lot, coming from you. Thanks for coming.",
+          "verdict": "good",
+          "feedback": "Warm, grateful, and present — a beautiful way to receive an old friend's pride."
+        },
+        {
+          "es": "Mer wachst halt a de Useforderige.",
+          "en": "You grow through the challenges, after all.",
+          "verdict": "good",
+          "feedback": "Reflective and wise — a graceful response."
+        },
+        {
+          "es": "Ach, so bsundrig isch es nöd.",
+          "en": "Oh, it's not that special.",
+          "verdict": "ok",
+          "feedback": "Don't wave it away — you did something genuinely hard. Let them say it."
+        }
+      ]
+    }
+  ]
+}

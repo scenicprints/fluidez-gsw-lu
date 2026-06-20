@@ -1,0 +1,109 @@
+{
+  "id": "sc37",
+  "title": "Catching the joke",
+  "desc": "Read dry irony and play along",
+  "ph": 7,
+  "setting": "It's been raining for a week. A colleague comments dryly as you both look out the window at the downpour.",
+  "steps": [
+    {
+      "speaker": "Kolleg",
+      "es": "Herrlichs Summerwätter hämmer hüt, gäll.",
+      "en": "Glorious summer weather we're having today, eh.",
+      "options": [
+        {
+          "es": "Eba, ich han scho überleit, d'Badhose aazlege.",
+          "en": "Right, I was already thinking of putting on my swimming trunks.",
+          "verdict": "good",
+          "feedback": "You caught the irony and topped it — dry humour returned in kind. Perfectly native."
+        },
+        {
+          "es": "Ja, schöns Wätter, oder?",
+          "en": "Yes, nice weather, isn't it?",
+          "verdict": "ok",
+          "feedback": "You missed the wink — he meant the opposite. Play along with the joke."
+        },
+        {
+          "es": "Nei, es rägnet ja.",
+          "en": "No, it's raining.",
+          "verdict": "bad",
+          "feedback": "Taking the irony literally lands flat — that was the whole gag."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Ha! Genau, und nochhär no schnäll go sünnele.",
+      "en": "Ha! Exactly, and then quickly off to sunbathe afterwards.",
+      "options": [
+        {
+          "es": "Klar, mit em Schirm als Sunneschutz.",
+          "en": "Sure, with the umbrella as sun protection.",
+          "verdict": "good",
+          "feedback": "You're volleying the joke back and forth now — this is fluency at its most fun."
+        },
+        {
+          "es": "Hoffentli hört's bald uf.",
+          "en": "Hopefully it stops soon.",
+          "verdict": "ok",
+          "feedback": "You've slipped out of the bit into earnest — stay in the playful register a beat longer."
+        },
+        {
+          "es": "Sünnele bi dem Wätter?",
+          "en": "Sunbathe in this weather?",
+          "verdict": "ok",
+          "feedback": "Close, but questioning it breaks the game — just escalate the absurdity instead."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Du häsch de Schwiizer Humor langsam intus, scho.",
+      "en": "You're slowly getting the hang of Swiss humour, you know.",
+      "options": [
+        {
+          "es": "Mer git sich Müe, gäll. S'Wätter hilft ja täglich zum Übe.",
+          "en": "One makes an effort, eh. The weather offers daily practice, after all.",
+          "verdict": "good",
+          "feedback": "Self-deprecating and dry in one breath — you've fully internalised the style."
+        },
+        {
+          "es": "Merci, das freut mi würkli.",
+          "en": "Thanks, that really pleases me.",
+          "verdict": "good",
+          "feedback": "Warm and genuine — a lovely way to receive the compliment."
+        },
+        {
+          "es": "Findsch? Ich merk's gar nöd.",
+          "en": "You think? I don't notice it at all.",
+          "verdict": "ok",
+          "feedback": "You clearly do — take the credit with a smile."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Chum, mir hole öis en Kafi und lueged em Räge zue.",
+      "en": "Come on, let's get a coffee and watch the rain.",
+      "options": [
+        {
+          "es": "Beschti Idee vom Tag. S'Käfeli rettet alls.",
+          "en": "Best idea of the day. A little coffee saves everything.",
+          "verdict": "good",
+          "feedback": "Easy, warm, diminutive and all — you sound completely at home."
+        },
+        {
+          "es": "Gärn, bi sonem Wätter erscht rächt.",
+          "en": "Gladly, in weather like this all the more.",
+          "verdict": "good",
+          "feedback": "Natural and good-humoured — a perfect close to the exchange."
+        },
+        {
+          "es": "Okay, aber denn zrugg a d'Arbet.",
+          "en": "Okay, but then back to work.",
+          "verdict": "ok",
+          "feedback": "A bit dutiful for the cosy mood — let the moment breathe."
+        }
+      ]
+    }
+  ]
+}

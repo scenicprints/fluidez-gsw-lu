@@ -1,0 +1,109 @@
+{
+  "id": "sc27",
+  "title": "Join the club?",
+  "desc": "Someone invites you into their Verein",
+  "ph": 5,
+  "setting": "A neighbour mentions their hiking club and floats the idea of you joining.",
+  "steps": [
+    {
+      "speaker": "Nachber",
+      "es": "Mir händ en Wanderverein. Wär das nöd öppis für di?",
+      "en": "We have a hiking club. Wouldn't that be something for you?",
+      "options": [
+        {
+          "es": "Doch, das tönt würkli guet. Verzell mer meh!",
+          "en": "Actually, that sounds really good. Tell me more!",
+          "verdict": "good",
+          "feedback": "Open and curious — clubs are the fast track to belonging here."
+        },
+        {
+          "es": "Ich weiss nöd, ob ich Ziit han.",
+          "en": "I don't know if I have time.",
+          "verdict": "ok",
+          "feedback": "Cautious is okay, but at least ask what's involved before stepping back."
+        },
+        {
+          "es": "Verein? Das isch nöd so mis Ding.",
+          "en": "A club? That's not really my thing.",
+          "verdict": "ok",
+          "feedback": "Fair, but Vereine are central to Swiss social life — worth a try before ruling out."
+        }
+      ]
+    },
+    {
+      "speaker": "Nachber",
+      "es": "Mir träffed öis eismal im Monet und wandered zäme.",
+      "en": "We meet once a month and hike together.",
+      "options": [
+        {
+          "es": "Eismal im Monet, das chunnt mer guet. Wänn isch s'nöchschte Mal?",
+          "en": "Once a month works well for me. When's the next one?",
+          "verdict": "good",
+          "feedback": "Practical and keen — you're already half in. Lovely."
+        },
+        {
+          "es": "Und was chostet das?",
+          "en": "And what does it cost?",
+          "verdict": "ok",
+          "feedback": "A fair question, but lead with interest — the fee is usually small."
+        },
+        {
+          "es": "Mues mer da guet sii im Wandere?",
+          "en": "Do you have to be good at hiking?",
+          "verdict": "good",
+          "feedback": "A natural, friendly question that shows you're seriously considering it."
+        }
+      ]
+    },
+    {
+      "speaker": "Nachber",
+      "es": "Gar nöd, mir gönd's gmüetlich aa. Hauptsach mer isch debii.",
+      "en": "Not at all, we take it easy. The main thing is being there.",
+      "options": [
+        {
+          "es": "Denn bin ich gärn debii. Merci für d'Iiladig!",
+          "en": "Then I'm happy to join. Thanks for the invitation!",
+          "verdict": "good",
+          "feedback": "A clear, warm yes. This is how you build a life here."
+        },
+        {
+          "es": "Guet, ich überleg's mer.",
+          "en": "Good, I'll think about it.",
+          "verdict": "ok",
+          "feedback": "After such a friendly opening, a yes would land warmer than a maybe."
+        },
+        {
+          "es": "Mal luege.",
+          "en": "We'll see.",
+          "verdict": "ok",
+          "feedback": "Pretty cool in response to genuine kindness — give them a bit more."
+        }
+      ]
+    },
+    {
+      "speaker": "Nachber",
+      "es": "Super! Ich nimm di is Gruppe-Chat ufe, denn weisch alls.",
+      "en": "Great! I'll add you to the group chat, then you'll know everything.",
+      "options": [
+        {
+          "es": "Perfekt, ich freu mi druf. Bis bald!",
+          "en": "Perfect, I'm looking forward to it. See you soon!",
+          "verdict": "good",
+          "feedback": "Easy and warm. You've just opened a whole new circle for yourself."
+        },
+        {
+          "es": "Okay, danke villmal.",
+          "en": "Okay, thanks a lot.",
+          "verdict": "good",
+          "feedback": "Polite and friendly — a solid, gracious close."
+        },
+        {
+          "es": "Aber nöd z'viel Nachrichte, bitte.",
+          "en": "But not too many messages, please.",
+          "verdict": "ok",
+          "feedback": "A bit prickly right at the welcome — save the boundary for later if needed."
+        }
+      ]
+    }
+  ]
+}

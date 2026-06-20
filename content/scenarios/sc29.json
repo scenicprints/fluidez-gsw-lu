@@ -1,0 +1,109 @@
+{
+  "id": "sc29",
+  "title": "The unwritten rule",
+  "desc": "A neighbour points out a faux pas",
+  "ph": 5,
+  "setting": "It's Sunday morning and you've started the washing machine. Your neighbour knocks, friendly but pointed.",
+  "steps": [
+    {
+      "speaker": "Nachberin",
+      "es": "Grüezi. Säged Sie, wäsched Sie grad? Am Sunntig?",
+      "en": "Hello. Tell me, are you doing laundry? On a Sunday?",
+      "options": [
+        {
+          "es": "Oh, isch das es Problem? Das han ich nöd gwüsst, Entschuldigung.",
+          "en": "Oh, is that a problem? I didn't know that, sorry.",
+          "verdict": "good",
+          "feedback": "Open, humble, ready to learn — disarms it instantly."
+        },
+        {
+          "es": "Ja, han ich öppis falsch gmacht?",
+          "en": "Yes, did I do something wrong?",
+          "verdict": "ok",
+          "feedback": "Fine, but a hint of defensiveness — receive the correction gently."
+        },
+        {
+          "es": "Das isch doch mini Sach.",
+          "en": "That's my own business, surely.",
+          "verdict": "bad",
+          "feedback": "Technically maybe, but this attitude sours years of neighbourly peace."
+        }
+      ]
+    },
+    {
+      "speaker": "Nachberin",
+      "es": "Am Sunntig isch Rueh, gäll. Mer wäscht da nöd, das stört.",
+      "en": "Sunday is a quiet day, you see. You don't do laundry then, it disturbs.",
+      "options": [
+        {
+          "es": "Verstande, das mach ich ab jetz anders. Merci fürs Säge.",
+          "en": "Understood, I'll do it differently from now on. Thanks for telling me.",
+          "verdict": "good",
+          "feedback": "Gracious and practical — she'll remember you as the good kind of newcomer."
+        },
+        {
+          "es": "Aber d'Maschine isch doch nöd so laut.",
+          "en": "But the machine isn't that loud.",
+          "verdict": "ok",
+          "feedback": "Arguing the point misses it — the rule is about the day, not the decibels."
+        },
+        {
+          "es": "Wo staht das gschribe?",
+          "en": "Where is that written down?",
+          "verdict": "bad",
+          "feedback": "It isn't written anywhere — that's exactly the kind of rule you just accept."
+        }
+      ]
+    },
+    {
+      "speaker": "Nachberin",
+      "es": "Schön, dass Sie's verstönd. Die meischte Nöie wüssed das nöd.",
+      "en": "Nice that you understand. Most newcomers don't know it.",
+      "options": [
+        {
+          "es": "Ich lärne gärn dezue. Gits no anderi söttigi Reglä?",
+          "en": "I'm glad to learn. Are there other rules like that?",
+          "verdict": "good",
+          "feedback": "Turning a telling-off into curiosity — brilliant. She'll happily help you now."
+        },
+        {
+          "es": "Ja ja, ich weiss jetz.",
+          "en": "Yeah yeah, I know now.",
+          "verdict": "ok",
+          "feedback": "A touch dismissive after she was patient — a warmer note costs nothing."
+        },
+        {
+          "es": "Es git aber scho viel z'merke.",
+          "en": "There's an awful lot to keep track of, though.",
+          "verdict": "ok",
+          "feedback": "True and human, but framing it positively keeps her on your side."
+        }
+      ]
+    },
+    {
+      "speaker": "Nachberin",
+      "es": "Gärn erklär ich Ihne mal alls bi me Kafi.",
+      "en": "I'd happily explain it all to you over a coffee sometime.",
+      "options": [
+        {
+          "es": "Das wär würkli nett, sehr gärn. Merci!",
+          "en": "That would be really kind, I'd love to. Thanks!",
+          "verdict": "good",
+          "feedback": "A scolding just became a friendship. That's the whole art of it."
+        },
+        {
+          "es": "Guet, mal luege.",
+          "en": "Good, we'll see.",
+          "verdict": "ok",
+          "feedback": "She's extending real warmth — meet it with a clearer yes."
+        },
+        {
+          "es": "Ich will Sie nöd störe.",
+          "en": "I don't want to bother you.",
+          "verdict": "ok",
+          "feedback": "Polite, but she offered — accepting honours the gesture."
+        }
+      ]
+    }
+  ]
+}

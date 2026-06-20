@@ -1,0 +1,109 @@
+{
+  "id": "sc23",
+  "title": "Meeting the parents",
+  "desc": "Make a good impression (formal Sie)",
+  "ph": 4,
+  "setting": "Your partner's parents have invited you to lunch for the first time. The father opens the door.",
+  "steps": [
+    {
+      "speaker": "Vatter",
+      "es": "Grüezi! Sie sind also de Tom. Chömed doch ine.",
+      "en": "Hello! So you're Tom. Do come in.",
+      "options": [
+        {
+          "es": "Grüezi, viele Dank für d'Iiladig. Ich han mi gfreut.",
+          "en": "Hello, many thanks for the invitation. I've been looking forward to it.",
+          "verdict": "good",
+          "feedback": "Polite, warm, and uses Sie correctly. Ideal first impression."
+        },
+        {
+          "es": "Sali, alles klar?",
+          "en": "Hey, all good?",
+          "verdict": "bad",
+          "feedback": "Far too casual for a first meeting with elders — stick to Grüezi and Sie."
+        },
+        {
+          "es": "Ja, das bin ich.",
+          "en": "Yes, that's me.",
+          "verdict": "ok",
+          "feedback": "Correct but a bit bare — add a thank-you or a warm word."
+        }
+      ]
+    },
+    {
+      "speaker": "Mueter",
+      "es": "Mir ässed grad z'Mittag. Möged Sie Rööschti?",
+      "en": "We're just having lunch. Do you like rösti?",
+      "options": [
+        {
+          "es": "Sehr gärn, ich liebe Rööschti. Das isch fein.",
+          "en": "Very much, I love rösti. It's delicious.",
+          "verdict": "good",
+          "feedback": "Enthusiastic and appreciative — exactly how to receive home cooking."
+        },
+        {
+          "es": "Ich han eigentli scho ggässe.",
+          "en": "I've actually already eaten.",
+          "verdict": "bad",
+          "feedback": "Declining the meal they've prepared can come across as a snub."
+        },
+        {
+          "es": "Was isch Rööschti?",
+          "en": "What's rösti?",
+          "verdict": "ok",
+          "feedback": "Honest curiosity is fine, but pair it with willingness to try."
+        }
+      ]
+    },
+    {
+      "speaker": "Vatter",
+      "es": "Und, gfallt's Ihne z'Luzärn? Sie sind ja vo wiit här.",
+      "en": "So, do you like Lucerne? You're from far away after all.",
+      "options": [
+        {
+          "es": "Sehr. D'Lüt sind fründlich und d'Stadt isch wunderschöö.",
+          "en": "Very much. The people are friendly and the city is beautiful.",
+          "verdict": "good",
+          "feedback": "Genuine and gracious — and a quiet compliment to them as locals."
+        },
+        {
+          "es": "Es gaht. Mängs isch chli komisch.",
+          "en": "It's alright. Some things are a bit odd.",
+          "verdict": "ok",
+          "feedback": "Honesty is fine, but a first lunch leans positive — save the quirks for later."
+        },
+        {
+          "es": "Es isch tüür da.",
+          "en": "It's expensive here.",
+          "verdict": "bad",
+          "feedback": "True, but it sounds like a complaint to your hosts. Lead with what you love."
+        }
+      ]
+    },
+    {
+      "speaker": "Mueter",
+      "es": "Sie redet ja scho rächt guet Schwiizerdütsch!",
+      "en": "You already speak Swiss German quite well!",
+      "options": [
+        {
+          "es": "Merci, ich gib mer Müe. Ihri Tochter hilft mer fescht.",
+          "en": "Thank you, I'm making an effort. Your daughter helps me a lot.",
+          "verdict": "good",
+          "feedback": "Modest, warm, and credits your partner — charming all round."
+        },
+        {
+          "es": "Ach, no nöd so guet.",
+          "en": "Oh, not that well yet.",
+          "verdict": "ok",
+          "feedback": "Polite modesty, but you can accept a compliment graciously too."
+        },
+        {
+          "es": "Ja, ich bi recht begabt.",
+          "en": "Yes, I'm rather gifted.",
+          "verdict": "bad",
+          "feedback": "Tips from modest into boastful — let the compliment sit lightly."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sc05",
+  "title": "The neighbour's invitation",
+  "desc": "Accept a coffee invitation",
+  "setting": "Your neighbour, Mrs. Bucher, greets you in the hallway and invites you over.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Frau Bucher",
+      "es": "Grüezi! Sie sind dr Nöi, gäll?",
+      "en": "Hello! You're the new one, right?",
+      "options": [
+        { "es": "Grüezi! Ja, ich bi grad iizoge.", "en": "Hello! Yes, I just moved in.", "verdict": "good", "feedback": "Warm and clear. Returning 'Grüezi' to an elder neighbour is just right." },
+        { "es": "Ja.", "en": "Yes.", "verdict": "ok", "feedback": "A little short for a friendly neighbour. A few words make a better first impression." },
+        { "es": "Wär fragt?", "en": "Who's asking?", "verdict": "bad", "feedback": "Far too guarded! She's welcoming you. Meet her warmth." }
+      ]
+    },
+    {
+      "speaker": "Frau Bucher",
+      "es": "Willkomme! Ich bi d'Frau Bucher, vo näbedra.",
+      "en": "Welcome! I'm Mrs. Bucher, from next door.",
+      "options": [
+        { "es": "Fröit mi! Ich heisse Tom.", "en": "Pleased to meet you! I'm Tom.", "verdict": "good", "feedback": "'Fröit mi' plus your name — a polished, friendly introduction." },
+        { "es": "Hoi, ich bi de Tom.", "en": "Hi, I'm Tom.", "verdict": "ok", "feedback": "Friendly, but 'Hoi' is quite casual for a first meeting with an older neighbour. 'Grüezi' or 'fröit mi' fits better." },
+        { "es": "Tom.", "en": "Tom.", "verdict": "ok", "feedback": "Gives your name, but 'fröit mi, ich heisse Tom' is warmer for a first meeting." }
+      ]
+    },
+    {
+      "speaker": "Frau Bucher",
+      "es": "Wänd Sie spöter uf en Kafi verbiicho?",
+      "en": "Would you like to come by for a coffee later?",
+      "options": [
+        { "es": "Sehr gärn, das wär schöö!", "en": "Gladly, that would be lovely!", "verdict": "good", "feedback": "Enthusiastic and gracious — exactly how to accept a kind invitation." },
+        { "es": "Ja, merci, gärn.", "en": "Yes, thanks, gladly.", "verdict": "good", "feedback": "Simple and warm. A perfectly good yes." },
+        { "es": "Nei, ich ha kei Ziit.", "en": "No, I don't have time.", "verdict": "bad", "feedback": "Turning down a neighbour's first warm gesture stings. If you can, accept — this is how you build a life here." }
+      ]
+    },
+    {
+      "speaker": "Frau Bucher",
+      "es": "Schön! Denn bis spöter. Am Sächsi?",
+      "en": "Lovely! Then see you later. At six?",
+      "options": [
+        { "es": "Am Sächsi passt mer. Bis denn!", "en": "Six works for me. See you then!", "verdict": "good", "feedback": "Confirming the time and a warm 'bis denn' — perfect close." },
+        { "es": "Super, bis spöter. Merci!", "en": "Great, see you later. Thanks!", "verdict": "good", "feedback": "Warm and natural. You've made a good first impression." },
+        { "es": "Mol luege.", "en": "We'll see.", "verdict": "ok", "feedback": "Non-committal after she set a time feels a little cold. If you mean yes, say yes warmly." }
+      ]
+    }
+  ]
+}

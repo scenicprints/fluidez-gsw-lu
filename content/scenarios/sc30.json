@@ -1,0 +1,109 @@
+{
+  "id": "sc30",
+  "title": "On the tram",
+  "desc": "Strike up a chat with a stranger",
+  "ph": 5,
+  "setting": "You're on the tram. An older man beside you comments on the weather. You can let it die or build a connection.",
+  "steps": [
+    {
+      "speaker": "Maa",
+      "es": "Sone Räge hüt, mer chunnt ja fascht nöd use.",
+      "en": "Such rain today, you can hardly get outside.",
+      "options": [
+        {
+          "es": "Ja würkli, und das im Summer! Hoffentli wird's bald besser.",
+          "en": "Yes really, and in summer! Hopefully it'll get better soon.",
+          "verdict": "good",
+          "feedback": "You catch the ball and toss it back — textbook Swiss small talk."
+        },
+        {
+          "es": "Mm.",
+          "en": "Mm.",
+          "verdict": "ok",
+          "feedback": "He opened a friendly door — a half-word lets it swing shut."
+        },
+        {
+          "es": "Ich luege nöd uf s'Wätter.",
+          "en": "I don't pay attention to the weather.",
+          "verdict": "bad",
+          "feedback": "A small snub to a kindly opener. Weather chat is the social glue here."
+        }
+      ]
+    },
+    {
+      "speaker": "Maa",
+      "es": "Genau. Früecher hämmer im Juni no chönne grille.",
+      "en": "Exactly. We used to be able to barbecue in June.",
+      "options": [
+        {
+          "es": "Ächt? Da het sich s'Wätter scho verändert, oder?",
+          "en": "Really? The weather has changed, hasn't it?",
+          "verdict": "good",
+          "feedback": "You show interest and keep it rolling — he'll enjoy this ride now."
+        },
+        {
+          "es": "Ich bi nöd vo da, ich weiss's nöd.",
+          "en": "I'm not from here, I wouldn't know.",
+          "verdict": "ok",
+          "feedback": "Honest, but you can still engage — ask him what it used to be like."
+        },
+        {
+          "es": "Tja, s'Läbe halt.",
+          "en": "Well, that's life.",
+          "verdict": "ok",
+          "feedback": "A bit of a conversation-stopper — a small question keeps it alive."
+        }
+      ]
+    },
+    {
+      "speaker": "Maa",
+      "es": "Sind Sie nöd vo da? Mer hört's fascht gar nöd.",
+      "en": "You're not from here? You can hardly tell at all.",
+      "options": [
+        {
+          "es": "Merci! Ich läb sit es paar Jahr da und lärne fliissig.",
+          "en": "Thank you! I've lived here for a few years and I learn diligently.",
+          "verdict": "good",
+          "feedback": "Receives the compliment well and shares a little — warm and confident."
+        },
+        {
+          "es": "Nei, us Amerika. Aber Luzärn isch jetz mis Dehei.",
+          "en": "No, from America. But Lucerne is my home now.",
+          "verdict": "good",
+          "feedback": "Honest, warm, and a lovely thing for a local to hear. Perfect."
+        },
+        {
+          "es": "Merkt mer's so fescht?",
+          "en": "Is it that obvious?",
+          "verdict": "ok",
+          "feedback": "He just said it isn't! Take the compliment rather than fishing."
+        }
+      ]
+    },
+    {
+      "speaker": "Maa",
+      "es": "Da müend Sie aussteige, gäll. Schöne Tag no!",
+      "en": "This is your stop, isn't it. Have a nice day!",
+      "options": [
+        {
+          "es": "Merci, Ihne au! Het mi gfreut.",
+          "en": "Thanks, you too! It was a pleasure.",
+          "verdict": "good",
+          "feedback": "Warm, complete, and very Swiss. A perfect little encounter."
+        },
+        {
+          "es": "Tschüss, schöne Tag!",
+          "en": "Bye, nice day!",
+          "verdict": "good",
+          "feedback": "Simple and friendly — exactly right for parting with a stranger."
+        },
+        {
+          "es": "Ja. Tschüss.",
+          "en": "Yes. Bye.",
+          "verdict": "ok",
+          "feedback": "A bit flat after a nice chat — a touch more warmth rounds it off."
+        }
+      ]
+    }
+  ]
+}

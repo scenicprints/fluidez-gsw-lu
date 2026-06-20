@@ -1,0 +1,109 @@
+{
+  "id": "sc38",
+  "title": "Helping a newcomer",
+  "desc": "Pass on what you were once given",
+  "ph": 7,
+  "setting": "In the supermarket you notice someone new to the country struggling to be understood at the till. You step in.",
+  "steps": [
+    {
+      "speaker": "Du",
+      "es": "(You see them turning red, stuck. How do you step in?)",
+      "en": "(You see them turning red, stuck. How do you step in?)",
+      "options": [
+        {
+          "es": "Cha ich öppis hälfe? Ich han das au mal dur.",
+          "en": "Can I help with something? I've been through this too.",
+          "verdict": "good",
+          "feedback": "Warm, humble, and instantly disarming — exactly the hand you once wished for."
+        },
+        {
+          "es": "Sie bruuchid en offizielle Sack für de Güsel.",
+          "en": "You need an official bag for the rubbish.",
+          "verdict": "ok",
+          "feedback": "Helpful info, but lead with warmth — they're flustered, not just uninformed."
+        },
+        {
+          "es": "(You say nothing and look away.)",
+          "en": "(You say nothing and look away.)",
+          "verdict": "bad",
+          "feedback": "You of all people know how that moment feels. A small word would mean the world."
+        }
+      ]
+    },
+    {
+      "speaker": "Nöichömling",
+      "es": "Oh, ja bitte! Ich verstah nöd, was si vo mir wott.",
+      "en": "Oh, yes please! I don't understand what she wants from me.",
+      "options": [
+        {
+          "es": "Si fragt nur, öb Sie e Tüte wänd. Säged eifach ja oder nei.",
+          "en": "She's just asking if you want a bag. Just say yes or no.",
+          "verdict": "good",
+          "feedback": "Clear, calm, and you shrink the scary moment down to something doable. Lovely."
+        },
+        {
+          "es": "Kei Sorg, das isch nüt Schlimms.",
+          "en": "No worries, it's nothing serious.",
+          "verdict": "good",
+          "feedback": "Reassuring — and then a quick translation gets them unstuck."
+        },
+        {
+          "es": "Das isch halt s'Schwiizerdütsch.",
+          "en": "That's just Swiss German for you.",
+          "verdict": "ok",
+          "feedback": "True, but it doesn't solve their immediate problem — translate the actual question."
+        }
+      ]
+    },
+    {
+      "speaker": "Nöichömling",
+      "es": "Aaah, e Tüte! Merci. Si redet eifach so schnäll.",
+      "en": "Aaah, a bag! Thanks. She just talks so fast.",
+      "options": [
+        {
+          "es": "Ich weiss, am Aafang tönt alls wie eis Wort. Das wird besser.",
+          "en": "I know, at the start it all sounds like one word. It gets better.",
+          "verdict": "good",
+          "feedback": "You name the exact feeling and offer hope — the encouragement you once needed."
+        },
+        {
+          "es": "Mit de Ziit gwöhnt mer sich dra, versproche.",
+          "en": "With time you get used to it, I promise.",
+          "verdict": "good",
+          "feedback": "Kind and true — a small promise from someone who made it through."
+        },
+        {
+          "es": "Ja, si redet würkli z'schnäll.",
+          "en": "Yeah, she really does talk too fast.",
+          "verdict": "ok",
+          "feedback": "Sympathetic, but lift them up rather than just agreeing it's hard."
+        }
+      ]
+    },
+    {
+      "speaker": "Nöichömling",
+      "es": "Danke, ehrlich. Es isch schön, dass öpper hilft.",
+      "en": "Thank you, honestly. It's nice that someone helps.",
+      "options": [
+        {
+          "es": "Gärn gscheh. Öpper het mir au mal ghulfe. Viel Glück da!",
+          "en": "You're very welcome. Someone once helped me too. Good luck here!",
+          "verdict": "good",
+          "feedback": "You close the circle out loud — the moment you've been working toward for years."
+        },
+        {
+          "es": "Kei Ursach. Sie schaffed das scho.",
+          "en": "No problem. You'll manage just fine.",
+          "verdict": "good",
+          "feedback": "Warm and confidence-giving — a perfect send-off."
+        },
+        {
+          "es": "Scho guet, isch ja nüt gsii.",
+          "en": "It's fine, it was nothing.",
+          "verdict": "ok",
+          "feedback": "It wasn't nothing to them — let yourself accept the thanks."
+        }
+      ]
+    }
+  ]
+}

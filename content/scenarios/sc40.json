@@ -1,0 +1,109 @@
+{
+  "id": "sc40",
+  "title": "Welcome to Lucerne",
+  "desc": "The full circle — you welcome a stranger",
+  "ph": 7,
+  "setting": "At the station, a newly-arrived stranger with a suitcase asks you, in English, for help. This is where your own story began.",
+  "steps": [
+    {
+      "speaker": "Fremde",
+      "es": "Excuse me, do you speak English? I'm completely lost.",
+      "en": "Excuse me, do you speak English? I'm completely lost.",
+      "options": [
+        {
+          "es": "Ja, klar. Aber probier's ruhig zerscht mit Grüezi.",
+          "en": "Yes, of course. But go ahead and try Grüezi first.",
+          "verdict": "good",
+          "feedback": "Kind and knowing — you give help and a first word at once, just as you once received."
+        },
+        {
+          "es": "Yes. What do you need?",
+          "en": "Yes. What do you need?",
+          "verdict": "ok",
+          "feedback": "Helpful, but offering that first local word is the gift that keeps giving."
+        },
+        {
+          "es": "Sorry, ich ha pressant.",
+          "en": "Sorry, I'm in a hurry.",
+          "verdict": "bad",
+          "feedback": "You remember this exact moment from the other side. Spare them thirty seconds."
+        }
+      ]
+    },
+    {
+      "speaker": "Fremde",
+      "es": "Grüezi...? Did I say that right? I just got here today.",
+      "en": "Grüezi...? Did I say that right? I just got here today.",
+      "options": [
+        {
+          "es": "Perfekt gseit! Und kei Sorg, am erste Tag isch alli verlore.",
+          "en": "Said perfectly! And don't worry, on the first day everyone is lost.",
+          "verdict": "good",
+          "feedback": "Encouraging and reassuring — you turn their fear into a first small win."
+        },
+        {
+          "es": "Genau so. Du lärnsch schnäll.",
+          "en": "Just like that. You learn fast.",
+          "verdict": "good",
+          "feedback": "Warm and confidence-building. Exactly what a frightened newcomer needs."
+        },
+        {
+          "es": "Ja, passt scho.",
+          "en": "Yeah, it's fine.",
+          "verdict": "ok",
+          "feedback": "True but flat — a little more warmth would light them up."
+        }
+      ]
+    },
+    {
+      "speaker": "Fremde",
+      "es": "Thank you. Honestly, it's overwhelming. How long until it feels normal?",
+      "en": "Thank you. Honestly, it's overwhelming. How long until it feels normal?",
+      "options": [
+        {
+          "es": "Es bruucht Ziit. Aber eines Tags schaltet niemmer meh uf Änglisch um. Versproche.",
+          "en": "It takes time. But one day nobody switches to English with you anymore. I promise.",
+          "verdict": "good",
+          "feedback": "You hand them the very horizon you once chased. A quietly perfect thing to say."
+        },
+        {
+          "es": "Langsamer als d'wottsch, schnäller als d'dänksch.",
+          "en": "Slower than you want, faster than you think.",
+          "verdict": "good",
+          "feedback": "Wise, warm, and a little poetic — they'll carry that line."
+        },
+        {
+          "es": "Kei Ahnig, bi jedem anders.",
+          "en": "No idea, it's different for everyone.",
+          "verdict": "ok",
+          "feedback": "True, but you have real hope to offer — don't shrug it off."
+        }
+      ]
+    },
+    {
+      "speaker": "Fremde",
+      "es": "That helps more than you know. Thank you so much.",
+      "en": "That helps more than you know. Thank you so much.",
+      "options": [
+        {
+          "es": "Gärn gscheh. Willkomme z'Luzärn. Da chunnt's guet.",
+          "en": "You're very welcome. Welcome to Lucerne. It'll turn out fine here.",
+          "verdict": "good",
+          "feedback": "The exact words from the start of your own story, now in your mouth. The circle is complete."
+        },
+        {
+          "es": "Viel Glück uf dim Wäg. Du schaffsch das.",
+          "en": "Good luck on your journey. You'll make it.",
+          "verdict": "good",
+          "feedback": "Generous and sure — you send them off the way someone once sent you."
+        },
+        {
+          "es": "Kei Ursach, tschüss.",
+          "en": "No problem, bye.",
+          "verdict": "ok",
+          "feedback": "A warmer farewell would honour the moment — this is bigger than a quick goodbye."
+        }
+      ]
+    }
+  ]
+}

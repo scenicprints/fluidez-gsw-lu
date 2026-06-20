@@ -1,0 +1,109 @@
+{
+  "id": "sc31",
+  "title": "Stay in dialect",
+  "desc": "They keep switching to High German — steer back",
+  "ph": 6,
+  "setting": "A shopkeeper hears your slight accent and helpfully switches to High German. You'd rather stay in dialect.",
+  "steps": [
+    {
+      "speaker": "Verchäuferin",
+      "es": "(auf Hochdeutsch) Ah, guten Tag! Was darf es denn sein?",
+      "en": "(in High German) Ah, hello! What can I get you?",
+      "options": [
+        {
+          "es": "Grüezi! Sie chönd ruhig Dialäkt rede, ich verstah's guet.",
+          "en": "Hello! You can speak dialect, I understand it well.",
+          "verdict": "good",
+          "feedback": "Friendly and clear — most people happily switch back when invited."
+        },
+        {
+          "es": "(auf Hochdeutsch) Guten Tag, ich nehme ein Brot.",
+          "en": "(in High German) Hello, I'll take a bread.",
+          "verdict": "ok",
+          "feedback": "You matched her, which is fine — but staying in dialect is how you grow."
+        },
+        {
+          "es": "Reded Sie nöd so mit mir.",
+          "en": "Don't talk to me like that.",
+          "verdict": "bad",
+          "feedback": "She was being kind — a gentle nudge works far better than a rebuke."
+        }
+      ]
+    },
+    {
+      "speaker": "Verchäuferin",
+      "es": "Oh, gärn! Die meischte wänd ja, dass ich Hochdütsch rede.",
+      "en": "Oh, gladly! Most people want me to speak High German.",
+      "options": [
+        {
+          "es": "Ich nöd. Ich wott's grad lärne, drum häre.",
+          "en": "Not me. I want to learn it, that's why.",
+          "verdict": "good",
+          "feedback": "Honest and motivated — she'll enjoy helping you now."
+        },
+        {
+          "es": "Ich bi anders, gäll.",
+          "en": "I'm different, you see.",
+          "verdict": "ok",
+          "feedback": "Charming, but a word on why builds the connection further."
+        },
+        {
+          "es": "Hochdütsch tönt schüüch.",
+          "en": "High German sounds awful.",
+          "verdict": "bad",
+          "feedback": "Putting down the standard language is needlessly harsh — keep it positive."
+        }
+      ]
+    },
+    {
+      "speaker": "Verchäuferin",
+      "es": "Das find ich schön. Also, was häsch gärn?",
+      "en": "I think that's lovely. So, what would you like?",
+      "options": [
+        {
+          "es": "Es Ruchbrot und zwöi Gipfeli, bitte.",
+          "en": "A wholegrain bread and two croissants, please.",
+          "verdict": "good",
+          "feedback": "Natural and local — and notice she's now using 'du' with you."
+        },
+        {
+          "es": "Was empfehled Sie hüt?",
+          "en": "What do you recommend today?",
+          "verdict": "good",
+          "feedback": "Opens a friendly exchange — a great way to practise more dialect."
+        },
+        {
+          "es": "Eifach öppis Guets.",
+          "en": "Just something good.",
+          "verdict": "ok",
+          "feedback": "A bit vague — but it'll get you a friendly suggestion at least."
+        }
+      ]
+    },
+    {
+      "speaker": "Verchäuferin",
+      "es": "Gärn. Und du redsch ja würkli guet, alli Achtig!",
+      "en": "Gladly. And you really speak well, hats off!",
+      "options": [
+        {
+          "es": "Merci viilmal, das freut mi. Schöne Tag no!",
+          "en": "Thank you very much, that makes me happy. Have a nice day!",
+          "verdict": "good",
+          "feedback": "Gracious and warm — you held the dialect and won her over. Perfect."
+        },
+        {
+          "es": "Ich gib mer halt Müe.",
+          "en": "I just make an effort.",
+          "verdict": "good",
+          "feedback": "Modest and likeable — a lovely way to take a compliment."
+        },
+        {
+          "es": "Ach, no lang nöd perfekt.",
+          "en": "Oh, far from perfect yet.",
+          "verdict": "ok",
+          "feedback": "A little too self-deprecating — you earned that praise, let it land."
+        }
+      ]
+    }
+  ]
+}

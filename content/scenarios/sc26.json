@@ -1,0 +1,109 @@
+{
+  "id": "sc26",
+  "title": "At the apéro",
+  "desc": "Mingle with colleagues after work",
+  "ph": 5,
+  "setting": "It's Friday and your colleagues have set out wine and snacks. You join the circle.",
+  "steps": [
+    {
+      "speaker": "Kolleg",
+      "es": "Hoi! Schön bisch au cho. Es Glas Wii?",
+      "en": "Hey! Nice you came too. A glass of wine?",
+      "options": [
+        {
+          "es": "Sehr gärn, merci. Uf s'Wuchenänd!",
+          "en": "Gladly, thanks. To the weekend!",
+          "verdict": "good",
+          "feedback": "Warm, easy, and you toast the moment — perfect apéro energy."
+        },
+        {
+          "es": "Nei danke, ich trinke nöd.",
+          "en": "No thanks, I don't drink.",
+          "verdict": "ok",
+          "feedback": "Totally fine — but ask for a Süessmoscht or water so you still join the toast."
+        },
+        {
+          "es": "Muess ich?",
+          "en": "Do I have to?",
+          "verdict": "bad",
+          "feedback": "Reads as reluctant to be there. A simple yes or alternative keeps it friendly."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Mer stosst aa. Lueg mer aber i d'Auge, susch git's Päch!",
+      "en": "Let's clink. But look me in the eye, or it's bad luck!",
+      "options": [
+        {
+          "es": "Ha, das weiss ich scho. Pröschtli!",
+          "en": "Ha, I know that one already. Cheers!",
+          "verdict": "good",
+          "feedback": "Showing you know the custom signals you've settled in. Nicely done."
+        },
+        {
+          "es": "Aha, das han ich nöd gwüsst. Pröschtli!",
+          "en": "Ah, I didn't know that. Cheers!",
+          "verdict": "good",
+          "feedback": "Honest and game — and now you've learned a lovely local ritual."
+        },
+        {
+          "es": "Das isch doch Abärglaube.",
+          "en": "That's just superstition.",
+          "verdict": "ok",
+          "feedback": "True, but waving off the ritual can feel like waving off the group. Play along."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Und, häsch scho Plän fürs Wuchenänd?",
+      "en": "So, got any plans for the weekend?",
+      "options": [
+        {
+          "es": "Ich wott uf de Pilatus go wandere, wenn s'Wätter haltet.",
+          "en": "I want to hike up Pilatus, if the weather holds.",
+          "verdict": "good",
+          "feedback": "Specific, local, and opens the door to more chat. Great small talk."
+        },
+        {
+          "es": "Nei, eigentli nüt.",
+          "en": "No, nothing really.",
+          "verdict": "ok",
+          "feedback": "Fine, but offering even a small plan keeps the conversation going."
+        },
+        {
+          "es": "Warum fragsch?",
+          "en": "Why do you ask?",
+          "verdict": "bad",
+          "feedback": "Treats friendly small talk as an interrogation. Just share something light."
+        }
+      ]
+    },
+    {
+      "speaker": "Kolleg",
+      "es": "Tönt super. Mir gönd nöchste Wuche zäme go biere, chunsch mit?",
+      "en": "Sounds great. We're going for beers together next week, want to come?",
+      "options": [
+        {
+          "es": "Sehr gärn! Säg mer eifach, wänn und wo.",
+          "en": "I'd love to! Just tell me when and where.",
+          "verdict": "good",
+          "feedback": "Enthusiastic and easy — exactly how an invitation becomes a friendship."
+        },
+        {
+          "es": "Mal luege, ob ich cha.",
+          "en": "I'll see if I can.",
+          "verdict": "ok",
+          "feedback": "Non-committal cools the invite — a warmer yes builds the bond."
+        },
+        {
+          "es": "Ich kenne ja niemmer.",
+          "en": "But I don't know anyone.",
+          "verdict": "ok",
+          "feedback": "That's the point of coming — saying yes is how you stop being the new one."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sc20",
+  "title": "The job interview",
+  "desc": "Hold your own in a formal setting",
+  "setting": "You're interviewing for a job in Lucerne. The manager (using polite Sie) opens.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Chefin",
+      "es": "Grüezi, schön dass Sie da sind. Verzelled Sie öppis über sich.",
+      "en": "Hello, glad you're here. Tell us something about yourself.",
+      "options": [
+        { "es": "Gärn. Ich bi Ingenieur und schaffe sit Jahre i dem Beriich.", "en": "Gladly. I'm an engineer and have worked in this field for years.", "verdict": "good", "feedback": "Confident, relevant, and in a polished register. Strong opening." },
+        { "es": "Ähm, was wänd Sie wüsse?", "en": "Um, what do you want to know?", "verdict": "ok", "feedback": "Shows hesitation. Have a short, prepared self-summary ready for this classic question." },
+        { "es": "Staht ja alls im Läbenslauf.", "en": "It's all in my CV.", "verdict": "bad", "feedback": "Dismissive — they want to hear you speak. Give a confident summary." }
+      ]
+    },
+    {
+      "speaker": "Chefin",
+      "es": "Und warum wänd Sie grad bi öis schaffe?",
+      "en": "And why do you want to work for us specifically?",
+      "options": [
+        { "es": "Ihri Firma isch bekannt für gueti Arbet, und das passt zu mir.", "en": "Your company is known for good work, and that suits me.", "verdict": "good", "feedback": "Specific and flattering without grovelling — shows you did your homework." },
+        { "es": "Ich bruuch e Arbet.", "en": "I need a job.", "verdict": "bad", "feedback": "Honest but weak — say what draws you to *them*, not just your need." },
+        { "es": "D'Stell tönt interessant.", "en": "The position sounds interesting.", "verdict": "ok", "feedback": "Fine but generic. Naming what specifically appeals would land better." }
+      ]
+    },
+    {
+      "speaker": "Chefin",
+      "es": "Sie sind nöd vo da. Wie isch Ihres Schwiizerdütsch?",
+      "en": "You're not from here. How is your Swiss German?",
+      "options": [
+        { "es": "Ich verstah's guet und lärne jede Tag dezue.", "en": "I understand it well and learn more every day.", "verdict": "good", "feedback": "Honest and confident — frames your learning as strength, not deficit. Well played." },
+        { "es": "Es wird immer bsser, gäll.", "en": "It's getting better, you know.", "verdict": "good", "feedback": "Easygoing and positive. The 'gäll' is a nice local touch." },
+        { "es": "Nöd so guet.", "en": "Not so good.", "verdict": "ok", "feedback": "Too self-deprecating — you're conducting this whole interview in it! Own that." }
+      ]
+    },
+    {
+      "speaker": "Chefin",
+      "es": "Das gseht mer. Mir mälded öis i de nöchste Täg, guet?",
+      "en": "I can see that. We'll be in touch in the next few days, alright?",
+      "options": [
+        { "es": "Sehr gärn. Merci viilmal für s'Gschpröch.", "en": "I'd appreciate it. Thank you very much for the conversation.", "verdict": "good", "feedback": "Gracious, professional close. Exactly the note to end on." },
+        { "es": "Guet, ich warte uf Ihres Mail.", "en": "Good, I'll wait for your email.", "verdict": "good", "feedback": "Clear and composed. Solid." },
+        { "es": "Wänn genau?", "en": "When exactly?", "verdict": "ok", "feedback": "Pressing for specifics can seem impatient — 'in the next few days' is a normal answer." }
+      ]
+    }
+  ]
+}

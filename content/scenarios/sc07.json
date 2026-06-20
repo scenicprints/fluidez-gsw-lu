@@ -1,0 +1,49 @@
+{
+  "id": "sc07",
+  "title": "At the post office",
+  "desc": "Send a package",
+  "setting": "You're at the post office counter with a package to send abroad.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Poschtbeamte",
+      "es": "Grüezi, was chan ich für Sie tue?",
+      "en": "Hello, what can I do for you?",
+      "options": [
+        { "es": "Grüezi, ich möcht das Päckli schicke.", "en": "Hello, I'd like to send this package.", "verdict": "good", "feedback": "Clear and polite. 'Ich möcht' is a useful, soft way to state what you want." },
+        { "es": "Das da, uf Amerika.", "en": "This one, to America.", "verdict": "ok", "feedback": "Understandable but clipped. A full sentence reads more politely." },
+        { "es": "Schicke.", "en": "Send.", "verdict": "ok", "feedback": "Too terse. Try 'ich möcht das schicke.'" }
+      ]
+    },
+    {
+      "speaker": "Poschtbeamte",
+      "es": "Wohi gaht's? Und was isch dinne?",
+      "en": "Where's it going? And what's inside?",
+      "options": [
+        { "es": "Uf Amerika. Es sind nu Büecher dinne.", "en": "To America. There are just books inside.", "verdict": "good", "feedback": "Exactly the info they need — destination and contents, clearly stated." },
+        { "es": "Amerika, Gschänk.", "en": "America, gifts.", "verdict": "ok", "feedback": "Works, but a fuller answer avoids follow-up questions." },
+        { "es": "Das gaht Sie nüt aa.", "en": "That's none of your business.", "verdict": "bad", "feedback": "They legally must ask about contents for customs — answer plainly." }
+      ]
+    },
+    {
+      "speaker": "Poschtbeamte",
+      "es": "Guet. Das wäge ich grad. Zwänzg Stutz.",
+      "en": "Good. I'll weigh it. Twenty francs.",
+      "options": [
+        { "es": "In Ornig. Und zwöi Brief-Marke no, bitte.", "en": "Alright. And two letter stamps too, please.", "verdict": "good", "feedback": "Smooth — combining errands like a local. Nicely done." },
+        { "es": "Okay, da bitte.", "en": "Okay, here you go.", "verdict": "good", "feedback": "Simple and fine." },
+        { "es": "Zwänzg?! Wieso so tüür?", "en": "Twenty?! Why so expensive?", "verdict": "ok", "feedback": "International shipping costs what it costs — no use protesting to the clerk." }
+      ]
+    },
+    {
+      "speaker": "Poschtbeamte",
+      "es": "Bitte schöö. En schöne Tag no!",
+      "en": "You're welcome. Have a nice day!",
+      "options": [
+        { "es": "Merci viilmal, Ihne au!", "en": "Thank you very much, you too!", "verdict": "good", "feedback": "Warm and correct. 'Ihne au' returns the wish politely." },
+        { "es": "Danke, tschüss!", "en": "Thanks, bye!", "verdict": "good", "feedback": "Perfectly friendly." },
+        { "es": "Ändlich fertig.", "en": "Finally done.", "verdict": "bad", "feedback": "Saying that out loud is rude after they helped you. Keep it warm." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sc16",
+  "title": "Making a complaint",
+  "desc": "Return a broken product",
+  "setting": "The fan you bought last week stopped working. You return to the shop with your receipt.",
+  "ph": 3,
+  "steps": [
+    { "speaker": "Verchäuferin", "es": "Grüezi. Was chan ich für Sie tue?", "en": "Hello. What can I do for you?", "options": [
+      { "es": "Ich han das kauft und es gaht scho nöd meh.", "en": "I bought this and it no longer works.", "verdict": "good", "feedback": "Clear and factual — states the problem without aggression." },
+      { "es": "Das isch en Schrott!", "en": "This is junk!", "verdict": "bad", "feedback": "Starting hostile puts her on the defensive. Calm and factual works better." },
+      { "es": "Ich han es Problem mit dem.", "en": "I have a problem with this.", "verdict": "ok", "feedback": "Okay, but vague. Saying what's wrong moves things faster." }
+    ]},
+    { "speaker": "Verchäuferin", "es": "Händ Sie d'Quittig, und wänn händ Sie's kauft?", "en": "Do you have the receipt, and when did you buy it?", "options": [
+      { "es": "Ja, da. Ich han's vor ere Wuche kauft.", "en": "Yes, here. I bought it a week ago.", "verdict": "good", "feedback": "Receipt plus a clear timeframe — you're making her job easy." },
+      { "es": "Ich han kei Quittig.", "en": "I don't have a receipt.", "verdict": "ok", "feedback": "Harder without it, but worth trying. Bring it next time." },
+      { "es": "Scho lang, weiss nöd meh.", "en": "A while ago, I don't remember.", "verdict": "bad", "feedback": "Vague timing weakens your case — warranties have limits." }
+    ]},
+    { "speaker": "Verchäuferin", "es": "Ich luege. Was wänd Sie als Lösig?", "en": "Let me check. What solution would you like?", "options": [
+      { "es": "Ich möcht es umtusche oder s'Gäld zrugg.", "en": "I'd like an exchange or my money back.", "verdict": "good", "feedback": "Stating your desired outcome clearly is how to resolve a complaint." },
+      { "es": "Was Sie für fair haltet.", "en": "Whatever you think is fair.", "verdict": "ok", "feedback": "Polite, but naming what you want protects your interest." },
+      { "es": "Weiss nöd, säged Sie mer's.", "en": "I don't know, you tell me.", "verdict": "ok", "feedback": "Hands her all the power. Know your ask." }
+    ]},
+    { "speaker": "Verchäuferin", "es": "Sie händ rächt, es isch i de Garantie. Sie überchömed en nöie.", "en": "You're right, it's under warranty. You'll get a new one.", "options": [
+      { "es": "Das schätze ich sehr. Merci viilmal.", "en": "I appreciate that. Thank you very much.", "verdict": "good", "feedback": "Gracious in victory — leaving on good terms is smart." },
+      { "es": "Ändlich. Hät schnäller sölle gah.", "en": "Finally. Should've been faster.", "verdict": "bad", "feedback": "She just helped you! Souring it burns goodwill." },
+      { "es": "Perfekt, merci.", "en": "Perfect, thanks.", "verdict": "good", "feedback": "Clean and polite. A satisfying close." }
+    ]}
+  ]
+}

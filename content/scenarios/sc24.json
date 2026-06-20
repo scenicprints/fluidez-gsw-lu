@@ -1,0 +1,109 @@
+{
+  "id": "sc24",
+  "title": "Comforting a friend",
+  "desc": "Be there when someone's down",
+  "ph": 4,
+  "setting": "A friend phones you, clearly upset — they've just lost their job. You want to support them.",
+  "steps": [
+    {
+      "speaker": "Fründ",
+      "es": "Ich han hüt mini Stell verlore. Ich weiss nöd, was jetz.",
+      "en": "I lost my job today. I don't know what now.",
+      "options": [
+        {
+          "es": "Oh nei, das tuet mer so leid. Wie gaht's der?",
+          "en": "Oh no, I'm so sorry. How are you doing?",
+          "verdict": "good",
+          "feedback": "Acknowledges the blow and centres him. Exactly the right first move."
+        },
+        {
+          "es": "Du findsch sicher schnäll öppis Nöis.",
+          "en": "You'll surely find something new quickly.",
+          "verdict": "ok",
+          "feedback": "Well-meant, but jumping to solutions skips the comfort he needs first."
+        },
+        {
+          "es": "Warum häsch sie verlore?",
+          "en": "Why did you lose it?",
+          "verdict": "bad",
+          "feedback": "Interrogating him now feels like blame. Sit with him before the details."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Ehrlich gseit, ziemli schlächt. Es isch eifach so plötzlich cho.",
+      "en": "Honestly, pretty bad. It just came so suddenly.",
+      "options": [
+        {
+          "es": "Das verstah ich. Das isch en richtige Schock.",
+          "en": "I understand that. That's a real shock.",
+          "verdict": "good",
+          "feedback": "Naming his feeling lets him feel heard. Quietly powerful."
+        },
+        {
+          "es": "Chopf hoch, wird scho.",
+          "en": "Chin up, it'll be fine.",
+          "verdict": "ok",
+          "feedback": "Too brisk for raw news — let him feel it before you cheer him on."
+        },
+        {
+          "es": "Hettsch besser ufpasst.",
+          "en": "You should have been more careful.",
+          "verdict": "bad",
+          "feedback": "Criticism is the last thing he needs right now. Drop it entirely."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Merci, dass du zueloosch. Das hilft scho.",
+      "en": "Thanks for listening. That already helps.",
+      "options": [
+        {
+          "es": "Immer. Wottsch verbiicho? Mir chönd zäme znacht ässe.",
+          "en": "Always. Want to come over? We could have dinner together.",
+          "verdict": "good",
+          "feedback": "Turns support into a concrete offer of company. Genuinely kind."
+        },
+        {
+          "es": "Klar, derfür sind Fründe da.",
+          "en": "Of course, that's what friends are for.",
+          "verdict": "good",
+          "feedback": "Warm and reassuring — reminds him he's not alone."
+        },
+        {
+          "es": "Guet, denn bis spöter.",
+          "en": "Good, see you later then.",
+          "verdict": "ok",
+          "feedback": "A bit quick to end — he reached out, so stay with him a moment longer."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Das tät mer guet. Ich chume verbii.",
+      "en": "That would do me good. I'll come over.",
+      "options": [
+        {
+          "es": "Super. Mir finded zäme en Wäg, versproche.",
+          "en": "Great. We'll find a way through together, I promise.",
+          "verdict": "good",
+          "feedback": "Reassuring without false promises about the job itself. Perfect note."
+        },
+        {
+          "es": "Bring öppis z'trinke mit.",
+          "en": "Bring something to drink.",
+          "verdict": "ok",
+          "feedback": "Casual, but the moment calls for warmth over logistics."
+        },
+        {
+          "es": "Aber nöd z'lang blibe, ich bi müed.",
+          "en": "But don't stay too long, I'm tired.",
+          "verdict": "bad",
+          "feedback": "Setting limits now undercuts the whole offer. Be fully there."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sc03",
+  "title": "At the shop",
+  "desc": "Buy bread and cheese",
+  "setting": "You're at the counter of a small shop with some groceries.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Verchäufer",
+      "es": "Grüezi! Was dörf's sii?",
+      "en": "Hello! What can I get you?",
+      "options": [
+        { "es": "Grüezi. Ich hätt gärn es Brot, bitte.", "en": "Hello. I'd like a bread, please.", "verdict": "good", "feedback": "Polished and polite — the classic 'ich hätt gärn' ordering form." },
+        { "es": "Brot und Chäs.", "en": "Bread and cheese.", "verdict": "ok", "feedback": "Gets the job done, just a little curt. A 'Grüezi' and 'bitte' soften it nicely." },
+        { "es": "Ich luege nu.", "en": "I'm just looking.", "verdict": "ok", "feedback": "Fine if true — but you're at the counter ready to buy, so go ahead and order." }
+      ]
+    },
+    {
+      "speaker": "Verchäufer",
+      "es": "Gärn. Susch no öppis?",
+      "en": "Gladly. Anything else?",
+      "options": [
+        { "es": "Ja, es Stück Chäs au, bitte.", "en": "Yes, a piece of cheese too, please.", "verdict": "good", "feedback": "Great use of 'au' (too). Clear and friendly." },
+        { "es": "Nei danke, das isch alls.", "en": "No thanks, that's all.", "verdict": "good", "feedback": "Perfectly natural way to close an order." },
+        { "es": "Wieviel Chäs händ Sie?", "en": "How much cheese do you have?", "verdict": "ok", "feedback": "A bit of an odd question for a shop! If you want some, just ask for 'es Stück Chäs.'" }
+      ]
+    },
+    {
+      "speaker": "Verchäufer",
+      "es": "Das macht acht Stutz zäme.",
+      "en": "That's eight francs altogether.",
+      "options": [
+        { "es": "Da bitte. Bruuch ich en Sack.", "en": "Here you go. I need a bag.", "verdict": "good", "feedback": "Good — and asking for a 'Sack' (bag) is a practical, natural add." },
+        { "es": "Da bitte, merci.", "en": "Here you go, thanks.", "verdict": "good", "feedback": "Smooth and polite. Exactly right." },
+        { "es": "Nu acht? Sicher?", "en": "Only eight? Sure?", "verdict": "ok", "feedback": "No need to question a fair price — just pay and thank them." }
+      ]
+    },
+    {
+      "speaker": "Verchäufer",
+      "es": "Bitte schöö. En schöne Tag!",
+      "en": "You're welcome. Have a nice day!",
+      "options": [
+        { "es": "Merci, glichfalls!", "en": "Thanks, likewise!", "verdict": "good", "feedback": "Perfect everyday closing. 'Glichfalls' is the local reflex." },
+        { "es": "Danke, Tschüss!", "en": "Thanks, bye!", "verdict": "good", "feedback": "Warm and natural. Nicely done." },
+        { "es": "Ja ja.", "en": "Yeah yeah.", "verdict": "bad", "feedback": "That sounds dismissive! Return the friendliness — they were kind to you." }
+      ]
+    }
+  ]
+}

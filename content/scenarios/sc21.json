@@ -1,0 +1,109 @@
+{
+  "id": "sc21",
+  "title": "Asking someone out",
+  "desc": "Make the first move, gently",
+  "ph": 4,
+  "setting": "You've been chatting with someone you like at a friend's gathering. There's a lull. You want to ask them out.",
+  "steps": [
+    {
+      "speaker": "Du",
+      "es": "(You want to suggest meeting again. How do you open?)",
+      "en": "(You want to suggest meeting again. How do you open?)",
+      "options": [
+        {
+          "es": "Es isch luschtig gsii mit dir. Wämmer öis mal uf e Kafi träffe?",
+          "en": "It's been fun with you. Shall we meet for a coffee sometime?",
+          "verdict": "good",
+          "feedback": "Warm, low-pressure, and clear. A coffee invite is the perfect first step."
+        },
+        {
+          "es": "Gisch mer dini Nummere?",
+          "en": "Will you give me your number?",
+          "verdict": "ok",
+          "feedback": "Direct, but a reason to meet lands softer than just asking for digits."
+        },
+        {
+          "es": "Du gfallsch mer scho lang.",
+          "en": "I've fancied you for ages.",
+          "verdict": "bad",
+          "feedback": "Too much, too soon — it can feel intense before you've even met up."
+        }
+      ]
+    },
+    {
+      "speaker": "Sie",
+      "es": "Ja, sehr gärn! Wänn häsch Ziit?",
+      "en": "Yes, gladly! When do you have time?",
+      "options": [
+        {
+          "es": "Passt der de Samschtignamittag?",
+          "en": "Does Saturday afternoon work for you?",
+          "verdict": "good",
+          "feedback": "You offer a concrete option — much easier to say yes to than 'whenever'."
+        },
+        {
+          "es": "Irgendwänn halt.",
+          "en": "Whenever, I guess.",
+          "verdict": "ok",
+          "feedback": "A bit vague — proposing a specific time shows you mean it."
+        },
+        {
+          "es": "Weiss no nöd.",
+          "en": "Don't know yet.",
+          "verdict": "bad",
+          "feedback": "Leaves it hanging after she said yes — seize the moment with a real plan."
+        }
+      ]
+    },
+    {
+      "speaker": "Sie",
+      "es": "Samschtig passt mer guet. Wo treffemer öis?",
+      "en": "Saturday works for me. Where shall we meet?",
+      "options": [
+        {
+          "es": "Es git es schöns Kafi am Schwanenplatz. Um zwöi?",
+          "en": "There's a nice café at Schwanenplatz. At two?",
+          "verdict": "good",
+          "feedback": "Place and time sorted in one line. Smooth and confident."
+        },
+        {
+          "es": "Egal, wo du wottsch.",
+          "en": "Anywhere you like.",
+          "verdict": "ok",
+          "feedback": "Flexible is friendly, but having a suggestion ready feels more sure of yourself."
+        },
+        {
+          "es": "Du tuesch's ja eh wüsse.",
+          "en": "You'll know somewhere, surely.",
+          "verdict": "bad",
+          "feedback": "Pushing the decision onto her reads as uninterested. Offer a spot."
+        }
+      ]
+    },
+    {
+      "speaker": "Sie",
+      "es": "Super, denn bis Samschtig! Ich freu mi.",
+      "en": "Great, see you Saturday then! I'm looking forward to it.",
+      "options": [
+        {
+          "es": "Ich mi au. Bis denn!",
+          "en": "Me too. See you then!",
+          "verdict": "good",
+          "feedback": "Easy, warm, and mirrors her energy. Perfect sign-off."
+        },
+        {
+          "es": "Guet. Tschüss.",
+          "en": "Good. Bye.",
+          "verdict": "ok",
+          "feedback": "A touch flat after she said she's excited — match her warmth a little."
+        },
+        {
+          "es": "Hoffentlich chunsch denn au.",
+          "en": "Hopefully you'll actually show up.",
+          "verdict": "bad",
+          "feedback": "Reads as distrustful and kills the mood. Keep it light and positive."
+        }
+      ]
+    }
+  ]
+}

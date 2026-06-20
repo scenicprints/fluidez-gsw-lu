@@ -1,0 +1,49 @@
+{
+  "id": "sc01",
+  "title": "Ordering at the café",
+  "desc": "Get a coffee and Gipfeli",
+  "setting": "You walk into a Lucerne café for breakfast. The server greets you.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Serviererin",
+      "es": "Grüezi! Was wänd Sie?",
+      "en": "Hello! What would you like?",
+      "options": [
+        { "es": "Grüezi. Ich hätt gärn es Kafi, bitte.", "en": "Hello. I'd like a coffee, please.", "verdict": "good", "feedback": "Perfect — 'ich hätt gärn' is the polite way to order. Returning 'Grüezi' first is exactly right." },
+        { "es": "Kafi.", "en": "Coffee.", "verdict": "ok", "feedback": "Understandable, but blunt. A 'Grüezi' and 'bitte' go a long way in Switzerland." },
+        { "es": "Hola, un café.", "en": "(Spanish) Hi, a coffee.", "verdict": "bad", "feedback": "Wrong language! Here it's 'es Kafi, bitte.'" }
+      ]
+    },
+    {
+      "speaker": "Serviererin",
+      "es": "Gärn. Und öppis z'ässe dezue?",
+      "en": "Gladly. And something to eat with it?",
+      "options": [
+        { "es": "Ja, es Gipfeli, bitte.", "en": "Yes, a croissant, please.", "verdict": "good", "feedback": "Spot on — a Gipfeli with coffee is the classic Swiss breakfast." },
+        { "es": "Nei danke, nu s'Kafi.", "en": "No thanks, just the coffee.", "verdict": "good", "feedback": "Perfectly polite. 'Nu' (just/only) is a handy little word." },
+        { "es": "Was isch es Gipfeli?", "en": "What's a Gipfeli?", "verdict": "ok", "feedback": "Fair to ask! It's a croissant. Curiosity is fine when you're learning." }
+      ]
+    },
+    {
+      "speaker": "Serviererin",
+      "es": "Das macht föif Stutz fuffzg.",
+      "en": "That'll be five francs fifty.",
+      "options": [
+        { "es": "Da bitte. Merci viilmal.", "en": "Here you go. Thank you very much.", "verdict": "good", "feedback": "Smooth and warm — 'merci viilmal' is everyday Lucerne politeness." },
+        { "es": "Wieviel?", "en": "How much?", "verdict": "ok", "feedback": "Okay if you didn't catch it, but she just said it — try to listen for 'Stutz' (francs)." },
+        { "es": "Das isch z'tüür!", "en": "That's too expensive!", "verdict": "bad", "feedback": "Haggling isn't a thing in Swiss cafés — prices are fixed. Just pay and smile." }
+      ]
+    },
+    {
+      "speaker": "Serviererin",
+      "es": "Merci, schöne Tag no!",
+      "en": "Thanks, have a nice day!",
+      "options": [
+        { "es": "Glichfalls, merci!", "en": "You too, thanks!", "verdict": "good", "feedback": "Perfect — 'glichfalls' (likewise) is exactly how a local returns the wish." },
+        { "es": "Tschüss!", "en": "Bye!", "verdict": "good", "feedback": "Friendly and natural. A simple 'Tschüss' works well." },
+        { "es": "Ja.", "en": "Yeah.", "verdict": "ok", "feedback": "A bit flat for her warm send-off. Return the kindness with 'glichfalls'." }
+      ]
+    }
+  ]
+}

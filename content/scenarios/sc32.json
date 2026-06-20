@@ -1,0 +1,109 @@
+{
+  "id": "sc32",
+  "title": "Talk like a local",
+  "desc": "Drop the particles in naturally",
+  "ph": 6,
+  "setting": "You're chatting casually with a friend about a film. It's a chance to use the little words that make you sound native.",
+  "steps": [
+    {
+      "speaker": "Fründ",
+      "es": "Häsch de Film gseh? De isch doch mega gsii, oder?",
+      "en": "Did you see the film? It was amazing, wasn't it?",
+      "options": [
+        {
+          "es": "Eba, gäll! Ich han nöd dänkt, dass er so guet isch.",
+          "en": "Exactly, right?! I didn't think it'd be so good.",
+          "verdict": "good",
+          "feedback": "'Eba, gäll' lands perfectly — you sound completely natural."
+        },
+        {
+          "es": "Ja, er isch sehr gut gewesen.",
+          "en": "Yes, it was very good. (High German)",
+          "verdict": "ok",
+          "feedback": "Correct but stiff — the casual particles are what you're practising here."
+        },
+        {
+          "es": "Ja.",
+          "en": "Yes.",
+          "verdict": "ok",
+          "feedback": "He's offering energy — match it with a little more to keep the flow."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "S'Änd het mi aber chli enttüscht, muess ich säge.",
+      "en": "The ending disappointed me a bit, I have to say.",
+      "options": [
+        {
+          "es": "Mh, s'Änd isch halt es bitzli schnäll cho, scho.",
+          "en": "Mm, the ending came a bit fast, admittedly.",
+          "verdict": "good",
+          "feedback": "'halt', 'es bitzli', 'scho' all in one breath — flawlessly local."
+        },
+        {
+          "es": "Findsch? Mir het's gfalle.",
+          "en": "You think? I liked it.",
+          "verdict": "good",
+          "feedback": "Natural disagreement, easy and warm. Just right."
+        },
+        {
+          "es": "Das stimmt nöd.",
+          "en": "That's not true.",
+          "verdict": "ok",
+          "feedback": "A bit blunt for a chat about taste — soften it and it flows better."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Gömmer s'nöchschte Mal zäme is Kino?",
+      "en": "Shall we go to the cinema together next time?",
+      "options": [
+        {
+          "es": "Klar, mach mer! Säg eifach, wänn.",
+          "en": "Sure, let's do it! Just say when.",
+          "verdict": "good",
+          "feedback": "Easy and keen — 'mach mer' is exactly how a local says yes."
+        },
+        {
+          "es": "Mal luege, äuä.",
+          "en": "We'll see, maybe.",
+          "verdict": "ok",
+          "feedback": "'äuä' is great usage, but it cools the plan — say yes if you mean yes."
+        },
+        {
+          "es": "Ich gaa lieber ellei.",
+          "en": "I'd rather go alone.",
+          "verdict": "ok",
+          "feedback": "Fair, but it shuts a friendly door — a softer no would land warmer."
+        }
+      ]
+    },
+    {
+      "speaker": "Fründ",
+      "es": "Top. Du redsch übrigens immer meh wie eine vo da, gäll.",
+      "en": "Great. By the way, you talk more and more like a local, you know.",
+      "options": [
+        {
+          "es": "Häät, merci! Das ghör ich gärn.",
+          "en": "Aw, thanks! I love hearing that.",
+          "verdict": "good",
+          "feedback": "Warm and natural, particle and all. You've arrived."
+        },
+        {
+          "es": "Langsam wird's öppis, gäll.",
+          "en": "It's slowly becoming something, eh.",
+          "verdict": "good",
+          "feedback": "Self-aware and easy — the 'gäll' caps it off beautifully."
+        },
+        {
+          "es": "Findsch würkli?",
+          "en": "You really think so?",
+          "verdict": "ok",
+          "feedback": "Take the compliment — he wouldn't say it if he didn't mean it."
+        }
+      ]
+    }
+  ]
+}

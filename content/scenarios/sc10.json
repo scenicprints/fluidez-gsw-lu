@@ -1,0 +1,49 @@
+{
+  "id": "sc10",
+  "title": "The recycling question",
+  "desc": "Learn the rubbish rules from your neighbour",
+  "setting": "Mrs. Bucher finds you puzzling over the bins in the building's courtyard.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Frau Bucher",
+      "es": "Bruuched Sie Hilf mit em Abfall?",
+      "en": "Do you need help with the rubbish?",
+      "options": [
+        { "es": "Ja, bitte! Ich verstah d'Regle nöd ganz.", "en": "Yes, please! I don't quite understand the rules.", "verdict": "good", "feedback": "Honest and friendly — asking a neighbour is exactly how you learn this." },
+        { "es": "Nei, gaht scho.", "en": "No, I'm fine.", "verdict": "ok", "feedback": "Pride won't help here — the rules are genuinely tricky. Accept the offer." },
+        { "es": "Isch doch egal.", "en": "It doesn't matter anyway.", "verdict": "bad", "feedback": "It really does matter here — wrong sorting can mean a fine. Take the help." }
+      ]
+    },
+    {
+      "speaker": "Frau Bucher",
+      "es": "Also: s'Glaas da ane, s'Papier separat.",
+      "en": "So: the glass over there, the paper separately.",
+      "options": [
+        { "es": "Aha, und de normal Güsel?", "en": "I see, and the normal trash?", "verdict": "good", "feedback": "Great follow-up — you're getting the system. 'Güsel' is the local word for trash." },
+        { "es": "Glaas und Papier, verstande.", "en": "Glass and paper, got it.", "verdict": "good", "feedback": "Repeating it back locks it in. Good." },
+        { "es": "Das isch kompliziert.", "en": "That's complicated.", "verdict": "ok", "feedback": "It is at first! But she's explaining — stay with it." }
+      ]
+    },
+    {
+      "speaker": "Frau Bucher",
+      "es": "De Güsel bruucht en offizielle Sack, mit Gebühr.",
+      "en": "The trash needs an official bag, with a fee.",
+      "options": [
+        { "es": "Aha, drum sind die Säck spezial. Guet z'wüsse!", "en": "Ah, that's why those bags are special. Good to know!", "verdict": "good", "feedback": "You connected the dots — exactly the insight that saves you a fine." },
+        { "es": "Wo chan ich die Säck choufe?", "en": "Where can I buy those bags?", "verdict": "good", "feedback": "Practical and smart — that's the next thing you need to know." },
+        { "es": "E Gebühr für Güsel? Komisch.", "en": "A fee for trash? Weird.", "verdict": "ok", "feedback": "It may seem odd, but it's the system — better to just learn it than judge it." }
+      ]
+    },
+    {
+      "speaker": "Frau Bucher",
+      "es": "Sie lärned schnäll! Bald sind Sie e richtige Lozärner.",
+      "en": "You learn fast! Soon you'll be a real Lucerner.",
+      "options": [
+        { "es": "Dank Ihne, Frau Bucher! Merci viilmal.", "en": "Thanks to you, Mrs. Bucher! Thank you very much.", "verdict": "good", "feedback": "Gracious — crediting her warmth deepens the bond. Lovely." },
+        { "es": "Das hoff ich! Merci für d'Hilf.", "en": "I hope so! Thanks for the help.", "verdict": "good", "feedback": "Warm and genuine. You're building a real neighbourly tie." },
+        { "es": "Mal luege.", "en": "We'll see.", "verdict": "ok", "feedback": "A warmer reply would honor her kind words better." }
+      ]
+    }
+  ]
+}

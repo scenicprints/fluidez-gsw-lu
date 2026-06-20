@@ -1,0 +1,109 @@
+{
+  "id": "sc18",
+  "title": "Clearing up a misunderstanding",
+  "desc": "Sort out a mix-up calmly",
+  "setting": "A colleague thinks you missed a meeting you were never told about.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Kollege",
+      "es": "Du bisch geschter nöd a d'Sitzig cho. Was isch los gsi?",
+      "en": "You didn't come to the meeting yesterday. What happened?",
+      "options": [
+        {
+          "es": "Tut mer leid, ich han gar nüt vo dere Sitzig gwüsst.",
+          "en": "I'm sorry, I didn't know about the meeting at all.",
+          "verdict": "good",
+          "feedback": "Calm and honest — names the real issue (you weren't informed) without blaming."
+        },
+        {
+          "es": "Weli Sitzig?",
+          "en": "Which meeting?",
+          "verdict": "ok",
+          "feedback": "Fair, but pair it with an apology and explanation so it doesn't sound defensive."
+        },
+        {
+          "es": "Das isch nöd mini Schuld!",
+          "en": "That's not my fault!",
+          "verdict": "bad",
+          "feedback": "Leaping to defense escalates it. Stay calm — facts sort this out, not blame."
+        }
+      ]
+    },
+    {
+      "speaker": "Kollege",
+      "es": "Ich han dir doch e Mail gschickt, oder nöd?",
+      "en": "I sent you an email, didn't I?",
+      "options": [
+        {
+          "es": "Ich lueg grad nache. Vilicht isch öppis schief gloffe.",
+          "en": "Let me check right now. Maybe something went wrong.",
+          "verdict": "good",
+          "feedback": "Solution-focused and non-accusatory — exactly how to defuse a mix-up."
+        },
+        {
+          "es": "Die han ich nie übercho.",
+          "en": "I never received it.",
+          "verdict": "good",
+          "feedback": "Clear and factual. Offering to check together would be even smoother."
+        },
+        {
+          "es": "Du häsch sicher d'falsch Adress gha.",
+          "en": "You surely had the wrong address.",
+          "verdict": "ok",
+          "feedback": "Might be true, but blaming back keeps the friction going. Check first."
+        }
+      ]
+    },
+    {
+      "speaker": "Kollege",
+      "es": "Oh... ich gseh's grad. Ich han sie a d'falsch Adress gschickt. Sorry!",
+      "en": "Oh... I see it now. I sent it to the wrong address. Sorry!",
+      "options": [
+        {
+          "es": "Kei Problem, cha jedem passiere. Jetz wüssemer's.",
+          "en": "No problem, can happen to anyone. Now we know.",
+          "verdict": "good",
+          "feedback": "Gracious — letting him off the hook keeps the working relationship warm."
+        },
+        {
+          "es": "Ah, also doch nöd min Fähler. Alls guet.",
+          "en": "Ah, so not my mistake after all. All good.",
+          "verdict": "ok",
+          "feedback": "True, but no need to underline who was wrong — generosity costs nothing."
+        },
+        {
+          "es": "Gseesch, han ich's doch gseit.",
+          "en": "See, I told you so.",
+          "verdict": "bad",
+          "feedback": "Rubbing it in sours a moment he's already owned. Be gracious instead."
+        }
+      ]
+    },
+    {
+      "speaker": "Kollege",
+      "es": "Merci, dass d'so locker bisch. Ich schick dir d'Infos grad no.",
+      "en": "Thanks for being so easygoing. I'll send you the info right now.",
+      "options": [
+        {
+          "es": "Super, merci. Denn bin ich s'nöchscht Mal sicher debii.",
+          "en": "Great, thanks. Then I'll definitely be there next time.",
+          "verdict": "good",
+          "feedback": "Forward-looking and warm — turns a mix-up into goodwill. Perfect."
+        },
+        {
+          "es": "Passt, danke dir.",
+          "en": "Sounds good, thanks.",
+          "verdict": "good",
+          "feedback": "Easy and friendly. Nicely closed."
+        },
+        {
+          "es": "Hoffentlich diesmal richtig.",
+          "en": "Hopefully right this time.",
+          "verdict": "ok",
+          "feedback": "A small dig after he apologized. Better to just move on warmly."
+        }
+      ]
+    }
+  ]
+}

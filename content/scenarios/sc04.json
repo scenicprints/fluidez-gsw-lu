@@ -1,0 +1,49 @@
+{
+  "id": "sc04",
+  "title": "Asking directions",
+  "desc": "Find the station",
+  "setting": "You're lost in Lucerne and need to find the train station. You stop a passer-by.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Passant",
+      "es": "Ja bitte, chan ich Ihne hälfe?",
+      "en": "Yes please, can I help you?",
+      "options": [
+        { "es": "Entschuldigung, wo isch de Bahnhof?", "en": "Excuse me, where is the station?", "verdict": "good", "feedback": "Clear and polite — 'wo isch...' is exactly how to ask where something is." },
+        { "es": "Bahnhof?", "en": "Station?", "verdict": "ok", "feedback": "One word and a pointing look might work, but the full question is friendlier and clearer." },
+        { "es": "Ich bi verlore.", "en": "I'm lost.", "verdict": "ok", "feedback": "Honest and they'll help — but saying what you're looking for gets you there faster." }
+      ]
+    },
+    {
+      "speaker": "Passant",
+      "es": "De Bahnhof? Da gradus und denn rächts.",
+      "en": "The station? Straight ahead and then right.",
+      "options": [
+        { "es": "Gradus und denn rächts. Merci!", "en": "Straight and then right. Thanks!", "verdict": "good", "feedback": "Repeating the directions back confirms you got them — smart and natural." },
+        { "es": "Isch das wiit?", "en": "Is that far?", "verdict": "good", "feedback": "A useful follow-up question. Shows you're following along." },
+        { "es": "Was?", "en": "What?", "verdict": "ok", "feedback": "If you missed it, try 'no einisch, bitte?' (once more, please) — softer than a blunt 'was?'" }
+      ]
+    },
+    {
+      "speaker": "Passant",
+      "es": "Nei, nu zwöi Minute z'Fuess.",
+      "en": "No, just two minutes on foot.",
+      "options": [
+        { "es": "Super, merci viilmal!", "en": "Great, thank you very much!", "verdict": "good", "feedback": "Warm and grateful — exactly right." },
+        { "es": "Perfekt, danke!", "en": "Perfect, thanks!", "verdict": "good", "feedback": "Clean and friendly. Nicely done." },
+        { "es": "Zwöi Minute? Sicher?", "en": "Two minutes? Sure?", "verdict": "ok", "feedback": "No need to doubt them — they're helping. Just thank them and go." }
+      ]
+    },
+    {
+      "speaker": "Passant",
+      "es": "Gärn gschee. Schöne Tag!",
+      "en": "You're welcome. Have a nice day!",
+      "options": [
+        { "es": "Glichfalls, merci!", "en": "Likewise, thanks!", "verdict": "good", "feedback": "The perfect local reflex. You sound right at home." },
+        { "es": "Dir au, tschüss!", "en": "You too, bye!", "verdict": "good", "feedback": "Friendly and natural. Great." },
+        { "es": "Okay tschüss.", "en": "Okay bye.", "verdict": "ok", "feedback": "Fine, though a 'merci' for their help would be warmer." }
+      ]
+    }
+  ]
+}

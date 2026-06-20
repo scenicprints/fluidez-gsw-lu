@@ -1,0 +1,49 @@
+{
+  "id": "sc19",
+  "title": "Asking a big favour",
+  "desc": "Request help without imposing",
+  "setting": "You need your friend Lukas to help you move furniture this weekend.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Lukas",
+      "es": "Sali! Was git's? Du tönsch, als bruuchsch öppis.",
+      "en": "Hi! What's up? You sound like you need something.",
+      "options": [
+        { "es": "Ja, ehrlich gseit han ich e Bitte. Du dörfsch ruhig nei säge.", "en": "Yes, honestly I have a request. You can absolutely say no.", "verdict": "good", "feedback": "Excellent — naming it as a favour and giving him an out shows real respect." },
+        { "es": "Ich bruuch dini Hilf am Samschtig.", "en": "I need your help on Saturday.", "verdict": "ok", "feedback": "Direct, but a softer framing (and an easy out) makes a big ask land better." },
+        { "es": "Du muesch mer hälfe.", "en": "You have to help me.", "verdict": "bad", "feedback": "'You have to' pressures a friend. Ask, don't command — and leave room to decline." }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Klar, frag nu. Um was gaht's?",
+      "en": "Sure, just ask. What's it about?",
+      "options": [
+        { "es": "Ich zügle am Samschtig. Chönntsch mer mit de Möbel hälfe?", "en": "I'm moving Saturday. Could you help me with the furniture?", "verdict": "good", "feedback": "Clear, specific, and polite in the conditional. Easy for him to say yes to." },
+        { "es": "Es isch chli vil Arbet, aber...", "en": "It's a bit of work, but...", "verdict": "ok", "feedback": "Don't undersell or trail off — state the ask clearly so he can decide." },
+        { "es": "Nu chli Möbel träge, nüt Grosses.", "en": "Just carrying a little furniture, nothing big.", "verdict": "ok", "feedback": "Downplaying it can backfire if it turns out to be a lot. Be honest about the scope." }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Klar mach ich das! Wänn söll ich cho?",
+      "en": "Of course I'll do that! When should I come?",
+      "options": [
+        { "es": "Super, merci viilmal! Am nüni? Ich lade dich nochhär zum Ässe ii.", "en": "Great, thank you so much! At nine? I'll treat you to a meal after.", "verdict": "good", "feedback": "Grateful and reciprocal — offering something back is exactly right after a big ask." },
+        { "es": "Am nüni wär super. Danke dir!", "en": "Nine would be great. Thanks!", "verdict": "good", "feedback": "Clear and warm. A little thank-you gesture later wouldn't hurt." },
+        { "es": "Egal wänn, häsch ja Ziit.", "en": "Whenever, you've got time anyway.", "verdict": "bad", "feedback": "Assuming his time is yours undoes the goodwill. Be considerate of his schedule." }
+      ]
+    },
+    {
+      "speaker": "Lukas",
+      "es": "Abgmacht! Es Ässe nimm ich gärn. Bis Samschtig!",
+      "en": "Deal! I'll happily take the meal. See you Saturday!",
+      "options": [
+        { "es": "Du rettsch mich, merci! Bis Samschtig.", "en": "You're saving me, thanks! See you Saturday.", "verdict": "good", "feedback": "Warm and appreciative — he'll feel genuinely valued. Perfect." },
+        { "es": "Super, ich bi dir öppis schuldig.", "en": "Great, I owe you one.", "verdict": "good", "feedback": "Acknowledging the favour keeps the friendship balanced. Nice." },
+        { "es": "Guet, bis denn.", "en": "Good, see you then.", "verdict": "ok", "feedback": "A bit flat for someone doing you a big favour. Show more warmth." }
+      ]
+    }
+  ]
+}
