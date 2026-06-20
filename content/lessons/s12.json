@@ -1,0 +1,24 @@
+{
+  "id": "s12",
+  "title": "Sächs Mönet",
+  "desc": "Reflecting after six months",
+  "ph": 2,
+  "diff": 5,
+  "wu": ["Mönet", "scho", "veränderet", "gwöhnt", "Heimat", "Fortschritt", "stolz", "denke", "zrugg", "wiiter"],
+  "sn": [
+    { "s": "Ich bi jetz scho sächs Mönet z'Luzärn.", "e": "I've now been in Lucerne for six months." },
+    { "s": "Es het sich viel veränderet sit em Aafang.", "e": "A lot has changed since the beginning." },
+    { "s": "Am Aafang han ich kei Wort verstande.", "e": "At the start I didn't understand a word." },
+    { "s": "Jetz cha ich iichaufe, telefoniere, schwätze.", "e": "Now I can shop, phone, chat." },
+    { "s": "Ich denke a de erscht Tag zrugg und lache.", "e": "I think back to the first day and laugh." },
+    { "s": "Domals isch alls fremd und schwiirig gsi.", "e": "Back then everything was strange and difficult." },
+    { "s": "Jetz isch Luzärn fascht wie mini Heimat.", "e": "Now Lucerne is almost like my home." },
+    { "s": "Ich ha Fründe, e Wohnig, en Alltag.", "e": "I have friends, an apartment, a routine." },
+    { "s": "Natürli mach ich no Fähler bim Rede.", "e": "Of course I still make mistakes when speaking." },
+    { "s": "Aber d'Lüt verstönd mich, und das zellt.", "e": "But people understand me, and that counts." },
+    { "s": "Ich bi stolz uf de Fortschritt.", "e": "I'm proud of the progress." },
+    { "s": "Und ich will no viel wiiter cho.", "e": "And I want to go much further still." },
+    { "s": "Sächs Mönet — und es fühlt sich aa wie es Läbe.", "e": "Six months — and it feels like a lifetime." },
+    { "s": "Das isch erscht de Aafang vo mim Wäg.", "e": "This is just the beginning of my journey." }
+  ]
+}

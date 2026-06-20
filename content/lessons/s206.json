@@ -1,0 +1,24 @@
+{
+  "id": "s206",
+  "title": "Chindheit",
+  "desc": "Talking about childhood memories",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["Chind", "domals", "Erinnerig", "Schuel", "gspilt", "Grosseltere", "Sommer", "schöö", "gsi", "früener"],
+  "sn": [
+    { "s": "Bim Kafi redet mir über d'Chindheit.", "e": "Over coffee we talk about childhood." },
+    { "s": "\"Wie isch dini Chindheit gsi?\" fragt d'Sara.", "e": "\"What was your childhood like?\" Sara asks." },
+    { "s": "\"Schöö,\" säg ich. \"Mir händ viel gspilt.\"", "e": "\"Nice,\" I say. \"We played a lot.\"" },
+    { "s": "\"Im Sommer simmer immer am See gsi.\"", "e": "\"In summer we were always at the lake.\"" },
+    { "s": "\"Mini Grosseltere händ es Huus uf em Land ghaa.\"", "e": "\"My grandparents had a house in the countryside.\"" },
+    { "s": "\"Döt han ich d'Ferie verbrocht.\"", "e": "\"I spent my holidays there.\"" },
+    { "s": "\"Schöni Erinnerige,\" seit d'Sara lächlend.", "e": "\"Lovely memories,\" Sara says smiling." },
+    { "s": "\"Und du? Wie isch es bi dir gsi?\" frag ich.", "e": "\"And you? How was it for you?\" I ask." },
+    { "s": "\"Ich bi da z'Luzärn ufgwachse,\" seit sie.", "e": "\"I grew up here in Lucerne,\" she says." },
+    { "s": "\"Mir sind als Chind go schlittle im Winter.\"", "e": "\"As kids we went sledding in winter.\"" },
+    { "s": "Über früener z'rede isch warm und schöö.", "e": "Talking about the past is warm and nice." },
+    { "s": "Mer ghört enand bsser, wenn mer d'Gschicht kennt.", "e": "You understand each other better knowing the history." },
+    { "s": "Vergangeheit z'teile macht d'Fründschaft tüüfer.", "e": "Sharing the past makes the friendship deeper." },
+    { "s": "Us zwöi Chindheite wird ei Gschpröch.", "e": "Two childhoods become one conversation." }
+  ]
+}

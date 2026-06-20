@@ -1,0 +1,24 @@
+{
+  "id": "s305",
+  "title": "Mini Meinig",
+  "desc": "Giving a real opinion",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["Meinig", "finde", "wichtig", "Problem", "Lösig", "wäg", "trotzdäm", "klar", "Bischpil", "überzüge"],
+  "sn": [
+    { "s": "Bim Znacht redet mir über d'Bildig.", "e": "At dinner we talk about education." },
+    { "s": "\"Was isch dini Meinig zum Thema?\" fröged sie.", "e": "\"What's your opinion on the topic?\" they ask." },
+    { "s": "Jetz cha ich e ganzi Meinig gäh.", "e": "Now I can give a full opinion." },
+    { "s": "\"Ich finde, d'Bildig isch s'Wichtigschte.\"", "e": "\"I think education is the most important thing.\"" },
+    { "s": "\"Wieso seisch das?\" fragt d'Schwöschter vom Lukas.", "e": "\"Why do you say that?\" Lukas's sister asks." },
+    { "s": "\"Wäg ohni Bildig isch es schwär, öppis z'ändere.\"", "e": "\"Because without education it's hard to change anything.\"" },
+    { "s": "\"Trotzdäm isch d'Arbet au wichtig,\" seit sie.", "e": "\"Still, work is important too,\" she says." },
+    { "s": "\"Klar, die zwöi ghöred zäme,\" antworte ich.", "e": "\"Of course, the two go together,\" I answer." },
+    { "s": "\"Zum Bischpil bruucht e gueti Arbet es Studium.\"", "e": "\"For example, a good job needs an education.\"" },
+    { "s": "\"Du hesch en guete Punkt,\" gits sie zue.", "e": "\"You have a good point,\" she admits." },
+    { "s": "Ich gib Gründ, Bischpil, und lose au iri zue.", "e": "I give reasons, examples, and listen to theirs too." },
+    { "s": "Es gaht nöd ums Gwünne, sondern ums zäme Dänke.", "e": "It's not about winning, but about thinking together." },
+    { "s": "E Meinig ha und sie erkläre: das isch Sproochgfüel.", "e": "Having an opinion and explaining it: that's command of language." },
+    { "s": "Jetz red ich mit, wie eine vo de Runde.", "e": "Now I take part, like one of the group." }
+  ]
+}

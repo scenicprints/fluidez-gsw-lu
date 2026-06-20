@@ -1,0 +1,24 @@
+{
+  "id": "s207",
+  "title": "En schlächte Tag",
+  "desc": "A bad day and a friend who listens",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["müed", "Stress", "Problem", "zuelose", "verstah", "trööschte", "rede", "bsser", "Fründ", "danke"],
+  "sn": [
+    { "s": "Hüt han ich en würkli schlächte Tag ghaa.", "e": "Today I had a really bad day." },
+    { "s": "Uf de Arbet isch alls schief gange.", "e": "At work everything went wrong." },
+    { "s": "Ich bi müed und voll Stress.", "e": "I'm tired and full of stress." },
+    { "s": "De Lukas merkt grad, dass öppis nöd stimmt.", "e": "Lukas notices right away that something's off." },
+    { "s": "\"Was isch los? Du gsehsch fertig us,\" seit er.", "e": "\"What's wrong? You look done in,\" he says." },
+    { "s": "Ich erzähl em vo mim Problem.", "e": "I tell him about my problem." },
+    { "s": "Er lost guet zue und underbricht mich nöd.", "e": "He listens well and doesn't interrupt me." },
+    { "s": "\"Das tönt würkli streng,\" seit er mitfühlend.", "e": "\"That sounds really tough,\" he says sympathetically." },
+    { "s": "\"Aber morn isch wider en neue Tag.\"", "e": "\"But tomorrow is a new day.\"" },
+    { "s": "Sini Wort trööschted mich würkli.", "e": "His words really comfort me." },
+    { "s": "\"Merci, dass d'mir zuelosisch,\" säg ich.", "e": "\"Thanks for listening to me,\" I say." },
+    { "s": "\"Defür sind Fründe da,\" seit er eifach.", "e": "\"That's what friends are for,\" he says simply." },
+    { "s": "Mit eme Fründ rede macht alls liechter.", "e": "Talking with a friend makes everything lighter." },
+    { "s": "Es Problem teilt isch es halbs Problem.", "e": "A problem shared is half a problem." }
+  ]
+}

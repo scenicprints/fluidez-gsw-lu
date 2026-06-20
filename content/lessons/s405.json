@@ -1,0 +1,77 @@
+{
+  "id": "s405",
+  "title": "D'Familie kenneläre",
+  "desc": "Meeting her family",
+  "ph": 4,
+  "diff": 7,
+  "wu": [
+    "Familie",
+    "Mueter",
+    "Vatter",
+    "nervös",
+    "ahäb",
+    "ahärzig",
+    "Iidruck",
+    "höflich",
+    "gfalle",
+    "stolz"
+  ],
+  "sn": [
+    {
+      "s": "Hüt lärn ich dem Lara ihri Familie kenne.",
+      "e": "Today I'm meeting Lara's family."
+    },
+    {
+      "s": "Ich bi nervös, das mues ich zuegäh.",
+      "e": "I'm nervous, I have to admit it."
+    },
+    {
+      "s": "\"Sii sind ganz ahärzig, mach der kei Sorge,\" seit sie.",
+      "e": "\"They're really warm, don't you worry,\" she says."
+    },
+    {
+      "s": "Ihri Mueter macht s'Tür uf und lächlet.",
+      "e": "Her mother opens the door and smiles."
+    },
+    {
+      "s": "\"Grüezi, schön Sie z'gseh! Chömed doch ine.\"",
+      "e": "\"Hello, nice to see you! Do come in.\""
+    },
+    {
+      "s": "Ihre Vatter git mer d'Hand: \"Willkomme bi öis.\"",
+      "e": "Her father shakes my hand: \"Welcome to our home.\""
+    },
+    {
+      "s": "Mer sitzed am Tisch und ässed zäme z'Mittag.",
+      "e": "We sit at the table and eat lunch together."
+    },
+    {
+      "s": "Ich gib mer Müe, höflich z'sii und guet z'rede.",
+      "e": "I make an effort to be polite and speak well."
+    },
+    {
+      "s": "\"Du redsch ja scho rächt guet Schwiizerdütsch,\" seit d'Mueter.",
+      "e": "\"You already speak Swiss German quite well,\" the mother says."
+    },
+    {
+      "s": "Das git mer es guets Gfühl. Ich han en guete Iidruck gmacht.",
+      "e": "That gives me a good feeling. I made a good impression."
+    },
+    {
+      "s": "De Vatter verzellt vo de alte Ziite z'Luzärn.",
+      "e": "The father tells of the old days in Lucerne."
+    },
+    {
+      "s": "Ich lose zue und stell Frage. Es gfallt mer.",
+      "e": "I listen and ask questions. I'm enjoying it."
+    },
+    {
+      "s": "Wo mer gönd, seit d'Mueter: \"Chömed bald wider!\"",
+      "e": "As we leave, the mother says: \"Come again soon!\""
+    },
+    {
+      "s": "Lara nimmt mini Hand. Ich bi froh und chli stolz.",
+      "e": "Lara takes my hand. I'm happy and a little proud."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s204",
+  "title": "Wo ich härchume",
+  "desc": "Sharing where you come from",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["Heimat", "vermisse", "anders", "Unterschied", "Esse", "Sprooch", "erkläre", "fröge", "neugierig", "verglyche"],
+  "sn": [
+    { "s": "D'Lüt sind neugierig, wo ich härchume.", "e": "People are curious where I come from." },
+    { "s": "\"Wie isch es z'Amerika?\" fraged sie oft.", "e": "\"What's it like in America?\" they often ask." },
+    { "s": "Ich erkläre d'Unterschied zwüsche da und döt.", "e": "I explain the differences between here and there." },
+    { "s": "\"S'Esse isch anders, und d'Stedt sind grösser.\"", "e": "\"The food is different, and the cities are bigger.\"" },
+    { "s": "\"Vermissisch dini Heimat?\" fragt d'Sara.", "e": "\"Do you miss your home?\" Sara asks." },
+    { "s": "\"Mängisch scho, vor allem d'Familie.\"", "e": "\"Sometimes yes, especially my family.\"" },
+    { "s": "\"Aber da han ich es neus Dehei gfunde.\"", "e": "\"But here I've found a new home.\"" },
+    { "s": "Mir verglyched d'Sprooche und lached.", "e": "We compare the languages and laugh." },
+    { "s": "\"Schwiizerdütsch isch würkli schwiirig,\" säg ich.", "e": "\"Swiss German is really difficult,\" I say." },
+    { "s": "\"Aber du machsch das super,\" seit sie.", "e": "\"But you're doing great,\" she says." },
+    { "s": "Über zwöi Wälte z'rede isch spannend.", "e": "Talking about two worlds is exciting." },
+    { "s": "Ich ghöre jetz es bitzli zu beidne.", "e": "I now belong a little to both." },
+    { "s": "Mini Heimat isch nöd verlore, sondern grösser worde.", "e": "My home isn't lost, but has grown bigger." },
+    { "s": "Ich trage zwöi Länder im Härz.", "e": "I carry two countries in my heart." }
+  ]
+}

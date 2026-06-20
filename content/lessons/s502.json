@@ -1,0 +1,77 @@
+{
+  "id": "s502",
+  "title": "Em Verein biträte",
+  "desc": "Joining a local club",
+  "ph": 5,
+  "diff": 7,
+  "wu": [
+    "Verein",
+    "Mitglied",
+    "träffe",
+    "Hobby",
+    "mitmache",
+    "Gmeinschaft",
+    "jasse",
+    "regelmässig",
+    "gäll",
+    "dezuäghöre"
+  ],
+  "sn": [
+    {
+      "s": "In de Schwiiz git's für fascht alls en Verein.",
+      "e": "In Switzerland there's a club for almost everything."
+    },
+    {
+      "s": "Es git Turnverein, Gsangsverein, Jassverein und no viel meh.",
+      "e": "There are gymnastics clubs, choirs, card-playing clubs and much more."
+    },
+    {
+      "s": "En Fründ het mi gfragt: \"Wottsch nöd au mitmache?\"",
+      "e": "A friend asked me: \"Don't you want to join in too?\""
+    },
+    {
+      "s": "\"Was machtter denn?\" han ich gfragt.",
+      "e": "\"What do you do, then?\" I asked."
+    },
+    {
+      "s": "\"Mir träffed öis jede Donnschtig zum Jasse.\"",
+      "e": "\"We meet every Thursday to play Jass (cards).\""
+    },
+    {
+      "s": "Jasse isch s'Schwiizer Chartespiel, fascht es Heiligtum.",
+      "e": "Jass is the Swiss card game, almost sacred."
+    },
+    {
+      "s": "Ich han kei Ahnig gha, aber bi mitcho.",
+      "e": "I had no idea how to play, but I came along."
+    },
+    {
+      "s": "Sie händ mer gduldig d'Reglä erklärt.",
+      "e": "They patiently explained the rules to me."
+    },
+    {
+      "s": "\"Trumpf isch Eichle,\" het eine gseit. Ich han nu glächlet.",
+      "e": "\"Acorns are trumps,\" one said. I just smiled."
+    },
+    {
+      "s": "Nach es paar Wuche han ich's chli kapiert.",
+      "e": "After a few weeks I sort of got it."
+    },
+    {
+      "s": "De Verein isch meh als es Spiel. Es isch e Gmeinschaft.",
+      "e": "The club is more than a game. It's a community."
+    },
+    {
+      "s": "Me lärnt d'Lüt kenne und ghört irgendwie dezue.",
+      "e": "You get to know people and somehow belong."
+    },
+    {
+      "s": "\"Du bisch jetz eine vo öis, gäll,\" het de Älteschti gseit.",
+      "e": "\"You're one of us now, you know,\" the eldest said."
+    },
+    {
+      "s": "Söttigi Wort bedüted mir ganz viel.",
+      "e": "Words like that mean a great deal to me."
+    }
+  ]
+}

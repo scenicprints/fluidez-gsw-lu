@@ -1,0 +1,24 @@
+{
+  "id": "s07",
+  "title": "De Wuchemärt",
+  "desc": "The weekly market on the Reuss",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["Märt", "Gmües", "Frücht", "frisch", "Buur", "choschtet", "Kilo", "probiere", "regional", "Stand"],
+  "sn": [
+    { "s": "Am Zischtig isch Wuchemärt a de Reuss.", "e": "On Tuesday there's a weekly market on the Reuss." },
+    { "s": "D'Buure verchoufed Gmües und Frücht.", "e": "The farmers sell vegetables and fruit." },
+    { "s": "Alls isch frisch und regional, vo da.", "e": "Everything is fresh and regional, from here." },
+    { "s": "\"Grüezi, was wänd Sie?\" fragt e Buurin.", "e": "\"Hello, what would you like?\" a farmer's wife asks." },
+    { "s": "\"Was choschted d'Öpfel?\" frag ich.", "e": "\"How much are the apples?\" I ask." },
+    { "s": "\"Drü Stutz s'Kilo,\" seit sie.", "e": "\"Three francs a kilo,\" she says." },
+    { "s": "\"Dörf ich probiere?\" frag ich höflich.", "e": "\"May I try one?\" I ask politely." },
+    { "s": "\"Klar, nämed Sie!\" Sie git mer es Stückli.", "e": "\"Of course, take one!\" She gives me a little piece." },
+    { "s": "De Öpfel isch süess und saftig.", "e": "The apple is sweet and juicy." },
+    { "s": "\"Sehr guet. Ich nimm es Kilo, bitte.\"", "e": "\"Very good. I'll take a kilo, please.\"" },
+    { "s": "Sie packt d'Öpfel i e Papiersack.", "e": "She packs the apples into a paper bag." },
+    { "s": "Am Märt z'choufe macht würkli Freud.", "e": "Shopping at the market is really a joy." },
+    { "s": "D'Lüt sind fründlich und nämed sich Ziit.", "e": "The people are friendly and take their time." },
+    { "s": "So lärn ich Luzärn vo siner beschte Siite kenne.", "e": "This way I get to know Lucerne from its best side." }
+  ]
+}

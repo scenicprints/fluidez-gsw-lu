@@ -1,0 +1,24 @@
+{
+  "id": "s401",
+  "title": "Öpper Bsundrigs",
+  "desc": "Meeting someone special",
+  "ph": 4,
+  "diff": 7,
+  "wu": ["kenneglärnt", "Härz", "lächle", "nervös", "Date", "freue", "sympathisch", "Aug", "Gfühl", "verliebt"],
+  "sn": [
+    { "s": "Am Fescht han ich öpper Bsundrigs kenneglärnt.", "e": "At the party I met someone special." },
+    { "s": "Sie heisst Lara und het es warmes Lächle.", "e": "Her name is Lara and she has a warm smile." },
+    { "s": "Mir händ de ganz Aabig gredt.", "e": "We talked the whole evening." },
+    { "s": "Öppis a ihre macht mich nervös, im guete Sinn.", "e": "Something about her makes me nervous, in a good way." },
+    { "s": "\"Sölle mir öis mal treffe?\" han ich gfragt.", "e": "\"Shall we meet up sometime?\" I asked." },
+    { "s": "\"Sehr gärn,\" het sie gseit und glächlet.", "e": "\"Gladly,\" she said and smiled." },
+    { "s": "Mis Härz het schnäller gschlage.", "e": "My heart beat faster." },
+    { "s": "Mir händ s'erste Date abgmacht.", "e": "We arranged our first date." },
+    { "s": "Sie isch sympathisch, klug und luschtig.", "e": "She's likeable, clever and funny." },
+    { "s": "Ich cha s'Date fascht nöd erwarte.", "e": "I can hardly wait for the date." },
+    { "s": "Es isch es Gfühl, wo ich lang nöd gha han.", "e": "It's a feeling I haven't had in a long time." },
+    { "s": "Vilicht isch das de Aafang vo öppisem Schönem.", "e": "Maybe this is the start of something beautiful." },
+    { "s": "Z'Luzärn han ich nöd nu e Heimat gfunde.", "e": "In Lucerne I've found more than a home." },
+    { "s": "Vilicht au öpper, wo mis Härz berüert.", "e": "Maybe also someone who touches my heart." }
+  ]
+}

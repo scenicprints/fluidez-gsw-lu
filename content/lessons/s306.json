@@ -1,0 +1,24 @@
+{
+  "id": "s306",
+  "title": "En grosse Gfalle",
+  "desc": "Asking for a bigger favor",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["Gfalle", "Hilf", "uusliehe", "chönnt", "Müej", "vertraue", "danke", "verspreche", "zrugg gäh", "Fritig"],
+  "sn": [
+    { "s": "Ich han en Notfall und bruuch Hilf.", "e": "I have an emergency and need help." },
+    { "s": "Min Computer isch kapütt, grad vor ere wichtige Arbet.", "e": "My computer broke, right before an important job." },
+    { "s": "Ich lüte de Lukas aa, es bitzli nervös.", "e": "I call Lukas, a little nervous." },
+    { "s": "\"Lukas, chan ich di um en grosse Gfalle bitte?\"", "e": "\"Lukas, can I ask you a big favor?\"" },
+    { "s": "\"Klar, säg. Was bruuchsch?\"", "e": "\"Sure, tell me. What do you need?\"" },
+    { "s": "\"Chönntsch mer din Computer für e paar Täg uusliehe?\"", "e": "\"Could you lend me your computer for a few days?\"" },
+    { "s": "\"Ich weiss, das isch viel verlangt,\" füeg ich dezue.", "e": "\"I know that's a lot to ask,\" I add." },
+    { "s": "\"Kei Müej. Drum het me Fründe.\"", "e": "\"No trouble. That's what friends are for.\"" },
+    { "s": "\"Ich gib der en guet acht und bring en am Fritig zrugg.\"", "e": "\"I'll take good care of it and bring it back Friday.\"" },
+    { "s": "\"Ruhig, ich vertraue der,\" seit de Lukas.", "e": "\"Easy, I trust you,\" Lukas says." },
+    { "s": "\"Ich danke der würkli viilmal.\"", "e": "\"I really thank you very much.\"" },
+    { "s": "En grosse Gfalle frage bruucht Vertraue.", "e": "Asking a big favor requires trust." },
+    { "s": "Und s'Versprochne haate ghaltet's.", "e": "And keeping your promise maintains it." },
+    { "s": "'Chönntsch' und 'merci' mached viel ufä.", "e": "'Could you' and 'thanks' open a lot of doors." }
+  ]
+}

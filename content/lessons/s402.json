@@ -1,0 +1,24 @@
+{
+  "id": "s402",
+  "title": "S'erste Date",
+  "desc": "The first date",
+  "ph": 4,
+  "diff": 7,
+  "wu": ["Date", "Restaurant", "redde", "lache", "Ziit", "vergässe", "ehrlich", "spaziere", "Aabig", "schöö"],
+  "sn": [
+    { "s": "Hüt isch s'erste Date mit de Lara.", "e": "Today is the first date with Lara." },
+    { "s": "Mir treffed öis bi nem chline Restaurant.", "e": "We meet at a small restaurant." },
+    { "s": "Sie gseht wunderschöö us, und ich bi nervös.", "e": "She looks beautiful, and I'm nervous." },
+    { "s": "Aber schnäll redet mir, als ob mir öis lang kenned.", "e": "But soon we talk as if we've known each other long." },
+    { "s": "Mir lached viel und vergässed d'Ziit.", "e": "We laugh a lot and forget the time." },
+    { "s": "Sie verzellt vo ihrere Familie und ihre Tröim.", "e": "She tells me about her family and her dreams." },
+    { "s": "Ich bi ehrlich und erzähl ihre vo mim Wäg.", "e": "I'm honest and tell her about my journey." },
+    { "s": "\"Du bisch mutig, so wiit z'cho,\" seit sie.", "e": "\"You're brave to have come so far,\" she says." },
+    { "s": "Nach em Ässe spaziere mir am See.", "e": "After eating we stroll along the lake." },
+    { "s": "D'Liechter spieglet sich im Wasser.", "e": "The lights reflect in the water." },
+    { "s": "\"Das isch en perfekte Aabig gsi,\" säg ich.", "e": "\"This was a perfect evening,\" I say." },
+    { "s": "\"Find ich au,\" seit sie liis.", "e": "\"I think so too,\" she says softly." },
+    { "s": "Mir verschpräched öis es zwöits Date.", "e": "We promise each other a second date." },
+    { "s": "Ich gaa hei mit eme Lächle, wo nöd wiitgaht.", "e": "I go home with a smile that won't fade." }
+  ]
+}

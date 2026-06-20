@@ -1,0 +1,24 @@
+{
+  "id": "s109",
+  "title": "Zahle und Geld",
+  "desc": "Numbers, money, and prices",
+  "ph": 1,
+  "diff": 5,
+  "wu": ["Geld", "zahle", "Rappe", "Note", "Münz", "wächsle", "tüür", "billig", "kosch", "spare"],
+  "sn": [
+    { "s": "Geld und Zahle sind im Alltag wichtig.", "e": "Money and numbers are important in daily life." },
+    { "s": "E Franke het hundert Rappe.", "e": "A franc has a hundred rappen." },
+    { "s": "Mer redt vo 'Stutz' für Franke und 'Rappe' fürs Chli.", "e": "People say 'Stutz' for francs and 'Rappe' for the small change." },
+    { "s": "Im Lade frag ich: \"Wieviel macht das zäme?\"", "e": "In the shop I ask: \"How much is that altogether?\"" },
+    { "s": "\"Vierzg Stutz föfzg,\" seit d'Verchäuferin.", "e": "\"Forty francs fifty,\" the saleswoman says." },
+    { "s": "Ich gib ere e Fuffzgernote.", "e": "I give her a fifty-franc note." },
+    { "s": "Sie git mer s'Räschtgäld zrugg.", "e": "She gives me the change back." },
+    { "s": "\"Da sind nün Stutz föfzg zrugg.\"", "e": "\"Here's nine fifty back.\"" },
+    { "s": "Z'Luzärn isch s'Läbe nöd grad billig.", "e": "In Lucerne life isn't exactly cheap." },
+    { "s": "Drum lueg ich, dass ich es bitzli spare.", "e": "So I make sure to save a little." },
+    { "s": "Aber gueti Sache dörfed au öppis koschte.", "e": "But good things are allowed to cost something." },
+    { "s": "Langsam verstah ich d'Zahle bim Rede.", "e": "Slowly I understand the numbers when spoken." },
+    { "s": "'Föfzg', 'sächzg', 'sibzg': es chunnt.", "e": "'Fifty', 'sixty', 'seventy': it's coming." },
+    { "s": "Mit Geld umgah uf Schwiizerdütsch: gschafft.", "e": "Handling money in Swiss German: managed." }
+  ]
+}

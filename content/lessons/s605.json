@@ -1,0 +1,77 @@
+{
+  "id": "s605",
+  "title": "Die chliine Wörtli",
+  "desc": "Discourse particles that glue it together",
+  "ph": 6,
+  "diff": 9,
+  "wu": [
+    "gäll",
+    "oder",
+    "halt",
+    "eba",
+    "scho",
+    "äuä",
+    "mängisch",
+    "irgendwie",
+    "verstärke",
+    "betone"
+  ],
+  "sn": [
+    {
+      "s": "Es git Wörtli, wo fascht nüt bedüted und doch alls.",
+      "e": "There are little words that mean almost nothing and yet everything."
+    },
+    {
+      "s": "\"Gäll\" hänkt mer ane, wenn mer Zuestimmig wott.",
+      "e": "You add 'gäll' when you want agreement."
+    },
+    {
+      "s": "\"Schöns Wätter, gäll?\" heisst: \"oder findsch nöd au?\"",
+      "e": "\"Nice weather, gäll?\" means: \"don't you think too?\""
+    },
+    {
+      "s": "\"Halt\" seit mer, wenn öppis eifach so isch.",
+      "e": "You say 'halt' when something just is the way it is."
+    },
+    {
+      "s": "\"Es isch halt so\" heisst: \"mer cha nüt mache.\"",
+      "e": "\"It's just like that\" means: \"nothing can be done.\""
+    },
+    {
+      "s": "\"Eba\" bedütet \"genau\", wenn öpper rächt het.",
+      "e": "\"Eba\" means \"exactly\", when someone is right."
+    },
+    {
+      "s": "\"Scho\" cha \"zwar\" heisse: \"es isch scho guet, aber...\"",
+      "e": "\"Scho\" can mean \"admittedly\": \"it's good, sure, but...\""
+    },
+    {
+      "s": "\"Äuä\" zeigt Zwiifel: \"das glaub ich chuum.\"",
+      "e": "\"Äuä\" shows doubt: \"I hardly believe that.\""
+    },
+    {
+      "s": "Eis säuber heissed sie wenig. Zäme mached sie de Ton.",
+      "e": "On their own they mean little. Together they make the tone."
+    },
+    {
+      "s": "Wer sie richtig setzt, tönt sofort wie vo da.",
+      "e": "Whoever places them right sounds instantly local."
+    },
+    {
+      "s": "Mer cha sie nöd us em Buech lärne.",
+      "e": "You can't learn them from a book."
+    },
+    {
+      "s": "Mer mues sie ghöre und eifach probiere.",
+      "e": "You have to hear them and just try them out."
+    },
+    {
+      "s": "Jetz rütsched sie mir ganz vo sälber use.",
+      "e": "Now they slip out of me all by themselves."
+    },
+    {
+      "s": "\"Eba, gäll,\" säg ich, und denke gar nöd meh dra.",
+      "e": "\"Eba, gäll,\" I say, and don't even think about it anymore."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "s503",
+  "title": "D'Fasnacht",
+  "desc": "Lucerne carnival",
+  "ph": 5,
+  "diff": 8,
+  "wu": [
+    "Fasnacht",
+    "Larve",
+    "Guggemusig",
+    "Umzug",
+    "verchleide",
+    "laut",
+    "Trommle",
+    "Konfetti",
+    "feschte",
+    "verruckt"
+  ],
+  "sn": [
+    {
+      "s": "D'Luzärner Fasnacht isch öppis ganz Bsundrigs.",
+      "e": "The Lucerne carnival is something very special."
+    },
+    {
+      "s": "Sie fangt früeh am Morge aa, mit eme grosse Chnall.",
+      "e": "It begins early in the morning, with a big bang."
+    },
+    {
+      "s": "D'ganz Stadt verchleidet sich und gaht uf d'Strooss.",
+      "e": "The whole city dresses up and takes to the streets."
+    },
+    {
+      "s": "E Larve isch e Maske, wo mer s'Gsicht versteckt.",
+      "e": "A 'Larve' is a mask that hides your face."
+    },
+    {
+      "s": "D'Guggemusige spiled laut und schöö schräg.",
+      "e": "The 'Guggen' bands play loud and beautifully out of tune."
+    },
+    {
+      "s": "Trommle, Trompete und Chläbe: es isch ohrebetäubend.",
+      "e": "Drums, trumpets and cymbals: it's deafening."
+    },
+    {
+      "s": "Beim Umzug ziehnd d'Gruppe dur d'Altstadt.",
+      "e": "In the parade the groups march through the old town."
+    },
+    {
+      "s": "Überall flüged Konfetti dur d'Luft.",
+      "e": "Confetti flies through the air everywhere."
+    },
+    {
+      "s": "\"Chum, tanz mit!\" rüeft mer öpper zue.",
+      "e": "\"Come, dance along!\" someone shouts to me."
+    },
+    {
+      "s": "Ich han mi au verchleidet und mitgmacht.",
+      "e": "I dressed up too and joined in."
+    },
+    {
+      "s": "Für es paar Täg isch d'ganz Stadt chli verruckt.",
+      "e": "For a few days the whole city is a little crazy."
+    },
+    {
+      "s": "Niemmer isch öpper Bsundrigs, und doch sind alli zäme.",
+      "e": "Nobody is anybody special, and yet everyone is together."
+    },
+    {
+      "s": "D'Fasnacht ghört zu Luzärn wie de See und d'Bärg.",
+      "e": "The carnival belongs to Lucerne like the lake and the mountains."
+    },
+    {
+      "s": "Wer das mitgmacht het, verstaht d'Stadt es bitzli besser.",
+      "e": "Whoever has experienced it understands the city a little better."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s04",
+  "title": "S'Schiff",
+  "desc": "The boat on Lake Lucerne",
+  "ph": 0,
+  "diff": 2,
+  "wu": ["Schiff", "See", "Wasser", "schöö", "luege", "Bärg", "blau", "wält", "kalt", "gseh"],
+  "sn": [
+    { "s": "Am Sunntig gaa ich zum Vierwaldstättersee.", "e": "On Sunday I go to Lake Lucerne." },
+    { "s": "Es Schiff fahrt über s'Wasser, langsam und ruhig.", "e": "A boat goes across the water, slow and calm." },
+    { "s": "\"Luege!\" säg ich zu mir säuber.", "e": "\"Look!\" I say to myself." },
+    { "s": "\"Luege\" heisst schauen. Es isch es wichtigs Wort.", "e": "\"Luege\" means to look. It's an important word." },
+    { "s": "Ich gseh d'Bärg, wiiss vom Schnee.", "e": "I see the mountains, white with snow." },
+    { "s": "\"Gseh\" heisst sehen uf Lozärnerisch.", "e": "\"Gseh\" means to see in Lucerne German." },
+    { "s": "S'Wasser isch chli kalt, aber so blau.", "e": "The water is a little cold, but so blue." },
+    { "s": "E alte Maa näbed mir lächlet.", "e": "An old man next to me smiles." },
+    { "s": "\"Schöö, gäll?\" seit er und zeigt uf d'Bärg.", "e": "\"Beautiful, right?\" he says and points at the mountains." },
+    { "s": "\"Gäll\" seit mer am Schluss, wie 'oder?' uf Änglisch.", "e": "\"Gäll\" is said at the end, like 'right?' in English." },
+    { "s": "\"Ja, würkli schöö,\" antworte ich.", "e": "\"Yes, really beautiful,\" I answer." },
+    { "s": "S'Schiff fahrt wiiter, und ich gnüsse de Momänt.", "e": "The boat goes on, and I enjoy the moment." },
+    { "s": "D'Wält isch ruhig da uf em See.", "e": "The world is calm here on the lake." },
+    { "s": "Luzärn isch nöd nu e Stadt. Es isch es Bild.", "e": "Lucerne isn't just a city. It's a picture." }
+  ]
+}

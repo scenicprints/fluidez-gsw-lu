@@ -1,0 +1,24 @@
+{
+  "id": "s10",
+  "title": "Bim Dokter",
+  "desc": "A visit to the doctor",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["Dokter", "chrank", "weh", "Termin", "Hals", "Fieber", "Medikamänt", "bsser", "ruehe", "Rezäpt"],
+  "sn": [
+    { "s": "Ich fühl mich nöd guet, ich bi chrank.", "e": "I don't feel well, I'm sick." },
+    { "s": "De Hals tuet weh und ich ha Fieber.", "e": "My throat hurts and I have a fever." },
+    { "s": "Ich rüef de Dokter aa für e Termin.", "e": "I call the doctor for an appointment." },
+    { "s": "\"Chömed Sie grad verbii,\" seit d'Praxis.", "e": "\"Come by right away,\" the practice says." },
+    { "s": "Bim Dokter frag er: \"Was händ Sie?\"", "e": "At the doctor's he asks: \"What's wrong?\"" },
+    { "s": "\"De Hals tuet weh und ich ha Fieber.\"", "e": "\"My throat hurts and I have a fever.\"" },
+    { "s": "Er luegt mer i de Hals und nickt.", "e": "He looks into my throat and nods." },
+    { "s": "\"Sie händ e Erkältig. Nüt Schlimms.\"", "e": "\"You have a cold. Nothing serious.\"" },
+    { "s": "\"Ich gib Ihne es Rezäpt für es Medikamänt.\"", "e": "\"I'll give you a prescription for a medicine.\"" },
+    { "s": "\"Trinked viel und ruehed sich us,\" seit er.", "e": "\"Drink a lot and rest,\" he says." },
+    { "s": "\"Wänn bin ich wider bsser?\" frag ich.", "e": "\"When will I be better?\" I ask." },
+    { "s": "\"I es paar Täg gaht's Ihne wider guet.\"", "e": "\"In a few days you'll be fine again.\"" },
+    { "s": "\"Merci, Herr Dokter.\" Ich gaa hei.", "e": "\"Thanks, doctor.\" I go home." },
+    { "s": "Sogar chrank cha ich mich jetz uusdrucke.", "e": "Even sick I can now express myself." }
+  ]
+}

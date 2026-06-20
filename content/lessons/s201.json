@@ -1,0 +1,24 @@
+{
+  "id": "s201",
+  "title": "Über mich",
+  "desc": "Talking about yourself",
+  "ph": 2,
+  "diff": 5,
+  "wu": ["erzähle", "Familie", "Arbet", "Hobby", "gärn", "Brüeder", "Schwöschter", "ufgwachse", "interessiere", "Läbe"],
+  "sn": [
+    { "s": "Bim Znacht fragt mich e Fründin über mich us.", "e": "Over dinner a friend asks me about myself." },
+    { "s": "\"Erzäll, wohär chunsch genau?\" fragt sie.", "e": "\"Tell me, where exactly are you from?\" she asks." },
+    { "s": "\"Ich bi z'Amerika ufgwachse,\" säg ich.", "e": "\"I grew up in America,\" I say." },
+    { "s": "\"Han e Brüeder und e Schwöschter dehei.\"", "e": "\"I have a brother and a sister back home.\"" },
+    { "s": "\"Und was machsch für e Arbet?\" fragt sie.", "e": "\"And what work do you do?\" she asks." },
+    { "s": "\"Ich schaffe als Ingenieur,\" antworte ich.", "e": "\"I work as an engineer,\" I answer." },
+    { "s": "\"Spannend! Und was machsch i de Freiziit?\"", "e": "\"Interesting! And what do you do in your free time?\"" },
+    { "s": "\"Ich wandere gärn und lise viel.\"", "e": "\"I like hiking and read a lot.\"" },
+    { "s": "\"Denn passt Luzärn perfekt zu dir!\" lacht sie.", "e": "\"Then Lucerne suits you perfectly!\" she laughs." },
+    { "s": "Über mich z'rede uf Dütsch wird liechter.", "e": "Talking about myself in German is getting easier." },
+    { "s": "Ich cha mis Läbe erzähle, mini Gschicht.", "e": "I can tell my life, my story." },
+    { "s": "\"Du interessiersch mich,\" seit sie fründlich.", "e": "\"You interest me,\" she says kindly." },
+    { "s": "Es Gschpröch über sich säuber verbindet.", "e": "A conversation about oneself connects people." },
+    { "s": "So lärned d'Lüt, wär ich würkli bi.", "e": "This way people learn who I really am." }
+  ]
+}

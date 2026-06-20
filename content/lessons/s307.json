@@ -1,0 +1,24 @@
+{
+  "id": "s307",
+  "title": "De Plan B",
+  "desc": "When plans fall apart",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["absäge", "ändere", "improvisiere", "Zuekunft", "werded", "sueche", "Alternative", "löse", "ruhig", "zäme"],
+  "sn": [
+    { "s": "Mir händ Plän gha, am Samschtig an See z'gah.", "e": "We had plans to go to the lake on Saturday." },
+    { "s": "Aber em Lukas sis Auto isch kapütt gange.", "e": "But Lukas's car broke down." },
+    { "s": "\"De Plan isch hi,\" seit er, truurig.", "e": "\"The plan's off,\" he says, sad." },
+    { "s": "\"Ruhig, mir sueched en Plan B,\" antworte ich.", "e": "\"Easy, we'll find a plan B,\" I answer." },
+    { "s": "\"Was mached mir denn?\" fragt er.", "e": "\"What do we do then?\" he asks." },
+    { "s": "\"Mir chönd de Zug näh. Mir werded chli spöter cho.\"", "e": "\"We can take the train. We'll arrive a bit later.\"" },
+    { "s": "\"Aber mir händ trotzdäm de ganz Namittag,\" füeg ich dezue.", "e": "\"But we'll still have the whole afternoon,\" I add." },
+    { "s": "\"Gueti Idee. Daa han ich nöd dänkt.\"", "e": "\"Good idea. I hadn't thought of that.\"" },
+    { "s": "\"Morn reparirsch s'Auto und alls isch guet.\"", "e": "\"Tomorrow you fix the car and all's well.\"" },
+    { "s": "\"Hesch rächt. Improvisiere macht au Spass.\"", "e": "\"You're right. Improvising is fun too.\"" },
+    { "s": "Wänn en Plan nöd klappt, suecht me en andere.", "e": "When a plan doesn't work, you find another." },
+    { "s": "Über d'Zuekunft rede: mir werded, mir gönd, mir chömed.", "e": "Talking about the future: we will, we'll go, we'll come." },
+    { "s": "Flexibel sii ghört zum Läbe.", "e": "Being flexible is part of life." },
+    { "s": "Am Schluss zellt nu, dass mir zäme sind.", "e": "In the end all that counts is being together." }
+  ]
+}

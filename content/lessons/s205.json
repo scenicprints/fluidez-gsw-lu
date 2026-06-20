@@ -1,0 +1,24 @@
+{
+  "id": "s205",
+  "title": "Wonni gärn ha",
+  "desc": "Talking about likes and dislikes",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["möge", "gärn", "ha", "lieber", "hasse", "Musig", "Sport", "läse", "koche", "uufstah"],
+  "sn": [
+    { "s": "Mir redet drüber, was mer gärn händ.", "e": "We talk about what we like." },
+    { "s": "\"Was machsch am liebschte?\" fragt de Lukas.", "e": "\"What do you like doing most?\" Lukas asks." },
+    { "s": "\"Ich ha s'Wandere sehr gärn,\" säg ich.", "e": "\"I really like hiking,\" I say." },
+    { "s": "\"Und am Aabig lise ich gärn es Buech.\"", "e": "\"And in the evening I like reading a book.\"" },
+    { "s": "\"Ich mag au Musig, vor allem live.\"", "e": "\"I also like music, especially live.\"" },
+    { "s": "\"Und was häsch nöd so gärn?\" fragt er.", "e": "\"And what don't you like so much?\" he asks." },
+    { "s": "\"Früeh uufstah han ich gar nöd gärn,\" lache ich.", "e": "\"I really don't like getting up early,\" I laugh." },
+    { "s": "\"Da simmer glich!\" seit de Lukas.", "e": "\"There we're the same!\" Lukas says." },
+    { "s": "\"Ich koche lieber als ufruume,\" säg ich.", "e": "\"I'd rather cook than clean,\" I say." },
+    { "s": "Über Gschmäck z'rede isch eifach und schöö.", "e": "Talking about tastes is easy and nice." },
+    { "s": "Mer findet schnäll Gmeinsamkeite.", "e": "You quickly find things in common." },
+    { "s": "\"Mir sötted mal zäme go wandere,\" schlat er vor.", "e": "\"We should go hiking together sometime,\" he suggests." },
+    { "s": "\"Sehr gärn!\" säg ich sofort.", "e": "\"Gladly!\" I say at once." },
+    { "s": "Us gmeinsame Interesse wachsed Fründschafte.", "e": "Friendships grow from shared interests." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s308",
+  "title": "Gränze setze",
+  "desc": "Setting a boundary kindly",
+  "ph": 3,
+  "diff": 8,
+  "wu": ["Gränze", "chan nöd", "leider", "respektiere", "bschäftigt", "entschuldige", "fescht", "ehrlich", "verstah", "nei säge"],
+  "sn": [
+    { "s": "En Bekannte fragt mi scho wieder um Gäld.", "e": "An acquaintance asks me for money again." },
+    { "s": "Es isch s'dritt Mal de Monet.", "e": "It's the third time this month." },
+    { "s": "Ich wott hälfe, aber au e Gränze setze.", "e": "I want to help, but also set a boundary." },
+    { "s": "\"Lueg, ich schätze di, aber das Mal chan ich nöd.\"", "e": "\"Look, I appreciate you, but this time I can't.\"" },
+    { "s": "\"Wieso nöd?\" fragt er.", "e": "\"Why not?\" he asks." },
+    { "s": "\"Leider langt's mer de Monet sälber nöd.\"", "e": "\"Unfortunately I don't have enough myself this month.\"" },
+    { "s": "Ich sägs ruhig, aber fescht.", "e": "I say it calmly, but firmly." },
+    { "s": "\"Ich hoffe, du verstahsch mini Situation.\"", "e": "\"I hope you understand my situation.\"" },
+    { "s": "\"Isch guet. Merci, dass d'ehrlich bisch,\" seit er.", "e": "\"It's okay. Thanks for being honest,\" he says." },
+    { "s": "\"Klar. Bi öppisem anderem hilf ich gärn.\"", "e": "\"Of course. I'll gladly help with something else.\"" },
+    { "s": "Nei säge isch au e Form vo Respekt.", "e": "Saying no is also a form of respect." },
+    { "s": "Respekt für sich sälber und für de ander.", "e": "Respect for yourself and for the other person." },
+    { "s": "Ehrlich und fründlich zäme sii isch möglich.", "e": "Being honest and kind at once is possible." },
+    { "s": "E Gränze setze uf Schwiizerdütsch: en chliine Sieg.", "e": "Setting a boundary in Swiss German: a small victory." }
+  ]
+}

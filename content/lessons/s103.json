@@ -1,0 +1,77 @@
+{
+  "id": "s103",
+  "title": "Es bitzli Wätter",
+  "desc": "Small talk about the weather",
+  "ph": 1,
+  "diff": 4,
+  "wu": [
+    "Wätter",
+    "Räge",
+    "Sunne",
+    "chalt",
+    "warm",
+    "Schnee",
+    "Wind",
+    "morn",
+    "hoffe",
+    "Nebel"
+  ],
+  "sn": [
+    {
+      "s": "Z'Luzärn redt mer viel über s'Wätter.",
+      "e": "In Lucerne people talk a lot about the weather."
+    },
+    {
+      "s": "Hüt isch es grau und es het Nebel.",
+      "e": "Today it's grey and there's fog."
+    },
+    {
+      "s": "D'Frau Bucher triff ich vor em Hus.",
+      "e": "I meet Mrs. Bucher in front of the house."
+    },
+    {
+      "s": "\"Hüt isch es würkli chalt, gäll?\" seit sie.",
+      "e": "\"Today it's really cold, isn't it?\" she says."
+    },
+    {
+      "s": "\"Ja, und de Nebel will nöd weg,\" antworte ich.",
+      "e": "\"Yes, and the fog won't go away,\" I answer."
+    },
+    {
+      "s": "\"Aber morn söll d'Sunne cho,\" seit sie hoffnigsvoll.",
+      "e": "\"But tomorrow the sun is supposed to come,\" she says hopefully."
+    },
+    {
+      "s": "\"Das wär schöö. Ich ha gnueg vom Räge.\"",
+      "e": "\"That would be nice. I've had enough of the rain.\""
+    },
+    {
+      "s": "\"Im Winter het's da au mängisch Schnee.\"",
+      "e": "\"In winter there's sometimes snow here too.\""
+    },
+    {
+      "s": "\"Schnee han ich gärn,\" säg ich lächlend.",
+      "e": "\"I like snow,\" I say smiling."
+    },
+    {
+      "s": "\"Denn wärded Sie de Winter da möge,\" seit sie.",
+      "e": "\"Then you'll like the winter here,\" she says."
+    },
+    {
+      "s": "Über s'Wätter z'rede isch eifach und nett.",
+      "e": "Talking about the weather is easy and nice."
+    },
+    {
+      "s": "Es isch de Aafang vo jedem Gschpröch.",
+      "e": "It's the start of every conversation."
+    },
+    {
+      "s": "\"Schöne Tag no, Frau Bucher!\"",
+      "e": "\"Have a nice day, Mrs. Bucher!\""
+    },
+    {
+      "s": "So chlini Gschpröch mached de Alltag wärmer.",
+      "e": "Such little chats make daily life warmer."
+    }
+  ]
+}

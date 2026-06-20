@@ -1,0 +1,24 @@
+{
+  "id": "s105",
+  "title": "D'Wohnig",
+  "desc": "Settling into the apartment",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["Wohnig", "Zimmer", "Chuchi", "Bett", "Tisch", "Fänschter", "ufruume", "gmüetlich", "Möbel", "dehei"],
+  "sn": [
+    { "s": "Mini neui Wohnig isch chli, aber gmüetlich.", "e": "My new apartment is small, but cozy." },
+    { "s": "Sie het zwöi Zimmer, e Chuchi und es Bad.", "e": "It has two rooms, a kitchen and a bathroom." },
+    { "s": "Vom Fänschter us gseh ich d'Bärg.", "e": "From the window I can see the mountains." },
+    { "s": "Hüt will ich d'Wohnig ufruume und iirichte.", "e": "Today I want to tidy and furnish the apartment." },
+    { "s": "Ich stelle de Tisch i d'Chuchi.", "e": "I put the table in the kitchen." },
+    { "s": "S'Bett chunnt is grösser Zimmer.", "e": "The bed goes in the bigger room." },
+    { "s": "Es paar Möbel fähled mer no.", "e": "I'm still missing a few pieces of furniture." },
+    { "s": "Aber langsam wird's gmüetlich da.", "e": "But slowly it's getting cozy here." },
+    { "s": "D'Frau Bucher chunnt verbii mit eme Chueche.", "e": "Mrs. Bucher comes by with a cake." },
+    { "s": "\"Es chlises Gschänk fürs neue Dehei,\" seit sie.", "e": "\"A little gift for the new home,\" she says." },
+    { "s": "\"Oh, das isch lieb! Merci viilmal!\"", "e": "\"Oh, that's sweet! Thank you very much!\"" },
+    { "s": "Mir trinked zäme e Kafi i de neue Chuchi.", "e": "We drink a coffee together in the new kitchen." },
+    { "s": "S'erste Mal fühlt sich d'Wohnig wie dehei aa.", "e": "For the first time the apartment feels like home." },
+    { "s": "Es isch nöd nu e Wohnig. Es wird mis Läbe.", "e": "It's not just an apartment. It's becoming my life." }
+  ]
+}

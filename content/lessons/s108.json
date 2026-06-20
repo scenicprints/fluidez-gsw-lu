@@ -1,0 +1,24 @@
+{
+  "id": "s108",
+  "title": "Reckle und Träne",
+  "desc": "The recycling rules",
+  "ph": 1,
+  "diff": 5,
+  "wu": ["Abfall", "Reckling", "Glaas", "Papier", "trenne", "Sack", "Gebühr", "Container", "Regle", "wichtig"],
+  "sn": [
+    { "s": "I de Schwiiz isch Reckling sehr wichtig.", "e": "In Switzerland recycling is very important." },
+    { "s": "Mer mues de Abfall genau trenne.", "e": "You have to separate the rubbish carefully." },
+    { "s": "Glaas, Papier und Kartoon gönd extra.", "e": "Glass, paper and cardboard go separately." },
+    { "s": "D'Frau Bucher zeigt mer, wie's gaht.", "e": "Mrs. Bucher shows me how it works." },
+    { "s": "\"S'Glaas chunnt da i de Container,\" seit sie.", "e": "\"The glass goes here in the container,\" she says." },
+    { "s": "\"Und de Güsel bruucht en offizielle Sack.\"", "e": "\"And the trash needs an official bag.\"" },
+    { "s": "\"En offizielle Sack?\" frag ich überrascht.", "e": "\"An official bag?\" I ask, surprised." },
+    { "s": "\"Ja, mit Gebühr. Süsch git's e Buess.\"", "e": "\"Yes, with a fee. Otherwise there's a fine.\"" },
+    { "s": "Ich staune: d'Regle sind genau und ärnscht.", "e": "I'm amazed: the rules are precise and serious." },
+    { "s": "\"Mer nimmt das da würkli gnau,\" lacht sie.", "e": "\"People take this really seriously here,\" she laughs." },
+    { "s": "Ich lärn alli Regle uswändig.", "e": "I learn all the rules by heart." },
+    { "s": "De Abfall richtig z'trenne ghört zum Läbe da.", "e": "Separating the trash properly is part of life here." },
+    { "s": "Es isch fascht es Zeiche, dass mer dezue ghört.", "e": "It's almost a sign that you belong." },
+    { "s": "Wer richtig recklet, isch es bitzli Schwiizer.", "e": "Whoever recycles properly is a little bit Swiss." }
+  ]
+}

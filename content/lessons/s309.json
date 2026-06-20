@@ -1,0 +1,24 @@
+{
+  "id": "s309",
+  "title": "S'Vorstellungsgschpröch",
+  "desc": "A job interview",
+  "ph": 3,
+  "diff": 8,
+  "wu": ["Vorstellungsgschpröch", "Erfahrig", "Stell", "Stärchi", "Firma", "aastelle", "Lohn", "verfüegbar", "biite", "aafange"],
+  "sn": [
+    { "s": "Ich han es Vorstellungsgschpröch für e gueti Stell.", "e": "I have an interview for a good position." },
+    { "s": "Ich bi nervös, aber parat.", "e": "I'm nervous, but prepared." },
+    { "s": "\"Verzelled Sie vo Ihrer Erfahrig,\" seit d'Chefin.", "e": "\"Tell me about your experience,\" the boss says." },
+    { "s": "\"Ich han föif Jahr mit Computer gschaffet.\"", "e": "\"I have five years working with computers.\"" },
+    { "s": "\"Was sind Ihri Stärchi?\" fragt sie.", "e": "\"What are your strengths?\" she asks." },
+    { "s": "\"Ich bi organisiert und lern schnäll.\"", "e": "\"I'm organized and learn fast.\"" },
+    { "s": "\"Ich red au Änglisch und jetz Schwiizerdütsch.\"", "e": "\"I also speak English and now Swiss German.\"" },
+    { "s": "\"Wieso wänd Sie i dere Firma schaffe?\"", "e": "\"Why do you want to work at this company?\"" },
+    { "s": "\"Wäg ich glaube, ich cha da viel biite.\"", "e": "\"Because I believe I can offer a lot here.\"" },
+    { "s": "\"Ab wänn wäred Sie verfüegbar?\"", "e": "\"From when would you be available?\"" },
+    { "s": "\"Ich cha aafange, wänn Sie wänd.\"", "e": "\"I can start whenever you want.\"" },
+    { "s": "\"Mir gfallt Ihri Iistellig. Mir mälded öis,\" seit sie.", "e": "\"I like your attitude. We'll be in touch,\" she says." },
+    { "s": "Über mich sälber mit Sicherheit rede: das isch s'Ziel.", "e": "Talking about myself with confidence: that's the goal." },
+    { "s": "Es Vorstellungsgschpröch uf Schwiizerdütsch isch nöd meh unmöglich.", "e": "A job interview in Swiss German is no longer impossible." }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "s710",
+  "title": "Grüezi",
+  "desc": "Full circle — now you're the one who welcomes",
+  "ph": 7,
+  "diff": 10,
+  "wu": [
+    "Grüezi",
+    "aafange",
+    "nöi",
+    "verlore",
+    "hälfe",
+    "willkomme",
+    "Wäg",
+    "wiiter",
+    "dehei",
+    "lächle"
+  ],
+  "sn": [
+    {
+      "s": "Am Bahnhof gseh ich öpper mit eme grosse Koffer.",
+      "e": "At the station I see someone with a big suitcase."
+    },
+    {
+      "s": "Si luegt ume, verlore, grad wie ich domals.",
+      "e": "She looks around, lost, just like me back then."
+    },
+    {
+      "s": "Si haltet en Zettel mit nere Adress i de Hand.",
+      "e": "She holds a slip of paper with an address in her hand."
+    },
+    {
+      "s": "\"Excuse me,\" seit si, \"do you speak English?\"",
+      "e": "\"Excuse me,\" she says, \"do you speak English?\""
+    },
+    {
+      "s": "Ich lächle, well ich gnau weiss, wie si sich fühlt.",
+      "e": "I smile, because I know exactly how she feels."
+    },
+    {
+      "s": "\"Ja,\" säg ich. \"Aber probier's mal mit Grüezi.\"",
+      "e": "\"Yes,\" I say. \"But try it with Grüezi.\""
+    },
+    {
+      "s": "Si luegt mi verwirrt aa: \"Grüezi?\"",
+      "e": "She looks at me, confused: \"Grüezi?\""
+    },
+    {
+      "s": "\"Genau! Das heisst Hallo. Das isch de Aafang.\"",
+      "e": "\"Exactly! That means hello. That's the beginning.\""
+    },
+    {
+      "s": "Si lächlet zrugg: \"Grüezi. Danke.\"",
+      "e": "She smiles back: \"Grüezi. Thank you.\""
+    },
+    {
+      "s": "Ich zeig ere de Wäg und gib ere es paar Wörtli mit.",
+      "e": "I show her the way and give her a few little words to take along."
+    },
+    {
+      "s": "\"Es wird nöd eifach,\" säg ich, \"aber es lohnt sich.\"",
+      "e": "\"It won't be easy,\" I say, \"but it's worth it.\""
+    },
+    {
+      "s": "\"Willkomme z'Luzärn. Da chunnt's guet.\"",
+      "e": "\"Welcome to Lucerne. It'll turn out fine here.\""
+    },
+    {
+      "s": "Si gaht witer, und ich lue ere nache.",
+      "e": "She walks on, and I watch her go."
+    },
+    {
+      "s": "Wo ich aagfange han, fangt jetz öpper anders aa. Und ich bi dehei.",
+      "e": "Where I once began, someone else now begins. And I am home."
+    }
+  ]
+}

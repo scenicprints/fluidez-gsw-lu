@@ -1,0 +1,24 @@
+{
+  "id": "s208",
+  "title": "Plän mache",
+  "desc": "Making plans together (future)",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["Plan", "abmache", "nöchscht", "Wuche", "zäme", "vilicht", "Idee", "freue", "treffe", "luege"],
+  "sn": [
+    { "s": "Mir wänd öppis zäme abmache.", "e": "We want to plan something together." },
+    { "s": "\"Was mached mir nöchsti Wuche?\" fragt d'Sara.", "e": "\"What shall we do next week?\" Sara asks." },
+    { "s": "\"Mir chönted go wandere,\" schlat de Lukas vor.", "e": "\"We could go hiking,\" Lukas suggests." },
+    { "s": "\"Oder vilicht is Kino?\" säg ich.", "e": "\"Or maybe to the cinema?\" I say." },
+    { "s": "\"Beides!\" lacht d'Sara. \"Samschtig wandere, Sunntig Kino.\"", "e": "\"Both!\" Sara laughs. \"Saturday hike, Sunday cinema.\"" },
+    { "s": "\"Gueti Idee. Wänn treffed mir öis?\" frag ich.", "e": "\"Good idea. When do we meet?\" I ask." },
+    { "s": "\"Am Samschtig am nüni am Bahnhof?\"", "e": "\"Saturday at nine at the station?\"" },
+    { "s": "\"Passt mer perfekt,\" säg ich.", "e": "\"Works perfectly for me,\" I say." },
+    { "s": "\"Ich freu mich scho druf,\" seit de Lukas.", "e": "\"I'm already looking forward to it,\" Lukas says." },
+    { "s": "Plän mache für d'Zuekunft isch öppis Schöns.", "e": "Making plans for the future is something nice." },
+    { "s": "Es zeigt, dass mer zäme ghört.", "e": "It shows you belong together." },
+    { "s": "\"Ich lueg, öb's Wätter guet wird,\" säg ich.", "e": "\"I'll check if the weather will be good,\" I say." },
+    { "s": "Mit Fründe Plän z'mache git Vorfreud.", "e": "Making plans with friends brings anticipation." },
+    { "s": "S'Läbe z'Luzärn wird voller und schöner.", "e": "Life in Lucerne is getting fuller and nicer." }
+  ]
+}

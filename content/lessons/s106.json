@@ -1,0 +1,24 @@
+{
+  "id": "s106",
+  "title": "Z'Mittag",
+  "desc": "A quick lunch break",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["Zmittag", "Pause", "schnäll", "Beck", "Sandwich", "Suppe", "ässe", "Hunger", "drausse", "Bänkli"],
+  "sn": [
+    { "s": "Am Mittag han ich nu chli Ziit für e Pause.", "e": "At noon I only have a little time for a break." },
+    { "s": "Ich gaa zum Beck am Egg.", "e": "I go to the bakery on the corner." },
+    { "s": "\"Grüezi, was dörf's sii?\" fragt d'Verchäuferin.", "e": "\"Hello, what can I get you?\" the saleswoman asks." },
+    { "s": "\"Es Sandwich und e Suppe, bitte.\"", "e": "\"A sandwich and a soup, please.\"" },
+    { "s": "\"Wänd Sie's zum Mitnäh oder da ässe?\"", "e": "\"Would you like it to go or eat here?\"" },
+    { "s": "\"Zum Mitnäh, bitte. Ich ässe drausse.\"", "e": "\"To go, please. I'll eat outside.\"" },
+    { "s": "S'Wätter isch schöö, d'Sunne schiint.", "e": "The weather is nice, the sun is shining." },
+    { "s": "Ich sitze uf es Bänkli am See.", "e": "I sit on a bench by the lake." },
+    { "s": "S'Sandwich isch frisch und d'Suppe warm.", "e": "The sandwich is fresh and the soup warm." },
+    { "s": "Vor mir s'Wasser, hinder mir d'Stadt.", "e": "In front of me the water, behind me the city." },
+    { "s": "So e Mittagspause cha mer nöd bsser ha.", "e": "You couldn't have a better lunch break." },
+    { "s": "E Frau setzt sich dezue: \"Isch da no frei?\"", "e": "A woman sits down too: \"Is this still free?\"" },
+    { "s": "\"Klar, nämed Sie Platz,\" säg ich.", "e": "\"Sure, have a seat,\" I say." },
+    { "s": "Sogar e churzi Pause cha schöö sii z'Luzärn.", "e": "Even a short break can be lovely in Lucerne." }
+  ]
+}

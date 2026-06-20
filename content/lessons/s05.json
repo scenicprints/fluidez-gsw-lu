@@ -1,0 +1,24 @@
+{
+  "id": "s05",
+  "title": "Im Lade",
+  "desc": "Buying things at the shop",
+  "ph": 0,
+  "diff": 2,
+  "wu": ["Lade", "choufe", "Brot", "Chäs", "wieviel", "das", "nimm", "Sack", "zäme", "Kasse"],
+  "sn": [
+    { "s": "Ich gaa i d'Migros, e grosse Lade.", "e": "I go to the Migros, a big shop." },
+    { "s": "Ich wott Brot und Chäs choufe.", "e": "I want to buy bread and cheese." },
+    { "s": "\"Choufe\" heisst kaufen. Das mach ich jede Tag.", "e": "\"Choufe\" means to buy. I do that every day." },
+    { "s": "De Chäs da gseht guet us.", "e": "The cheese here looks good." },
+    { "s": "\"Wieviel chostet das?\" frag ich.", "e": "\"How much does that cost?\" I ask." },
+    { "s": "\"Drü Stutz füfzg,\" seit de Verchäufer.", "e": "\"Three francs fifty,\" the seller says." },
+    { "s": "\"Ich nimm das, danke.\"", "e": "\"I'll take that, thanks.\"" },
+    { "s": "\"Wänd Sie e Sack?\" fragt er.", "e": "\"Would you like a bag?\" he asks." },
+    { "s": "\"Ja, bitte, eine.\" Ich pack alls ii.", "e": "\"Yes, please, one.\" I pack everything in." },
+    { "s": "A de Kasse zal ich alls zäme.", "e": "At the checkout I pay for everything together." },
+    { "s": "\"Zäme\" heisst zusammen. Es Wort wo mer oft bruucht.", "e": "\"Zäme\" means together. A word you use often." },
+    { "s": "\"Schöne Tag no,\" seit d'Frau a de Kasse.", "e": "\"Have a nice day,\" the woman at the register says." },
+    { "s": "\"Glichfalls, merci,\" antworte ich.", "e": "\"You too, thanks,\" I answer." },
+    { "s": "Alltäglichi Sache uf Lozärnerisch: es chunnt langsam.", "e": "Everyday things in Lucerne German: it's coming slowly." }
+  ]
+}

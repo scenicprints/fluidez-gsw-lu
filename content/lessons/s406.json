@@ -1,0 +1,77 @@
+{
+  "id": "s406",
+  "title": "De erste Striit",
+  "desc": "The first argument",
+  "ph": 4,
+  "diff": 7,
+  "wu": [
+    "Striit",
+    "tröle",
+    "verstah",
+    "wütend",
+    "entschuldige",
+    "Fähler",
+    "verzie",
+    "rede",
+    "Gfühl",
+    "wichtig"
+  ],
+  "sn": [
+    {
+      "s": "Geschter händ mir öise erste richtig Striit gha.",
+      "e": "Yesterday we had our first real argument."
+    },
+    {
+      "s": "Ich han öppis gseit, wo sie verletzt het.",
+      "e": "I said something that hurt her."
+    },
+    {
+      "s": "Sie isch wütend worde und het nüm gredt.",
+      "e": "She got angry and stopped talking."
+    },
+    {
+      "s": "Ich han nöd grad verstande, was ich falsch gmacht han.",
+      "e": "I didn't immediately understand what I'd done wrong."
+    },
+    {
+      "s": "\"Du losisch mer gar nöd zue,\" het sie gseit.",
+      "e": "\"You don't listen to me at all,\" she said."
+    },
+    {
+      "s": "Das het weh ta, aber sie het rächt gha.",
+      "e": "That hurt, but she was right."
+    },
+    {
+      "s": "Ich bi chli z'Fuess gange, zum nadänke.",
+      "e": "I went for a walk to think."
+    },
+    {
+      "s": "Es isch schwär, im Striit s'richtige Wort z'finde.",
+      "e": "It's hard to find the right word in an argument."
+    },
+    {
+      "s": "Spöter bin ich zu ihre und han gseit: \"Es tuet mer leid.\"",
+      "e": "Later I went to her and said: \"I'm sorry.\""
+    },
+    {
+      "s": "\"Ich han der nöd zueglost. Das war en Fähler.\"",
+      "e": "\"I didn't listen to you. That was a mistake.\""
+    },
+    {
+      "s": "Sie het mich aagluegt und tüüf gschnuufet.",
+      "e": "She looked at me and took a deep breath."
+    },
+    {
+      "s": "\"Merci, das z'säge. Mir mönd halt rede mitenand.\"",
+      "e": "\"Thanks for saying that. We just have to talk to each other.\""
+    },
+    {
+      "s": "Mir händ öis verzie und ghaltet enand fescht.",
+      "e": "We forgave each other and held on tight."
+    },
+    {
+      "s": "En Striit isch nöd s'Änd. Mängisch macht er stercher.",
+      "e": "An argument isn't the end. Sometimes it makes you stronger."
+    }
+  ]
+}

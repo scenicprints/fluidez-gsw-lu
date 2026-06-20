@@ -1,0 +1,24 @@
+{
+  "id": "s303",
+  "title": "Uf de Gmeind",
+  "desc": "Registering at the town office",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["Gmeind", "aamälde", "Uswiis", "Formular", "ufülle", "ünnerschriibe", "Bewilligung", "warte", "Schalter", "Papier"],
+  "sn": [
+    { "s": "Ich mues mi uf de Gmeind aamälde.", "e": "I have to register at the town office." },
+    { "s": "Wänn me i d'Schwiiz zügelt, mues me das mache.", "e": "When you move to Switzerland, you have to do this." },
+    { "s": "\"Grüezi, ich bi nöi da und mues mi aamälde.\"", "e": "\"Hello, I'm new here and have to register.\"" },
+    { "s": "\"Händ Sie en Uswiis und de Mietvertrag?\" fragt d'Frau.", "e": "\"Do you have ID and the rental contract?\" the woman asks." },
+    { "s": "\"Ja, ich han alles dabii.\"", "e": "\"Yes, I have everything with me.\"" },
+    { "s": "\"Was bruuch ich susch no?\" frag ich.", "e": "\"What else do I need?\" I ask." },
+    { "s": "\"Füled Sie das Formular us und ünnerschriibed da.\"", "e": "\"Fill out this form and sign here.\"" },
+    { "s": "De Papierchram isch lang und gnau.", "e": "The paperwork is long and precise." },
+    { "s": "\"Wo mues ich gnau ünnerschriibe?\" frag ich vorsichtig.", "e": "\"Where exactly do I sign?\" I ask carefully." },
+    { "s": "\"Da une, und schriibed s'Datum dezue.\"", "e": "\"Down here, and add the date.\"" },
+    { "s": "Ich füll alls suuber us und gib's ab.", "e": "I fill everything out neatly and hand it in." },
+    { "s": "\"Guet. Ihri Bewilligung chunnt mit de Poscht.\"", "e": "\"Good. Your permit will come by mail.\"" },
+    { "s": "Behördegäng uf Schwiizerdütsch mached mer kei Angscht meh.", "e": "Official errands in Swiss German no longer scare me." },
+    { "s": "Ruhig frage löst fascht alls.", "e": "Asking calmly solves almost everything." }
+  ]
+}

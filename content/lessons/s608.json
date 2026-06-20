@@ -1,0 +1,77 @@
+{
+  "id": "s608",
+  "title": "Zahle, Ziit und Datum",
+  "desc": "Numbers and time the Swiss way",
+  "ph": 6,
+  "diff": 8,
+  "wu": [
+    "Zahl",
+    "Uhr",
+    "Viertel",
+    "ab",
+    "vor",
+    "halbi",
+    "zähle",
+    "Termin",
+    "abmache",
+    "gnau"
+  ],
+  "sn": [
+    {
+      "s": "Bi de Ziit muess mer da chli ufpasse.",
+      "e": "With time you have to pay attention here."
+    },
+    {
+      "s": "\"Halbi achti\" heisst halb acht, also sibni dryssg.",
+      "e": "\"Halbi achti\" means half past seven, i.e. seven thirty."
+    },
+    {
+      "s": "\"Viertel ab achti\" isch achti füfzäh.",
+      "e": "\"Quarter past eight\" is eight fifteen."
+    },
+    {
+      "s": "\"Viertel vor nüni\" isch achti füefevierzg.",
+      "e": "\"Quarter to nine\" is eight forty-five."
+    },
+    {
+      "s": "Bim Zähle tönt's au chli anders.",
+      "e": "When counting it sounds a bit different too."
+    },
+    {
+      "s": "\"Füüf, sächs, sibe, acht\": das chunnt schnäll.",
+      "e": "\"Five, six, seven, eight\": that comes quickly."
+    },
+    {
+      "s": "\"Achtevierzg\" seit mer für achtevierzig.",
+      "e": "\"Achtevierzg\" you say for forty-eight."
+    },
+    {
+      "s": "Wenn mer en Termin abmacht, isch mer gnau.",
+      "e": "When you arrange an appointment, you're precise."
+    },
+    {
+      "s": "\"Am Viertel ab zwöi\" heisst gnau das, nöd öppe spöter.",
+      "e": "\"At quarter past two\" means exactly that, not a bit later."
+    },
+    {
+      "s": "Z'spät cho isch unhöflich, das han ich scho glärnt.",
+      "e": "Being late is rude, I've learned that already."
+    },
+    {
+      "s": "Am Aafang han ich \"halbi\" falsch verstande.",
+      "e": "At the start I misunderstood \"halbi\"."
+    },
+    {
+      "s": "Ich bi e halbi Stund z'früeh cho. Peinlich, aber luschtig.",
+      "e": "I arrived half an hour early. Embarrassing, but funny."
+    },
+    {
+      "s": "Jetz verstah ich d'Ziit wie e Lozärner.",
+      "e": "Now I understand time like a local."
+    },
+    {
+      "s": "Und ich bi immer pünktlich, versteht sich.",
+      "e": "And I'm always on time, naturally."
+    }
+  ]
+}

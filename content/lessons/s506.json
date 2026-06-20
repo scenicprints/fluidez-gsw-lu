@@ -1,0 +1,77 @@
+{
+  "id": "s506",
+  "title": "S'Hallebad",
+  "desc": "A everyday local hobby",
+  "ph": 5,
+  "diff": 7,
+  "wu": [
+    "schwümme",
+    "Bad",
+    "See",
+    "Sommer",
+    "abchüele",
+    "badi",
+    "sünnele",
+    "springe",
+    "Wasser",
+    "entspanne"
+  ],
+  "sn": [
+    {
+      "s": "Im Sommer gönd alli i d'Badi am See.",
+      "e": "In summer everyone goes to the lido by the lake."
+    },
+    {
+      "s": "D'Badi isch en Platz zum schwümme und sünnele.",
+      "e": "The lido is a place to swim and sunbathe."
+    },
+    {
+      "s": "\"Gömmer go schwümme?\" fragt mi en Kolleg.",
+      "e": "\"Shall we go swimming?\" a colleague asks me."
+    },
+    {
+      "s": "Mir nämed s'Velo und fahred zur Badi.",
+      "e": "We take our bikes and ride to the lido."
+    },
+    {
+      "s": "S'Wasser im See isch chüel und sufer.",
+      "e": "The water in the lake is cool and clean."
+    },
+    {
+      "s": "Vom Stäg springt mer is tüüfe Wasser.",
+      "e": "From the jetty you jump into the deep water."
+    },
+    {
+      "s": "\"Chum, trau di!\" rüeft er mer zue.",
+      "e": "\"Come on, dare it!\" he calls to me."
+    },
+    {
+      "s": "Ich springe und schreie chli debii.",
+      "e": "I jump and scream a little doing it."
+    },
+    {
+      "s": "S'Wasser isch chalt, aber denn so erfrischend.",
+      "e": "The water is cold, but then so refreshing."
+    },
+    {
+      "s": "Nochhär ligged mir uf em Tuech und sünneled.",
+      "e": "Afterwards we lie on the towel and sunbathe."
+    },
+    {
+      "s": "Mer ässt es Glace und luegt de Bärge zue.",
+      "e": "You eat an ice cream and watch the mountains."
+    },
+    {
+      "s": "D'Lüt sind gmüetlich und niemmer het's pressant.",
+      "e": "People are relaxed and nobody is in a hurry."
+    },
+    {
+      "s": "En heisse Tag am See: schöner gaht's nöd.",
+      "e": "A hot day by the lake: it doesn't get better."
+    },
+    {
+      "s": "So gnüssed d'Luzärner ihre Sommer.",
+      "e": "That's how the people of Lucerne enjoy their summer."
+    }
+  ]
+}

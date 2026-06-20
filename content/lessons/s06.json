@@ -1,0 +1,24 @@
+{
+  "id": "s06",
+  "title": "Am Aabig",
+  "desc": "Meeting a neighbour in the evening",
+  "ph": 0,
+  "diff": 3,
+  "wu": ["Nachber", "Aabig", "wohnt", "näbed", "kenne", "fröit", "iizoge", "Kafi", "vilicht", "willkomme"],
+  "sn": [
+    { "s": "Am Aabig triff ich mini Nachberin im Hus.", "e": "In the evening I meet my neighbour in the building." },
+    { "s": "Sie wohnt näbed mir, im gliiche Stock.", "e": "She lives next to me, on the same floor." },
+    { "s": "\"Grüezi, Sie sind de Nöi, gäll?\" seit sie.", "e": "\"Hello, you're the new one, right?\" she says." },
+    { "s": "\"Ja, ich bi grad iizoge,\" antworte ich.", "e": "\"Yes, I just moved in,\" I answer." },
+    { "s": "\"Schön! Ich bi d'Frau Bucher. Willkomme!\"", "e": "\"Nice! I'm Mrs. Bucher. Welcome!\"" },
+    { "s": "\"Merci, ich heisse Tom. Fröit mich.\"", "e": "\"Thanks, I'm Tom. Nice to meet you.\"" },
+    { "s": "\"Fröit mich\" heisst es freut mich.", "e": "\"Fröit mich\" means pleased to meet you." },
+    { "s": "\"Wänd Sie spöter uf e Kafi cho?\" fragt sie.", "e": "\"Would you like to come for a coffee later?\" she asks." },
+    { "s": "Ich bi überrascht vo dere Fründlichkeit.", "e": "I'm surprised by this friendliness." },
+    { "s": "\"Sehr gärn, das wär schöö,\" säg ich.", "e": "\"Gladly, that would be nice,\" I say." },
+    { "s": "\"Denn chömed Sie verbii. Vilicht am Sächsi?\"", "e": "\"Then come by. Maybe at six?\"" },
+    { "s": "\"Am Sächsi passt mer guet. Merci viilmal.\"", "e": "\"Six works well for me. Thank you very much.\"" },
+    { "s": "S'erste Mal iiglade vo eme Nachber.", "e": "Invited by a neighbour for the first time." },
+    { "s": "Vilicht wird Luzärn würkli mis Dehei.", "e": "Maybe Lucerne will really become my home." }
+  ]
+}

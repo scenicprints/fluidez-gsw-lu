@@ -1,0 +1,24 @@
+{
+  "id": "s302",
+  "title": "D'Reklamation",
+  "desc": "Making a complaint",
+  "ph": 3,
+  "diff": 6,
+  "wu": ["reklamiere", "kapütt", "zrugg gäh", "Garantie", "umtusche", "Quittig", "ruhig", "fescht", "Lösig", "fair"],
+  "sn": [
+    { "s": "Ich han letscht Wuche en Ventilator kauft.", "e": "I bought a fan last week." },
+    { "s": "Aber er gaht scho nöd meh. Er isch kapütt.", "e": "But it doesn't work anymore. It's broken." },
+    { "s": "Ich gah zrugg in Lade mit de Quittig.", "e": "I go back to the shop with the receipt." },
+    { "s": "\"Grüezi, ich han das kauft und es gaht nöd meh.\"", "e": "\"Hello, I bought this and it no longer works.\"" },
+    { "s": "\"Händ Sie d'Quittig?\" fragt d'Verchäuferin.", "e": "\"Do you have the receipt?\" the saleswoman asks." },
+    { "s": "\"Ja, da isch sie. Ich han's vor ere Wuche kauft.\"", "e": "\"Yes, here it is. I bought it a week ago.\"" },
+    { "s": "\"Ich möcht es umtusche oder s'Gäld zrugg.\"", "e": "\"I'd like an exchange or my money back.\"" },
+    { "s": "\"Lönd Sie mi d'Garantie aaluege,\" seit sie.", "e": "\"Let me check the warranty,\" she says." },
+    { "s": "Ich rede ruhig, aber bestimmt.", "e": "I speak calmly, but firmly." },
+    { "s": "\"Ich find, das isch e faire Reklamation,\" füeg ich dezue.", "e": "\"I think it's a fair complaint,\" I add." },
+    { "s": "\"Sie händ rächt. Mir gäbed Ihne en nöie.\"", "e": "\"You're right. We'll give you a new one.\"" },
+    { "s": "\"Das schätze ich sehr, merci.\"", "e": "\"I appreciate that very much, thanks.\"" },
+    { "s": "Guet reklamiere isch nöd grob sii.", "e": "Complaining well isn't being rude." },
+    { "s": "Es isch für s'Rächt iistah, mit Respekt.", "e": "It's standing up for what's right, with respect." }
+  ]
+}

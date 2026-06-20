@@ -1,0 +1,77 @@
+{
+  "id": "s505",
+  "title": "Go wandere",
+  "desc": "Hiking culture",
+  "ph": 5,
+  "diff": 7,
+  "wu": [
+    "wandere",
+    "Bärg",
+    "Wäg",
+    "Ussicht",
+    "Schueh",
+    "Rucksack",
+    "Gipfel",
+    "schnuufe",
+    "Nature",
+    "wält"
+  ],
+  "sn": [
+    {
+      "s": "D'Schwiizer gönd am liebschte i d'Bärg go wandere.",
+      "e": "The Swiss most love going hiking in the mountains."
+    },
+    {
+      "s": "Am Wucheänd packe ich mis Rucksäckli und gaa los.",
+      "e": "At the weekend I pack my little rucksack and set off."
+    },
+    {
+      "s": "Mit guete Schueh chunsch wiit.",
+      "e": "With good shoes you get far."
+    },
+    {
+      "s": "D'Wäg sind guet beschilderet, mer verlauft sich chuum.",
+      "e": "The trails are well signposted, you hardly get lost."
+    },
+    {
+      "s": "Es gelbs Schild zeigt, wie lang's no gaht.",
+      "e": "A yellow sign shows how long it still takes."
+    },
+    {
+      "s": "Underwägs grüesst mer enand: \"Grüezi mitenand!\"",
+      "e": "Along the way people greet each other: \"Hello everyone!\""
+    },
+    {
+      "s": "Au wildfremdi Lüt säged Grüezi, das ghört eifach so.",
+      "e": "Even total strangers say hello, that's just how it is."
+    },
+    {
+      "s": "Obe am Gipfel mues ich tüüf schnuufe.",
+      "e": "Up at the summit I have to breathe deeply."
+    },
+    {
+      "s": "D'Ussicht über de See und d'Bärg isch unglaublich.",
+      "e": "The view over the lake and the mountains is incredible."
+    },
+    {
+      "s": "Ich ässe mis Brot und gnüsse d'Rueh.",
+      "e": "I eat my bread and enjoy the quiet."
+    },
+    {
+      "s": "Da obe fühlt mer sich chliin und frei zglich.",
+      "e": "Up there you feel small and free at the same time."
+    },
+    {
+      "s": "D'Nature isch da nöch und ghört zum Läbe.",
+      "e": "Nature is close here and is part of life."
+    },
+    {
+      "s": "Wandere isch nöd nu Sport. Es isch e Art z'läbe.",
+      "e": "Hiking isn't just sport. It's a way of living."
+    },
+    {
+      "s": "Jetz verstah ich, warum d'Schwiizer ihri Bärg so liebed.",
+      "e": "Now I understand why the Swiss love their mountains so much."
+    }
+  ]
+}

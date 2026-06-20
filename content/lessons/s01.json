@@ -1,0 +1,24 @@
+{
+  "id": "s01",
+  "title": "Es Kafi",
+  "desc": "Your first coffee and Gipfeli",
+  "ph": 0,
+  "diff": 1,
+  "wu": ["Kafi", "Gipfeli", "wott", "ha", "gärn", "es", "chostet", "Stutz", "no", "öppis"],
+  "sn": [
+    { "s": "Ich gaa am Morge i es chlises Kafi.", "e": "I go into a small café in the morning." },
+    { "s": "\"Grüezi, was wänd Sie?\" fragt d'Frau.", "e": "\"Hello, what would you like?\" the woman asks." },
+    { "s": "\"Ich hätt gärn es Kafi,\" säg ich.", "e": "\"I'd like a coffee,\" I say." },
+    { "s": "\"Und öppis z'ässe?\" fragt sie.", "e": "\"And something to eat?\" she asks." },
+    { "s": "\"Ja, es Gipfeli, bitte.\"", "e": "\"Yes, a croissant, please.\"" },
+    { "s": "Es Gipfeli isch es Hörnli zum Zmorge.", "e": "A 'Gipfeli' is a croissant for breakfast." },
+    { "s": "\"Susch no öppis?\" fragt sie.", "e": "\"Anything else?\" she asks." },
+    { "s": "\"Nei, danke, das isch alls.\"", "e": "\"No, thanks, that's all.\"" },
+    { "s": "\"Das macht föif Stutz,\" seit sie.", "e": "\"That'll be five francs,\" she says." },
+    { "s": "\"Stutz\" heisst Franke uf Schwiizerdütsch.", "e": "\"Stutz\" means francs in Swiss German." },
+    { "s": "Ich zale und säg: \"Merci viilmal.\"", "e": "I pay and say: \"Thank you very much.\"" },
+    { "s": "S'Kafi isch heiss und s'Gipfeli frisch.", "e": "The coffee is hot and the croissant fresh." },
+    { "s": "Ich sitze am Fänschter und luege use.", "e": "I sit by the window and look outside." },
+    { "s": "Z'Luzärn am Morge: es isch würkli schöö.", "e": "Lucerne in the morning: it's really beautiful." }
+  ]
+}

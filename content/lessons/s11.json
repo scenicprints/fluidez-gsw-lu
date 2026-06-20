@@ -1,0 +1,24 @@
+{
+  "id": "s11",
+  "title": "Es Fescht",
+  "desc": "Invited to a house party",
+  "ph": 2,
+  "diff": 5,
+  "wu": ["Fescht", "iiglade", "Lüt", "vorstelle", "Gschänk", "bringe", "kenneläre", "rede", "spaat", "lustig"],
+  "sn": [
+    { "s": "De Lukas het mich uf es Fescht iiglade.", "e": "Lukas invited me to a party." },
+    { "s": "\"Bring öppis z'trinke mit,\" het er gseit.", "e": "\"Bring something to drink,\" he said." },
+    { "s": "Ich bringe e Flasche Wii als Gschänk.", "e": "I bring a bottle of wine as a gift." },
+    { "s": "I de Wohnig sind scho viel Lüt.", "e": "There are already a lot of people in the apartment." },
+    { "s": "De Lukas stellt mich sine Fründe vor.", "e": "Lukas introduces me to his friends." },
+    { "s": "\"Das isch de Tom, er isch nöi z'Luzärn.\"", "e": "\"This is Tom, he's new in Lucerne.\"" },
+    { "s": "\"Sali Tom! Wohär chunsch?\" fraged sie.", "e": "\"Hi Tom! Where are you from?\" they ask." },
+    { "s": "Ich rede mit viele neue Lüt.", "e": "I talk with many new people." },
+    { "s": "Mängi redet langsamer, dass ich's verstah.", "e": "Some speak slower so I understand." },
+    { "s": "Es isch lustig, und d'Ziit vergaht schnäll.", "e": "It's fun, and the time passes quickly." },
+    { "s": "\"Du muesch öis bald wider bsueche!\" seit eini.", "e": "\"You have to visit us again soon!\" one says." },
+    { "s": "Es wird spaat, aber ich gaa nöd gärn.", "e": "It gets late, but I don't want to leave." },
+    { "s": "S'erste Mal fühl ich mich würkli dezue.", "e": "For the first time I really feel I belong." },
+    { "s": "Us Bekannte wärded langsam Fründe.", "e": "Acquaintances are slowly becoming friends." }
+  ]
+}

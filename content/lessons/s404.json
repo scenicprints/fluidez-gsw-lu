@@ -1,0 +1,24 @@
+{
+  "id": "s404",
+  "title": "Zäme dur d'Wuche",
+  "desc": "Everyday life as a couple",
+  "ph": 4,
+  "diff": 7,
+  "wu": ["zäme", "Alltag", "koche", "teile", "lache", "Gwohnheit", "Näche", "Wuche", "eifach", "glücklich"],
+  "sn": [
+    { "s": "D'Lara und ich verbringed jetz viel Ziit zäme.", "e": "Lara and I now spend a lot of time together." },
+    { "s": "S'isch nöd nu d'Romantik, s'isch de Alltag.", "e": "It's not just romance, it's everyday life." },
+    { "s": "Mir choched zäme und teiled d'Arbet im Huus.", "e": "We cook together and share the housework." },
+    { "s": "Am Aabig sitze mir uf em Sofa und lached.", "e": "In the evening we sit on the sofa and laugh." },
+    { "s": "Sie kennt scho mini chline Gwohnheite.", "e": "She already knows my little habits." },
+    { "s": "\"Du trinksch z'viel Kafi,\" seit sie schmunzlend.", "e": "\"You drink too much coffee,\" she says with a grin." },
+    { "s": "\"Und du redsch im Schlaf,\" gib ich zrugg.", "e": "\"And you talk in your sleep,\" I shoot back." },
+    { "s": "Mir kenned enand immer bsser.", "e": "We know each other better and better." },
+    { "s": "S'isch d'Näche, wo mer im Alltag spürt.", "e": "It's the closeness you feel in everyday life." },
+    { "s": "Mängi Tag sind eifach, ohni öppis Bsundrigs.", "e": "Some days are simple, with nothing special." },
+    { "s": "Aber grad die mach ich am liebschte mit ihre.", "e": "But those are the ones I most like spending with her." },
+    { "s": "Glück isch nöd immer gross und laut.", "e": "Happiness isn't always big and loud." },
+    { "s": "Mängisch isch es nu en ruhige Aabig zäme.", "e": "Sometimes it's just a quiet evening together." },
+    { "s": "Und so en Alltag isch mer s'Wertvollschte.", "e": "And such everyday life is the most precious to me." }
+  ]
+}

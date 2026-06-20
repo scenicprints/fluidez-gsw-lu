@@ -1,0 +1,24 @@
+{
+  "id": "s203",
+  "title": "Es Znacht dehei",
+  "desc": "Invited to dinner at a friend's home",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["iiglade", "choche", "Tisch", "hälfe", "Wii", "gnüsse", "Familie", "höflich", "Komplimänt", "deheicho"],
+  "sn": [
+    { "s": "D'Sara het mich zum Znacht iiglade.", "e": "Sara invited me to dinner." },
+    { "s": "Sie wohnt mit ihrere Familie es Stück usserhalb.", "e": "She lives with her family a bit outside town." },
+    { "s": "Ich bringe Blueme für d'Muetter mit.", "e": "I bring flowers for the mother." },
+    { "s": "\"Wie lieb, merci viilmal!\" seit sie.", "e": "\"How sweet, thank you very much!\" she says." },
+    { "s": "D'Sara chochet öppis Typisches: es Fondue.", "e": "Sara cooks something typical: a fondue." },
+    { "s": "\"Chan ich öppis hälfe?\" frag ich höflich.", "e": "\"Can I help with anything?\" I ask politely." },
+    { "s": "\"Nei nei, sitz nu ane,\" lacht ihri Muetter.", "e": "\"No no, just sit down,\" her mother laughs." },
+    { "s": "Mir ässed zäme und trinked es Glas Wii.", "e": "We eat together and drink a glass of wine." },
+    { "s": "\"S'Fondue isch würkli fein,\" säg ich.", "e": "\"The fondue is really delicious,\" I say." },
+    { "s": "D'Familie fragt mich viel und lost guet zue.", "e": "The family asks me a lot and listens well." },
+    { "s": "Ich fühl mich wohl, fascht wie dehei.", "e": "I feel comfortable, almost like home." },
+    { "s": "\"Du bisch immer willkomme,\" seit de Vater.", "e": "\"You're always welcome,\" the father says." },
+    { "s": "Bi öpperem dehei iiglade z'sii isch öppis Bsundrigs.", "e": "Being invited into someone's home is something special." },
+    { "s": "So tüüf chunnt mer i nes Land ine.", "e": "That's how deeply you get into a country." }
+  ]
+}

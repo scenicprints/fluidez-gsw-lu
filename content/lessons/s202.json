@@ -1,0 +1,24 @@
+{
+  "id": "s202",
+  "title": "Letschti Wuche",
+  "desc": "Talking about the past week (past tense)",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["geschter", "gsi", "gmacht", "gange", "ghaa", "letschti", "denn", "nochhär", "troffe", "gfreut"],
+  "sn": [
+    { "s": "\"Was häsch letschti Wuche gmacht?\" fragt de Lukas.", "e": "\"What did you do last week?\" Lukas asks." },
+    { "s": "Im Schwiizerdütsch redt mer d'Vergangeheit mit 'ha' und 'bi'.", "e": "In Swiss German you talk about the past with 'have' and 'be'." },
+    { "s": "\"Ich bi am Samschtig wandere gange,\" säg ich.", "e": "\"I went hiking on Saturday,\" I say." },
+    { "s": "\"Und am Sunntig han ich Fründe troffe.\"", "e": "\"And on Sunday I met friends.\"" },
+    { "s": "\"Mir händ es schöns Znacht ghaa.\"", "e": "\"We had a nice dinner.\"" },
+    { "s": "\"Tönt guet! Wo sind er gsi?\" fragt er.", "e": "\"Sounds good! Where were you?\" he asks." },
+    { "s": "\"I dem neue Restaurant a de Reuss.\"", "e": "\"At that new restaurant on the Reuss.\"" },
+    { "s": "\"Und nochhär simmer no öppis go trinke.\"", "e": "\"And afterwards we went for a drink.\"" },
+    { "s": "\"Schön! Es het dich gfreut, gäll?\"", "e": "\"Nice! You enjoyed it, right?\"" },
+    { "s": "\"Ja, es isch en super Aabig gsi.\"", "e": "\"Yes, it was a great evening.\"" },
+    { "s": "D'Vergangeheit z'erzähle isch e wichtigi Stuefe.", "e": "Telling the past is an important step." },
+    { "s": "Jetz cha ich nöd nu vom Jetz rede.", "e": "Now I can talk about more than just the present." },
+    { "s": "Ich cha mini Gschichte teile.", "e": "I can share my stories." },
+    { "s": "Und das macht s'Rede würkli läbendig.", "e": "And that makes speaking really come alive." }
+  ]
+}

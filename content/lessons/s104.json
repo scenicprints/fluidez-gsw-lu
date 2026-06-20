@@ -1,0 +1,24 @@
+{
+  "id": "s104",
+  "title": "Im Restaurant",
+  "desc": "Ordering a meal out",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["Restaurant", "Spiischaarte", "bstelle", "Ässe", "Trinke", "Hunger", "fein", "Rächnig", "zale", "Tisch"],
+  "sn": [
+    { "s": "Am Aabig gani mit em Lukas go ässe.", "e": "In the evening I go out to eat with Lukas." },
+    { "s": "Mir sitzed a nes Tisch am Fänschter.", "e": "We sit down at a table by the window." },
+    { "s": "De Kellner bringt d'Spiischaarte.", "e": "The waiter brings the menu." },
+    { "s": "\"Was wänd Sie z'trinke?\" fragt er.", "e": "\"What would you like to drink?\" he asks." },
+    { "s": "\"Es Bier für mich, bitte,\" säg ich.", "e": "\"A beer for me, please,\" I say." },
+    { "s": "\"Und was ässed Sie?\"", "e": "\"And what will you eat?\"" },
+    { "s": "\"Ich nimm d'Rööschti mit Spiegelei.\"", "e": "\"I'll have the rösti with a fried egg.\"" },
+    { "s": "\"E gueti Wahl,\" seit de Kellner.", "e": "\"A good choice,\" the waiter says." },
+    { "s": "S'Ässe chunnt, und es isch würkli fein.", "e": "The food comes, and it's really tasty." },
+    { "s": "\"Gniessed's!\" seit de Lukas.", "e": "\"Enjoy!\" Lukas says." },
+    { "s": "Nachhär bstell ich d'Rächnig.", "e": "Afterwards I ask for the bill." },
+    { "s": "\"Zäme oder getrennt?\" fragt de Kellner.", "e": "\"Together or separate?\" the waiter asks." },
+    { "s": "\"Getrennt, bitte.\" Mir zaled jede s'Sini.", "e": "\"Separate, please.\" We each pay our own." },
+    { "s": "Es schöne Aabig mit em erste Fründ z'Luzärn.", "e": "A lovely evening with my first friend in Lucerne." }
+  ]
+}

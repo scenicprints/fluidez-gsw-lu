@@ -1,0 +1,24 @@
+{
+  "id": "s301",
+  "title": "Anderer Meinig",
+  "desc": "Disagreeing with substance",
+  "ph": 3,
+  "diff": 6,
+  "wu": ["Meinig", "dänke", "rächt", "glaube", "Punkt", "obwohl", "Wahrheit", "respektiere", "diskutiere", "anders"],
+  "sn": [
+    { "s": "De Lukas und ich redet über Politik.", "e": "Lukas and I talk about politics." },
+    { "s": "\"Ich glaube, d'Stadt bruucht meh Velowäg,\" seit er.", "e": "\"I think the city needs more bike paths,\" he says." },
+    { "s": "\"Ich verstah dis Argumänt, aber ich bi anderer Meinig.\"", "e": "\"I understand your argument, but I disagree.\"" },
+    { "s": "\"Wieso nöd?\" fragt er, neugierig.", "e": "\"Why not?\" he asks, curious." },
+    { "s": "\"Ich dänke, s'Problem sind nöd d'Velowäg.\"", "e": "\"I think the problem isn't the bike paths.\"" },
+    { "s": "\"S'Problem sind d'Strosse, wo schlächt sind.\"", "e": "\"The problem is the streets, which are bad.\"" },
+    { "s": "\"Da hesch rächt,\" gits er zue.", "e": "\"You're right about that,\" he admits." },
+    { "s": "\"Obwohl ich find, bedi Sache sind wichtig.\"", "e": "\"Although I think both things matter.\"" },
+    { "s": "\"Stimmt. Vilicht händ mir bedi rächt.\"", "e": "\"True. Maybe we're both right.\"" },
+    { "s": "Diskutiere ohni Striit isch e Kunscht.", "e": "Arguing without fighting is an art." },
+    { "s": "Ich han glernt, mini Meinig mit Respekt z'säge.", "e": "I've learned to give my opinion with respect." },
+    { "s": "Me cha anderer Meinig sii und doch Fründe blibe.", "e": "You can disagree and still stay friends." },
+    { "s": "E Idee verteidige uf Schwiizerdütsch git mer Sicherheit.", "e": "Defending an idea in Swiss German gives me confidence." },
+    { "s": "Jetz lose ich nöd nu zue: jetz red ich mit.", "e": "Now I don't just listen: now I take part." }
+  ]
+}

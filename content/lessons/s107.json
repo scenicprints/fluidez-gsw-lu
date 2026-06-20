@@ -1,0 +1,24 @@
+{
+  "id": "s107",
+  "title": "S'Znüni",
+  "desc": "The mid-morning snack ritual",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["Znüni", "Pause", "Gipfeli", "Kafi", "zäme", "Arbet", "Kollege", "schwätze", "Bruuch", "neun"],
+  "sn": [
+    { "s": "Uf de Arbet git's am Morge s'Znüni.", "e": "At work in the morning there's the 'Znüni'." },
+    { "s": "S'Znüni isch e chli Pause am neuni.", "e": "The 'Znüni' is a little break at nine." },
+    { "s": "Mer ässt öppis Chlises und trinkt e Kafi.", "e": "You eat something small and drink a coffee." },
+    { "s": "\"Chunsch go Znüni?\" fragt e Kollegin.", "e": "\"Coming for Znüni?\" a colleague asks." },
+    { "s": "\"Ja, gärn,\" säg ich und gaa mit.", "e": "\"Yes, gladly,\" I say and go along." },
+    { "s": "I de Kantine gits Gipfeli und Kafi.", "e": "In the canteen there are croissants and coffee." },
+    { "s": "D'Kollege schwätzed über alls Möglichi.", "e": "The colleagues chat about all sorts of things." },
+    { "s": "S'Znüni isch nöd nu ässe, es isch zäme sii.", "e": "Znüni isn't just eating, it's being together." },
+    { "s": "Ich verstah nöd jedes Wort, aber ich lache mit.", "e": "I don't understand every word, but I laugh along." },
+    { "s": "\"Du ghörsch scho fascht dezue,\" seit eine.", "e": "\"You almost belong already,\" one says." },
+    { "s": "Das git mer es warmes Gfühl im Buuch.", "e": "That gives me a warm feeling inside." },
+    { "s": "S'Znüni isch en schöne Schwiizer Bruuch.", "e": "The Znüni is a lovely Swiss custom." },
+    { "s": "Nach de Pause gani zrugg a d'Arbet.", "e": "After the break I go back to work." },
+    { "s": "Aber jetz fühl ich mich weniger ellei.", "e": "But now I feel less alone." }
+  ]
+}

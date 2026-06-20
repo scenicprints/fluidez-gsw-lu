@@ -1,0 +1,24 @@
+{
+  "id": "s110",
+  "title": "Es Wucheänd am Bärg",
+  "desc": "A weekend in the mountains",
+  "ph": 1,
+  "diff": 5,
+  "wu": ["Wucheänd", "Bärg", "wandere", "Uussicht", "Gipfel", "müed", "Luft", "Natur", "obe", "schööni"],
+  "sn": [
+    { "s": "Am Wucheänd gani mit em Lukas i d'Bärg.", "e": "On the weekend I go to the mountains with Lukas." },
+    { "s": "Mir nämed d'Bahn uf de Pilatus.", "e": "We take the cable car up the Pilatus." },
+    { "s": "\"Vo obe gseht mer ganz Luzärn,\" seit er.", "e": "\"From up top you can see all of Lucerne,\" he says." },
+    { "s": "D'Uussicht isch eifach unglaublich.", "e": "The view is simply incredible." },
+    { "s": "Mir wandered es Stück uf em Grat.", "e": "We hike a stretch along the ridge." },
+    { "s": "D'Luft isch frisch und chli chalt.", "e": "The air is fresh and a little cold." },
+    { "s": "\"Bisch müed?\" fragt de Lukas.", "e": "\"Are you tired?\" Lukas asks." },
+    { "s": "\"Es bitzli, aber es lohnt sich,\" säg ich.", "e": "\"A little, but it's worth it,\" I say." },
+    { "s": "Am Gipfel mached mir e Pause.", "e": "At the summit we take a break." },
+    { "s": "Unter öis ligt de See, blau und ruhig.", "e": "Below us lies the lake, blue and calm." },
+    { "s": "\"Das isch mini Heimat,\" seit de Lukas stolz.", "e": "\"This is my home,\" Lukas says proudly." },
+    { "s": "\"Und langsam au mini,\" denk ich.", "e": "\"And slowly mine too,\" I think." },
+    { "s": "D'Natur z'Luzärn nimmt eim de Atem.", "e": "Nature in Lucerne takes your breath away." },
+    { "s": "Müed aber glücklich gani am Aabig hei.", "e": "Tired but happy, I go home in the evening." }
+  ]
+}

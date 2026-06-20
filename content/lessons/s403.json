@@ -1,0 +1,24 @@
+{
+  "id": "s403",
+  "title": "Gfühl zeige",
+  "desc": "Opening up emotionally",
+  "ph": 4,
+  "diff": 7,
+  "wu": ["Gfühl", "zeige", "verletzlich", "vertraue", "Angscht", "ehrlich", "Härz", "öffne", "sage", "wichtig"],
+  "sn": [
+    { "s": "Mit de Lara wird's ärnscht, und das macht mer Angscht.", "e": "With Lara it's getting serious, and that scares me." },
+    { "s": "Gfühl z'zeige isch nöd eifach für mich.", "e": "Showing feelings isn't easy for me." },
+    { "s": "Aber sie öffnet ihres Härz, und das berüert mich.", "e": "But she opens her heart, and that touches me." },
+    { "s": "\"Ich han Angscht, verletzt z'werde,\" gib ich zue.", "e": "\"I'm afraid of getting hurt,\" I admit." },
+    { "s": "\"Das verstah ich,\" seit sie sanft.", "e": "\"I understand that,\" she says gently." },
+    { "s": "\"Aber ich will ehrlich mit dir sii.\"", "e": "\"But I want to be honest with you.\"" },
+    { "s": "Ich verzell ihre, was ich würkli fühle.", "e": "I tell her what I really feel." },
+    { "s": "Es isch schwiirig, aber au befreiend.", "e": "It's hard, but also freeing." },
+    { "s": "\"Danke, dass d'mir vertrausch,\" seit sie.", "e": "\"Thanks for trusting me,\" she says." },
+    { "s": "Verletzlich z'sii bringt öis nöcher.", "e": "Being vulnerable brings us closer." },
+    { "s": "Ich lärn, dass Gfühl zeige kei Schwächi isch.", "e": "I learn that showing feelings isn't weakness." },
+    { "s": "Es isch Muet, und es isch s'Wichtigschte.", "e": "It's courage, and it's the most important thing." },
+    { "s": "Uf Schwiizerdütsch über s'Härz z'rede: das isch tüüf.", "e": "Talking about the heart in Swiss German: that's deep." },
+    { "s": "Und mit ihre cha ich's, Wort für Wort.", "e": "And with her I can, word for word." }
+  ]
+}

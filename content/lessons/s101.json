@@ -1,0 +1,24 @@
+{
+  "id": "s101",
+  "title": "S'Telefon",
+  "desc": "Making a phone call",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["aalüte", "Nummere", "rede", "verstah", "langsam", "no einisch", "Termin", "abmache", "sicher", "tschau"],
+  "sn": [
+    { "s": "Ich mues bim Coiffeur aalüte für e Termin.", "e": "I have to call the hairdresser for an appointment." },
+    { "s": "Am Telefon isch alls schwiriger, mer gseht nüt.", "e": "On the phone everything is harder, you can't see anything." },
+    { "s": "\"Coiffeur Meier, grüezi?\" seit e Stimm.", "e": "\"Meier Hairdresser, hello?\" a voice says." },
+    { "s": "\"Grüezi, ich hätt gärn e Termin.\"", "e": "\"Hello, I'd like an appointment.\"" },
+    { "s": "Sie redt schnäll, ich verstah nöd alls.", "e": "She speaks fast, I don't understand everything." },
+    { "s": "\"Chönd Sie das no einisch säge, bitte?\"", "e": "\"Could you say that once more, please?\"" },
+    { "s": "\"Klar, langsam: am Mittwuch am zwöi?\"", "e": "\"Sure, slowly: Wednesday at two?\"" },
+    { "s": "\"Am Mittwuch am zwöi passt mer guet.\"", "e": "\"Wednesday at two works well for me.\"" },
+    { "s": "\"Uf welä Name?\" fragt sie.", "e": "\"Under what name?\" she asks." },
+    { "s": "\"Tom. T-O-M.\" Ich buchstabiere sicher.", "e": "\"Tom. T-O-M.\" I spell it out to be sure." },
+    { "s": "\"Guet, bis Mittwuch denn. Tschüss!\"", "e": "\"Good, see you Wednesday then. Bye!\"" },
+    { "s": "\"Merci, tschüss!\" Ich leg uf, erlichteret.", "e": "\"Thanks, bye!\" I hang up, relieved." },
+    { "s": "Telefoniere uf Schwiizerdütsch: gschafft!", "e": "Phoning in Swiss German: done!" },
+    { "s": "Das isch e grossi Hürde gsi, und ich han's packt.", "e": "That was a big hurdle, and I managed it." }
+  ]
+}

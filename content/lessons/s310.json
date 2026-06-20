@@ -1,0 +1,24 @@
+{
+  "id": "s310",
+  "title": "Mis Argumänt verteidige",
+  "desc": "Holding firm in a disagreement",
+  "ph": 3,
+  "diff": 8,
+  "wu": ["verteidige", "beharre", "Argumänt", "überzügt", "naagäh", "Standpunkt", "Beweis", "halte", "respektvoll", "Stimm"],
+  "sn": [
+    { "s": "I ere Sitzig isch öpper nöd miner Meinig.", "e": "In a meeting, someone disagrees with me." },
+    { "s": "\"Ich glaube, Ihri Idee funktioniert nöd,\" seit er.", "e": "\"I think your idea won't work,\" he says." },
+    { "s": "Früener wär ich still blibe. Jetz nöd meh.", "e": "Before I'd have stayed quiet. Not anymore." },
+    { "s": "\"Ich respektiere Ihri Meinig, aber ich bi nöd überzügt.\"", "e": "\"I respect your opinion, but I'm not convinced.\"" },
+    { "s": "\"Min Vorschlag hät mehreri Vorteil,\" erklär ich.", "e": "\"My proposal has several advantages,\" I explain." },
+    { "s": "\"Zum Bischpil spart er Ziit und Gäld.\"", "e": "\"For example, it saves time and money.\"" },
+    { "s": "\"Aber es isch riskant,\" beharrt er.", "e": "\"But it's risky,\" he insists." },
+    { "s": "\"Ich verstah s'Risiko, und halte trotzdäm draa.\"", "e": "\"I understand the risk, and I still stand by it.\"" },
+    { "s": "\"Ich han Beweis, dass es scho mal funktioniert hät.\"", "e": "\"I have proof that it worked before.\"" },
+    { "s": "Ich verteidige min Standpunkt ohni respektlos z'sii.", "e": "I defend my position without being disrespectful." },
+    { "s": "\"Guet, lömmer d'andere au lose,\" seit d'Chefin.", "e": "\"Good, let's hear the others too,\" the boss says." },
+    { "s": "Ich han nöd nu us Angscht naagäh.", "e": "I didn't give in just out of fear." },
+    { "s": "Min Punkt halte, mit Respekt und Gründ.", "e": "Holding my point, with respect and reasons." },
+    { "s": "Das isch e eigeni Stimm ha, i ere fremde Sprooch.", "e": "That's having your own voice in another language." }
+  ]
+}

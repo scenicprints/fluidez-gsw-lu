@@ -1,0 +1,24 @@
+{
+  "id": "s304",
+  "title": "S'Missverständnis",
+  "desc": "Clearing up a misunderstanding",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["Missverständnis", "verwächsle", "erkläre", "Entschuldigung", "klärä", "verstah", "Fähler", "Schuld", "verzeih", "in Ornig"],
+  "sn": [
+    { "s": "De Lukas schiint hüt gnervt vo mir z'sii.", "e": "Lukas seems annoyed with me today." },
+    { "s": "\"Isch öppis?\" frag ich.", "e": "\"Is something wrong?\" I ask." },
+    { "s": "\"Du hesch gseit, du chunnsch geschter, und bisch nöd cho.\"", "e": "\"You said you'd come yesterday and didn't show up.\"" },
+    { "s": "\"Ich glaube, da isch es Missverständnis,\" säg ich.", "e": "\"I think there's a misunderstanding,\" I say." },
+    { "s": "\"Ich han verstande, es sig hüt, nöd geschter.\"", "e": "\"I understood it was today, not yesterday.\"" },
+    { "s": "\"Ah, denn han ich mi verwächslet,\" seit er.", "e": "\"Ah, then I got it mixed up,\" he says." },
+    { "s": "\"Nei, vilicht han ich mi nöd guet erklärt.\"", "e": "\"No, maybe I didn't explain myself well.\"" },
+    { "s": "\"Entschuldigung für d'Verwirrig.\"", "e": "\"Sorry for the confusion.\"" },
+    { "s": "\"Ruhig, es isch beid sini Schuld,\" lachet er.", "e": "\"Easy, it's both our faults,\" he laughs." },
+    { "s": "\"Ich han's wele klärä, dass mir nöd schlächt usenand gönd.\"", "e": "\"I wanted to clear it up so we don't part on bad terms.\"" },
+    { "s": "\"Alls guet, mis Fründ. Es isch in Ornig.\"", "e": "\"All good, my friend. It's fine.\"" },
+    { "s": "Es Missverständnis klärä rettet e Fründschaft.", "e": "Clearing up a misunderstanding saves a friendship." },
+    { "s": "Sich entschuldige isch nöd verlüüre.", "e": "Apologizing isn't losing." },
+    { "s": "S'isch d'Bindig pflege.", "e": "It's caring for the bond." }
+  ]
+}

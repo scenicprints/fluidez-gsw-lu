@@ -1,0 +1,24 @@
+{
+  "id": "s00",
+  "title": "Grüezi",
+  "desc": "Your very first words in Luzern",
+  "ph": 0,
+  "diff": 1,
+  "wu": ["Grüezi", "Sali", "Hoi", "Merci", "bitte", "ja", "nei", "guet", "und", "Tschüss"],
+  "sn": [
+    { "s": "Ich chume z'Luzärn aa und cha no kei Wort.", "e": "I arrive in Lucerne and don't know a single word yet." },
+    { "s": "E Frau lächlet und seit: \"Grüezi!\"", "e": "A woman smiles and says: \"Hello!\" (formal)" },
+    { "s": "\"Grüezi,\" säg ich zrugg. Das isch eifach.", "e": "\"Hello,\" I say back. That's easy." },
+    { "s": "\"Grüezi\" seit mer zu Lüt wo mer nöd kennt.", "e": "\"Grüezi\" is what you say to people you don't know." },
+    { "s": "Zu Fründe seit mer \"Sali\" oder \"Hoi\".", "e": "To friends you say \"Sali\" or \"Hoi\"." },
+    { "s": "De Maa im Lade git mer es Kafi.", "e": "The man in the shop gives me a coffee." },
+    { "s": "\"Merci,\" säg ich. \"Bitte,\" seit er.", "e": "\"Thanks,\" I say. \"You're welcome,\" he says." },
+    { "s": "\"Merci\" heisst danke. Das bruuch ich oft.", "e": "\"Merci\" means thank you. I use that a lot." },
+    { "s": "\"Isch das guet?\" fragt er mich.", "e": "\"Is that good?\" he asks me." },
+    { "s": "\"Ja, sehr guet,\" säg ich und lächle.", "e": "\"Yes, very good,\" I say and smile." },
+    { "s": "Wänn ich gaa, seit er: \"Tschüss! Schöne Tag!\"", "e": "When I leave, he says: \"Bye! Have a nice day!\"" },
+    { "s": "\"Tschüss,\" säg ich zrugg.", "e": "\"Bye,\" I say back." },
+    { "s": "Es paar Wörtli, und scho fühl ich mich besser.", "e": "A few little words, and already I feel better." },
+    { "s": "Hüt fang ich aa, Lozärnerisch z'lärne.", "e": "Today I begin to learn Lucerne German." }
+  ]
+}

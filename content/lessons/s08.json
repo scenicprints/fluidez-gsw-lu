@@ -1,0 +1,24 @@
+{
+  "id": "s08",
+  "title": "Uf de Poscht",
+  "desc": "At the post office",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["Poscht", "Päckli", "schicke", "Brief", "Marke", "uufgää", "Schalter", "wäge", "teuer", "warte"],
+  "sn": [
+    { "s": "Ich mues es Päckli uf d'Poscht bringe.", "e": "I have to take a package to the post office." },
+    { "s": "An de Poscht het's e Schlange, ich mues warte.", "e": "At the post office there's a queue, I have to wait." },
+    { "s": "Äntlich bin ich draa am Schalter.", "e": "Finally it's my turn at the counter." },
+    { "s": "\"Grüezi, ich möcht das Päckli schicke.\"", "e": "\"Hello, I'd like to send this package.\"" },
+    { "s": "\"Wohi gaht's denn?\" fragt de Maa.", "e": "\"Where's it going?\" the man asks." },
+    { "s": "\"Uf Amerika,\" säg ich.", "e": "\"To America,\" I say." },
+    { "s": "Er leit s'Päckli uf d'Waag zum wäge.", "e": "He puts the package on the scale to weigh it." },
+    { "s": "\"Das choschtet zwänzg Stutz,\" seit er.", "e": "\"That costs twenty francs,\" he says." },
+    { "s": "\"Das isch chli teuer, aber okay.\"", "e": "\"That's a bit expensive, but okay.\"" },
+    { "s": "\"Bruuched Sie au no Marke?\" fragt er.", "e": "\"Do you also need stamps?\" he asks." },
+    { "s": "\"Ja, zwöi Marke für Brief, bitte.\"", "e": "\"Yes, two stamps for letters, please.\"" },
+    { "s": "Ich zale und nimm de Bsteller mit.", "e": "I pay and take the receipt with me." },
+    { "s": "\"Merci, en schöne Tag no!\"", "e": "\"Thanks, have a nice day!\"" },
+    { "s": "Wider öppis Neus uf Lozärnerisch gschafft.", "e": "Managed something new in Lucerne German again." }
+  ]
+}

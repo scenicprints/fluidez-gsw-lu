@@ -1,0 +1,24 @@
+{
+  "id": "s102",
+  "title": "Verloffe",
+  "desc": "Getting lost in the old town",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["verloffe", "Altstadt", "Gass", "sueche", "Brugg", "över", "wiit", "näch", "zeige", "Wäg"],
+  "sn": [
+    { "s": "I de Altstadt bin ich kompliziert verloffe.", "e": "In the old town I've gotten completely lost." },
+    { "s": "Ali Gasse gsehnd glich us, eng und chrumm.", "e": "All the lanes look the same, narrow and crooked." },
+    { "s": "Ich sueche d'Kapellbrugg, aber finde sie nöd.", "e": "I'm looking for the Chapel Bridge, but can't find it." },
+    { "s": "Ich frag e Frau: \"Wo isch d'Kapellbrugg?\"", "e": "I ask a woman: \"Where is the Chapel Bridge?\"" },
+    { "s": "\"Ah, die isch nöd wiit,\" seit sie fründlich.", "e": "\"Ah, that's not far,\" she says kindly." },
+    { "s": "\"Gönd Sie die Gass aab bis zum Wasser.\"", "e": "\"Go down this lane to the water.\"" },
+    { "s": "\"Und denn?\" frag ich.", "e": "\"And then?\" I ask." },
+    { "s": "\"Denn gseched Sie d'Brugg grad vor Ihne.\"", "e": "\"Then you'll see the bridge right in front of you.\"" },
+    { "s": "\"Söll ich Sie es Stück begleite?\" fragt sie.", "e": "\"Shall I walk with you a bit?\" she asks." },
+    { "s": "\"Oh, sehr nett, aber das gaht scho.\"", "e": "\"Oh, very kind, but I'll manage.\"" },
+    { "s": "Ich folge em Wäg und chume zum Wasser.", "e": "I follow the path and come to the water." },
+    { "s": "Und döt isch sie: d'Kapellbrugg, wunderschöö.", "e": "And there it is: the Chapel Bridge, beautiful." },
+    { "s": "Verloffe z'sii isch gar nöd so schlimm.", "e": "Being lost isn't so bad after all." },
+    { "s": "Mer lärnt d'Stadt am beschte z'Fuess kenne.", "e": "You get to know the city best on foot." }
+  ]
+}

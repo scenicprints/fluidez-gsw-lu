@@ -1,0 +1,77 @@
+{
+  "id": "s501",
+  "title": "Wie d'Lüt würkli redet",
+  "desc": "How locals really talk",
+  "ph": 5,
+  "diff": 7,
+  "wu": [
+    "umgangssprachlich",
+    "schnäll",
+    "verschlucke",
+    "locker",
+    "gäbig",
+    "sus",
+    "eba",
+    "äuä",
+    "halt",
+    "mängisch"
+  ],
+  "sn": [
+    {
+      "s": "Im Buech tönt Schwiizerdütsch suuber. Uf de Strooss tönt's anders.",
+      "e": "In the book Swiss German sounds clean. On the street it sounds different."
+    },
+    {
+      "s": "D'Lüt redet schnäll und verschlucked halbi Wörter.",
+      "e": "People speak fast and swallow half the words."
+    },
+    {
+      "s": "Statt \"ich han\" säged sie eifach \"i ha\".",
+      "e": "Instead of \"ich han\" they just say \"i ha\"."
+    },
+    {
+      "s": "\"Eba\" seit mer, wenn öpper rächt het. Wie \"genau\".",
+      "e": "You say \"eba\" when someone is right. Like \"exactly\"."
+    },
+    {
+      "s": "\"Äuä\" heisst öppe \"villicht\" oder \"chuum\".",
+      "e": "\"Äuä\" means roughly \"maybe\" or \"hardly\"."
+    },
+    {
+      "s": "\"Halt\" und \"eba\" ghörsch i jedem zweite Satz.",
+      "e": "You hear \"halt\" and \"eba\" in every second sentence."
+    },
+    {
+      "s": "Die chliine Wörter mached d'Sproch locker und gäbig.",
+      "e": "Those little words make the language relaxed and easy."
+    },
+    {
+      "s": "Am Aafang han ich nu \"Bahnhof\" verstande.",
+      "e": "At the start I only understood 'train station' (i.e. nothing)."
+    },
+    {
+      "s": "Aber langsam ghör ich d'Melodie und de Rhythmus.",
+      "e": "But slowly I hear the melody and the rhythm."
+    },
+    {
+      "s": "Ich fang aa, sälber so z'rede, ganz automatisch.",
+      "e": "I'm starting to speak that way myself, quite automatically."
+    },
+    {
+      "s": "\"Sus no öppis?\" frag ich im Lade, ganz wie e Lozärner.",
+      "e": "\"Anything else?\" I ask in the shop, just like a local."
+    },
+    {
+      "s": "D'Verchäuferin merkt nöd mal, dass ich nöd vo da bi.",
+      "e": "The shopkeeper doesn't even notice I'm not from here."
+    },
+    {
+      "s": "Eba das isch s'Ziel gsii.",
+      "e": "That was exactly the goal."
+    },
+    {
+      "s": "Mängisch isch s'Locker-rede schwerer als s'Korrekt-rede.",
+      "e": "Sometimes talking casually is harder than talking correctly."
+    }
+  ]
+}

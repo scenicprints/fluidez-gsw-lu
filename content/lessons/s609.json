@@ -1,0 +1,77 @@
+{
+  "id": "s609",
+  "title": "Höflich oder direkt",
+  "desc": "Polite vs blunt register",
+  "ph": 6,
+  "diff": 9,
+  "wu": [
+    "höflich",
+    "direkt",
+    "Ton",
+    "Sie",
+    "du",
+    "aapasse",
+    "Situation",
+    "respektvoll",
+    "locker",
+    "gschpüre"
+  ],
+  "sn": [
+    {
+      "s": "In de Schwiiz isch de richtig Ton wichtig.",
+      "e": "In Switzerland the right tone is important."
+    },
+    {
+      "s": "Zu Fremde und Eltere seit mer Sie, höflich.",
+      "e": "To strangers and elders you say Sie, politely."
+    },
+    {
+      "s": "Zu Fründe und Junge seit mer du, ganz locker.",
+      "e": "To friends and young people you say du, quite casually."
+    },
+    {
+      "s": "Wer wänn was bruucht, das gschpürt mer mit de Ziit.",
+      "e": "Who needs which and when, you sense with time."
+    },
+    {
+      "s": "Z'früeh duze cha unhöflich wirke.",
+      "e": "Switching to du too early can seem rude."
+    },
+    {
+      "s": "Aber z'lang Sie säge cha au steif wirke.",
+      "e": "But saying Sie too long can also seem stiff."
+    },
+    {
+      "s": "Mängisch fragt öpper: \"Säge mer doch du?\"",
+      "e": "Sometimes someone asks: \"Shall we say du?\""
+    },
+    {
+      "s": "Denn isch's es chliis Zeiche vo Vertroue.",
+      "e": "Then it's a small sign of trust."
+    },
+    {
+      "s": "D'Schwiizer sind höflich, aber nöd umständlich.",
+      "e": "The Swiss are polite, but not fussy."
+    },
+    {
+      "s": "Mer seit, was mer meint, aber ruhig und fründlich.",
+      "e": "You say what you mean, but calmly and kindly."
+    },
+    {
+      "s": "Z'direkt cha verletze, z'umständlich nervt.",
+      "e": "Too blunt can hurt, too roundabout annoys."
+    },
+    {
+      "s": "De richtig Ton liit irgendwo i de Mitti.",
+      "e": "The right tone lies somewhere in the middle."
+    },
+    {
+      "s": "Ich han glärnt, mi a d'Situation aazpasse.",
+      "e": "I've learned to adapt to the situation."
+    },
+    {
+      "s": "Das isch fascht so wichtig wie d'Wörter sälber.",
+      "e": "That's almost as important as the words themselves."
+    }
+  ]
+}

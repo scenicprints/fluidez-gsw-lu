@@ -1,0 +1,77 @@
+{
+  "id": "s508",
+  "title": "Vom Gäld rede",
+  "desc": "Money and Swiss frugality",
+  "ph": 5,
+  "diff": 8,
+  "wu": [
+    "zale",
+    "tüür",
+    "spare",
+    "Räächnig",
+    "gschpäble",
+    "Trinkgäld",
+    "rächne",
+    "grad",
+    "Batze",
+    "luege"
+  ],
+  "sn": [
+    {
+      "s": "D'Schwiiz isch tüür, das merkt mer schnäll.",
+      "e": "Switzerland is expensive, you notice that quickly."
+    },
+    {
+      "s": "Aber d'Lüt redet nöd gärn laut über Gäld.",
+      "e": "But people don't like talking loudly about money."
+    },
+    {
+      "s": "Im Restaurant zalt jede meischtens sis Eigene.",
+      "e": "In a restaurant everyone mostly pays for their own."
+    },
+    {
+      "s": "\"Mir mached separat,\" seit mer am Källner.",
+      "e": "\"We'll pay separately,\" you tell the waiter."
+    },
+    {
+      "s": "Mer rächnet genau, wer was gha het.",
+      "e": "You work out exactly who had what."
+    },
+    {
+      "s": "Trinkgäld git mer, aber nöd viel: mer rundet eifach uf.",
+      "e": "You give a tip, but not much: you just round up."
+    },
+    {
+      "s": "D'Schwiizer sind sparsam, nöd giizig.",
+      "e": "The Swiss are thrifty, not stingy."
+    },
+    {
+      "s": "Sie lueged, dass alls sis Gäld wärt isch.",
+      "e": "They make sure everything is worth its money."
+    },
+    {
+      "s": "\"Das chostet zwar, aber's haltet au lang,\" säged sie.",
+      "e": "\"It costs, sure, but it also lasts long,\" they say."
+    },
+    {
+      "s": "Über s'Lohn redet mer fascht nie.",
+      "e": "You almost never talk about your salary."
+    },
+    {
+      "s": "Das gilt als privat, fascht es bitzli tabu.",
+      "e": "That's considered private, almost a little taboo."
+    },
+    {
+      "s": "Am Aafang han ich z'viel Trinkgäld gä.",
+      "e": "At the start I gave too much tip."
+    },
+    {
+      "s": "En Fründ het glächlet: \"Da bisch nöd z'Amerika, gäll.\"",
+      "e": "A friend smiled: \"You're not in America here, you know.\""
+    },
+    {
+      "s": "Mit Gäld umgah lärnt mer au e Kultur kenne.",
+      "e": "Handling money also teaches you a culture."
+    }
+  ]
+}

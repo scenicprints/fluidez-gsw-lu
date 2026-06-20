@@ -1,0 +1,24 @@
+{
+  "id": "s03",
+  "title": "Wohär chunsch?",
+  "desc": "Your first real chat",
+  "ph": 0,
+  "diff": 2,
+  "wu": ["wohär", "chunsch", "ich", "chume", "us", "wohnsch", "jetz", "da", "wie", "heissisch"],
+  "sn": [
+    { "s": "Im Zug sitzt e junge Maa näbed mir.", "e": "On the train a young man sits next to me." },
+    { "s": "\"Sali,\" seit er fründlich. \"Sali,\" säg ich.", "e": "\"Hi,\" he says friendly. \"Hi,\" I say." },
+    { "s": "\"Wohär chunsch?\" fragt er mich.", "e": "\"Where do you come from?\" he asks me." },
+    { "s": "\"Ich chume us Amerika,\" antworte ich.", "e": "\"I come from America,\" I answer." },
+    { "s": "\"Aha, und wohnsch jetz da z'Luzärn?\"", "e": "\"Ah, and do you live here in Lucerne now?\"" },
+    { "s": "\"Ja, ich wohne jetz da. Es gfallt mer.\"", "e": "\"Yes, I live here now. I like it.\"" },
+    { "s": "\"Wie heissisch?\" fragt er.", "e": "\"What's your name?\" he asks." },
+    { "s": "\"Ich heisse Tom. Und du?\"", "e": "\"My name is Tom. And you?\"" },
+    { "s": "\"Ich bi de Lukas. Schön di z'kenne!\"", "e": "\"I'm Lukas. Nice to meet you!\"" },
+    { "s": "Mir redet es bitzli über Luzärn und s'Wätter.", "e": "We talk a little about Lucerne and the weather." },
+    { "s": "Sis Schwiizerdütsch isch schnäll, aber ich verstah chli.", "e": "His Swiss German is fast, but I understand a little." },
+    { "s": "\"Du lärnsch guet,\" seit er ufmunternd.", "e": "\"You're learning well,\" he says encouragingly." },
+    { "s": "Wänn er uussteigt, seit er: \"Tschüss, viel Glück!\"", "e": "When he gets off, he says: \"Bye, good luck!\"" },
+    { "s": "Mis erste Gschpröch uf Lozärnerisch. Es fühlt sich guet aa.", "e": "My first conversation in Lucerne German. It feels good." }
+  ]
+}

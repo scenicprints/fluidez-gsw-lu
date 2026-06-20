@@ -1,0 +1,24 @@
+{
+  "id": "s02",
+  "title": "De Bahnhof",
+  "desc": "Finding your way at the station",
+  "ph": 0,
+  "diff": 1,
+  "wu": ["Bahnhof", "Zug", "wo", "isch", "döt", "linggs", "rächts", "gradus", "Billet", "Gleis"],
+  "sn": [
+    { "s": "Ich mues zum Bahnhof, aber ich weiss nöd wo.", "e": "I have to get to the station, but I don't know where." },
+    { "s": "Ich frag e Maa: \"Entschuldigung, wo isch de Bahnhof?\"", "e": "I ask a man: \"Excuse me, where is the station?\"" },
+    { "s": "\"Da gradus und denn linggs,\" seit er.", "e": "\"Straight ahead and then left,\" he says." },
+    { "s": "\"Gradus\" heisst geradeaus, \"linggs\" isch links.", "e": "\"Gradus\" means straight ahead, \"linggs\" is left." },
+    { "s": "\"Merci viilmal,\" säg ich und gaa wiiter.", "e": "\"Thank you very much,\" I say and walk on." },
+    { "s": "De Bahnhof Luzärn isch grooss und schöö.", "e": "Lucerne station is big and beautiful." },
+    { "s": "Ich gaa zum Schalter und säg: \"Grüezi.\"", "e": "I go to the counter and say: \"Hello.\"" },
+    { "s": "\"Ich hätt gärn es Billet uf Züri.\"", "e": "\"I'd like a ticket to Zurich.\"" },
+    { "s": "Es Billet isch e Fahrchaarte für de Zug.", "e": "A 'Billet' is a ticket for the train." },
+    { "s": "\"Eifach oder retour?\" fragt d'Frau.", "e": "\"One way or return?\" the woman asks." },
+    { "s": "\"Retour, bitte.\" Ich zale und nimm s'Billet.", "e": "\"Return, please.\" I pay and take the ticket." },
+    { "s": "\"De Zug fahrt uf Gleis vier,\" seit sie.", "e": "\"The train leaves from platform four,\" she says." },
+    { "s": "Ich find s'Gleis und stiig ii.", "e": "I find the platform and get on." },
+    { "s": "Scho s'erste Mal ellei underwägs: ich bi stolz.", "e": "Already traveling alone for the first time: I'm proud." }
+  ]
+}

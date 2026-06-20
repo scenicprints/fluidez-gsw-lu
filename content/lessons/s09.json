@@ -1,0 +1,24 @@
+{
+  "id": "s09",
+  "title": "Mit em Bus",
+  "desc": "Taking the bus in town",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["Bus", "Haltestell", "iistiige", "uussteige", "Linie", "Fahrt", "nöchscht", "umstiige", "Ziit", "spaat"],
+  "sn": [
+    { "s": "Ich mues mit em Bus i d'Stadt.", "e": "I have to take the bus into town." },
+    { "s": "An de Haltestell lueg ich uf de Plan.", "e": "At the bus stop I look at the schedule." },
+    { "s": "D'Linie zwöi gaht zum Schwanenplatz.", "e": "Line two goes to Schwanenplatz." },
+    { "s": "De Bus chunnt, und ich stiig ii.", "e": "The bus comes, and I get on." },
+    { "s": "\"Grüezi, ei Billet i d'Stadt, bitte.\"", "e": "\"Hello, one ticket to the centre, please.\"" },
+    { "s": "Ich zale und sueche mer e Platz.", "e": "I pay and find myself a seat." },
+    { "s": "\"Mues ich umstiige?\" frag ich e Frau.", "e": "\"Do I have to change?\" I ask a woman." },
+    { "s": "\"Nei, das isch de direkt Bus,\" seit sie.", "e": "\"No, this is the direct bus,\" she says." },
+    { "s": "\"Wänn isch d'nöchscht Haltestell?\" frag ich.", "e": "\"When's the next stop?\" I ask." },
+    { "s": "\"Grad da vorne, Sie chönd use,\" seit sie.", "e": "\"Right up ahead, you can get out,\" she says." },
+    { "s": "\"Merci viilmal für d'Hilf!\"", "e": "\"Thank you very much for the help!\"" },
+    { "s": "Ich stiig us und bi mitten i de Stadt.", "e": "I get off and I'm in the middle of town." },
+    { "s": "De Bus z'Luzärn isch eifach und pünktlich.", "e": "The bus in Lucerne is simple and punctual." },
+    { "s": "Langsam find ich mich z'rächt da.", "e": "Slowly I'm finding my way here." }
+  ]
+}
