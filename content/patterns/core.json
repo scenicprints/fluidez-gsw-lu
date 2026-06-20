@@ -1,0 +1,116 @@
+[
+  {
+    "id": "diminutive-li",
+    "title": "The -li diminutive",
+    "min": 3,
+    "trigger": [
+      "Gipfeli",
+      "Käfeli",
+      "Stündli",
+      "Bänkli",
+      "Hündli",
+      "Sächeli",
+      "Wörtli",
+      "Bierli",
+      "Hüüsli",
+      "Rucksäckli",
+      "Zettel"
+    ],
+    "text": "Swiss German loves making things small and friendly by adding -li:\n\n• Kafi → Käfeli (a little coffee)\n• Stund → Stündli (a little hour)\n• Hund → Hündli (a little dog)\n• Sach → Sächeli (a little thing)\n\nThe vowel often shifts (a→ä, u→ü, o→ö) when -li is added.\n\nIt's not always literally small — 'mir göhnd schnäll es Bierli go näh' might mean three beers. The -li makes things sound cosy and informal, which matters a lot here."
+  },
+  {
+    "id": "particles",
+    "title": "Little words: gäll, halt, eba, scho, äuä",
+    "min": 4,
+    "trigger": [
+      "gäll",
+      "halt",
+      "eba",
+      "scho",
+      "äuä",
+      "oder",
+      "mängisch"
+    ],
+    "text": "These tiny words carry the tone of a sentence. Master them and you sound local:\n\n• gäll — 'right?, isn't it?' tacked on the end seeking agreement: \"Schöns Wätter, gäll?\"\n• halt — 'just/simply', a resigned shrug: \"Es isch halt so.\"\n• eba — 'exactly', agreeing someone's right.\n• scho — 'admittedly/sure...but': \"Es isch scho guet, aber...\"\n• äuä — doubt: 'probably not / hardly'.\n\nYou can't learn these from a textbook — listen, then try them."
+  },
+  {
+    "id": "verb-final-pp",
+    "title": "Past tense with ha and bi",
+    "min": 3,
+    "trigger": [
+      "ghaa",
+      "gsi",
+      "gange",
+      "gmacht",
+      "troffe",
+      "gschafft",
+      "gspilt",
+      "gfreut",
+      "kenneglärnt",
+      "ufgwachse"
+    ],
+    "text": "Swiss German has no simple past — everything past uses 'ha' (have) or 'bi' (be) + past participle:\n\n• Ich ha es Znacht ghaa. (I had dinner.)\n• Mir sind go wandere gange. (We went hiking.)\n• Ich ha en Fründ troffe. (I met a friend.)\n\nMotion/change verbs take 'bi/sind' (bi gange, bi cho); most others take 'ha/händ'.\n\nThe participle usually lands at the end of the clause."
+  },
+  {
+    "id": "swiss-vocab",
+    "title": "Everyday Swiss words",
+    "min": 3,
+    "trigger": [
+      "Velo",
+      "Glace",
+      "Natel",
+      "Znüni",
+      "Zvieri",
+      "Finke",
+      "poschte",
+      "Stutz",
+      "Merci",
+      "Rappe"
+    ],
+    "text": "Some words are simply different here — often borrowed from French:\n\n• Velo = bicycle (not Fahrrad)\n• Natel = mobile phone\n• Glace = ice cream\n• Merci = thanks\n• Stutz = francs, Rappe = cents\n• Znüni / Zvieri = mid-morning / afternoon snack\n• Finke = slippers\n• poschte = to shop / run errands\n\nUsing these makes you sound instantly more at home."
+  },
+  {
+    "id": "ich-i-cha",
+    "title": "ich/i, isch, nöd, cha",
+    "min": 4,
+    "trigger": [
+      "isch",
+      "nöd",
+      "cha",
+      "chunsch",
+      "chume",
+      "gseh",
+      "guet",
+      "öppis",
+      "öpper"
+    ],
+    "text": "Core sound shifts that mark the dialect:\n\n• ist → isch (is); the German 'st' becomes 'sch'.\n• nicht → nöd (not)\n• kann → cha, kannst → chasch (can) — German 'k' often becomes 'ch'.\n• kommen → cho/chume, kommst → chunsch\n• sehen → gseh (to see)\n• etwas → öppis (something), jemand → öpper (someone)\n\nGood (guet), nice (schöö) and small (chli) round out the everyday basics."
+  },
+  {
+    "id": "time-halbi",
+    "title": "Telling time: halbi, ab, vor",
+    "min": 2,
+    "trigger": [
+      "halbi",
+      "Viertel",
+      "ab",
+      "vor",
+      "Uhr"
+    ],
+    "text": "Time works like German but watch 'halbi':\n\n• halbi achti = half TO eight = 7:30 (not 8:30!)\n• Viertel ab achti = quarter past eight = 8:15\n• Viertel vor nüni = quarter to nine = 8:45\n\nAnd punctuality is taken seriously — 'am Viertel ab zwöi' means exactly that, not a few minutes later."
+  },
+  {
+    "id": "greetings-register",
+    "title": "Grüezi vs Sali — formal and familiar",
+    "min": 2,
+    "trigger": [
+      "Grüezi",
+      "Sali",
+      "Hoi",
+      "Sie",
+      "du",
+      "willkomme"
+    ],
+    "text": "Choose your greeting by relationship:\n\n• Grüezi — polite, for people you don't know (and Sie with it)\n• Sali / Hoi — casual, for friends (and du)\n\nSwitching from Sie to du is a small milestone of trust — often someone offers: 'Säge mer doch du?' Using du too early can seem rude; staying on Sie too long can seem stiff."
+  }
+]

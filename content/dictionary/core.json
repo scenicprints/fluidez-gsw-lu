@@ -1,0 +1,2582 @@
+{
+  "Aabig": {
+    "en": "evening",
+    "g": "m",
+    "note": "Standard German 'Abend'",
+    "pos": "n"
+  },
+  "Aafang": {
+    "en": "beginning, start",
+    "pos": "n"
+  },
+  "Abfall": {
+    "en": "rubbish, waste",
+    "pos": "n"
+  },
+  "Akzänt": {
+    "en": "accent",
+    "pos": "n"
+  },
+  "Alltag": {
+    "en": "everyday life",
+    "pos": "n"
+  },
+  "Alternative": {
+    "en": "alternative",
+    "pos": "n"
+  },
+  "Altstadt": {
+    "en": "old town",
+    "pos": "n"
+  },
+  "Angscht": {
+    "en": "fear, anxiety",
+    "pos": "n"
+  },
+  "Apéro": {
+    "en": "apéro, pre-meal drinks gathering",
+    "note": "A Swiss social institution",
+    "pos": "n"
+  },
+  "Arbet": {
+    "en": "work, job",
+    "pos": "n"
+  },
+  "Argumänt": {
+    "en": "argument, point",
+    "pos": "n"
+  },
+  "Aug": {
+    "en": "eye",
+    "pos": "n"
+  },
+  "Bad": {
+    "en": "bath, pool",
+    "pos": "n"
+  },
+  "Bahnhof": {
+    "en": "train station",
+    "g": "m",
+    "pos": "n"
+  },
+  "Batze": {
+    "en": "coin, money (colloq.)",
+    "pos": "n"
+  },
+  "Beck": {
+    "en": "baker, bakery",
+    "pos": "n"
+  },
+  "Bedütig": {
+    "en": "meaning",
+    "pos": "n"
+  },
+  "Begriff": {
+    "en": "term, concept",
+    "pos": "n"
+  },
+  "Betoonig": {
+    "en": "intonation, stress",
+    "pos": "n"
+  },
+  "Bett": {
+    "en": "bed",
+    "pos": "n"
+  },
+  "Beweis": {
+    "en": "proof",
+    "pos": "n"
+  },
+  "Bewilligung": {
+    "en": "permit, authorisation",
+    "pos": "n"
+  },
+  "Billet": {
+    "en": "ticket",
+    "g": "n",
+    "note": "From French; train/bus ticket",
+    "pos": "n"
+  },
+  "Bischpil": {
+    "en": "example",
+    "pos": "n"
+  },
+  "Bitte": {
+    "en": "please / you're welcome",
+    "pos": "intj"
+  },
+  "Brief": {
+    "en": "letter",
+    "pos": "n"
+  },
+  "Brot": {
+    "en": "bread",
+    "g": "n",
+    "pos": "n"
+  },
+  "Brugg": {
+    "en": "bridge",
+    "pos": "n"
+  },
+  "Bruuch": {
+    "en": "custom, tradition",
+    "pos": "n"
+  },
+  "Brüeder": {
+    "en": "brother",
+    "pos": "n"
+  },
+  "Bus": {
+    "en": "bus",
+    "pos": "n"
+  },
+  "Buur": {
+    "en": "farmer",
+    "pos": "n"
+  },
+  "Bänkli": {
+    "en": "little bench",
+    "note": "-li diminutive of Bank",
+    "pos": "n"
+  },
+  "Bär": {
+    "en": "bear",
+    "pos": "n"
+  },
+  "Bärg": {
+    "en": "mountain",
+    "g": "m",
+    "note": "Standard German 'Berg'; Pilatus and Rigi loom over Lucerne",
+    "pos": "n"
+  },
+  "Chind": {
+    "en": "child",
+    "pos": "n"
+  },
+  "Chuchi": {
+    "en": "kitchen",
+    "pos": "n"
+  },
+  "Chäs": {
+    "en": "cheese",
+    "g": "m",
+    "note": "Standard German 'Käse'",
+    "pos": "n"
+  },
+  "Container": {
+    "en": "container, recycling bin",
+    "pos": "n"
+  },
+  "Date": {
+    "en": "date (romantic)",
+    "pos": "n"
+  },
+  "Dialäkt": {
+    "en": "dialect",
+    "pos": "n"
+  },
+  "Dokter": {
+    "en": "doctor",
+    "pos": "n"
+  },
+  "Entscheid": {
+    "en": "decision",
+    "pos": "n"
+  },
+  "Entschuldigung": {
+    "en": "apology; excuse me",
+    "pos": "n"
+  },
+  "Erfahrig": {
+    "en": "experience",
+    "pos": "n"
+  },
+  "Erinnerig": {
+    "en": "memory",
+    "pos": "n"
+  },
+  "Esse": {
+    "en": "food, meal",
+    "pos": "n"
+  },
+  "Fahrt": {
+    "en": "ride, trip",
+    "pos": "n"
+  },
+  "Familie": {
+    "en": "family",
+    "pos": "n"
+  },
+  "Fasnacht": {
+    "en": "carnival",
+    "note": "Lucerne's famous pre-Lent carnival",
+    "pos": "n"
+  },
+  "Fescht": {
+    "en": "party, festival",
+    "pos": "n"
+  },
+  "Fieber": {
+    "en": "fever",
+    "pos": "n"
+  },
+  "Finke": {
+    "en": "slippers",
+    "note": "Swiss word for house slippers",
+    "pos": "n"
+  },
+  "Firma": {
+    "en": "company, firm",
+    "pos": "n"
+  },
+  "Formular": {
+    "en": "form (to fill out)",
+    "pos": "n"
+  },
+  "Fortschritt": {
+    "en": "progress",
+    "pos": "n"
+  },
+  "Fritig": {
+    "en": "Friday",
+    "pos": "n"
+  },
+  "Frog": {
+    "en": "question",
+    "pos": "n"
+  },
+  "Frücht": {
+    "en": "fruit",
+    "pos": "n"
+  },
+  "Fründ": {
+    "en": "friend",
+    "pos": "n"
+  },
+  "Fähler": {
+    "en": "mistake, error",
+    "pos": "n"
+  },
+  "Fänschter": {
+    "en": "window",
+    "pos": "n"
+  },
+  "Garantie": {
+    "en": "guarantee, warranty",
+    "pos": "n"
+  },
+  "Gass": {
+    "en": "lane, alley",
+    "pos": "n"
+  },
+  "Gebühr": {
+    "en": "fee, charge",
+    "pos": "n"
+  },
+  "Gedanke": {
+    "en": "thought",
+    "pos": "n"
+  },
+  "Geduld": {
+    "en": "patience",
+    "pos": "n"
+  },
+  "Geld": {
+    "en": "money",
+    "pos": "n"
+  },
+  "Generation": {
+    "en": "generation",
+    "pos": "n"
+  },
+  "Gfalle": {
+    "en": "favour",
+    "pos": "n"
+  },
+  "Gfühl": {
+    "en": "feeling",
+    "pos": "n"
+  },
+  "Ghör": {
+    "en": "hearing, ear",
+    "pos": "n"
+  },
+  "Gipfel": {
+    "en": "summit, peak",
+    "pos": "n"
+  },
+  "Gipfeli": {
+    "en": "croissant",
+    "g": "n",
+    "note": "The classic Swiss breakfast pastry; note the -li ending",
+    "pos": "n"
+  },
+  "Glaas": {
+    "en": "glass (material)",
+    "pos": "n"
+  },
+  "Glace": {
+    "en": "ice cream",
+    "note": "From French",
+    "pos": "n"
+  },
+  "Glas": {
+    "en": "glass (drinking)",
+    "pos": "n"
+  },
+  "Gleis": {
+    "en": "platform, track",
+    "pos": "n"
+  },
+  "Glück": {
+    "en": "luck, happiness",
+    "pos": "n"
+  },
+  "Gmeind": {
+    "en": "municipality, town office",
+    "pos": "n"
+  },
+  "Gmeinschaft": {
+    "en": "community",
+    "pos": "n"
+  },
+  "Gmües": {
+    "en": "vegetables",
+    "pos": "n"
+  },
+  "Grosseltere": {
+    "en": "grandparents",
+    "pos": "n"
+  },
+  "Gränze": {
+    "en": "border, boundary",
+    "pos": "n"
+  },
+  "Grüezi": {
+    "en": "hello (formal)",
+    "note": "The standard polite greeting; use with people you don't know",
+    "pos": "intj"
+  },
+  "Gschicht": {
+    "en": "story, history",
+    "pos": "n"
+  },
+  "Gschpröch": {
+    "en": "conversation",
+    "pos": "n"
+  },
+  "Gschänk": {
+    "en": "gift, present",
+    "pos": "n"
+  },
+  "Gsicht": {
+    "en": "face",
+    "pos": "n"
+  },
+  "Guggemusig": {
+    "en": "carnival brass band",
+    "note": "Lucerne Fasnacht tradition",
+    "pos": "n"
+  },
+  "Gwohnheit": {
+    "en": "habit",
+    "pos": "n"
+  },
+  "Gwöhnig": {
+    "en": "habit, getting used to",
+    "pos": "n"
+  },
+  "Hals": {
+    "en": "throat, neck",
+    "pos": "n"
+  },
+  "Haltestell": {
+    "en": "(bus/tram) stop",
+    "pos": "n"
+  },
+  "Heimat": {
+    "en": "homeland, home",
+    "pos": "n"
+  },
+  "Hilf": {
+    "en": "help",
+    "pos": "n"
+  },
+  "Hobby": {
+    "en": "hobby",
+    "pos": "n"
+  },
+  "Hochdütsch": {
+    "en": "High/Standard German",
+    "pos": "n"
+  },
+  "Hoi": {
+    "en": "hi (informal)",
+    "note": "Very casual, like 'hey'",
+    "pos": "intj"
+  },
+  "Humor": {
+    "en": "humour",
+    "pos": "n"
+  },
+  "Hunger": {
+    "en": "hunger",
+    "pos": "n"
+  },
+  "Härz": {
+    "en": "heart",
+    "pos": "n"
+  },
+  "Hündli": {
+    "en": "little dog, puppy",
+    "note": "-li diminutive",
+    "pos": "n"
+  },
+  "Idee": {
+    "en": "idea",
+    "pos": "n"
+  },
+  "Identität": {
+    "en": "identity",
+    "pos": "n"
+  },
+  "Iidruck": {
+    "en": "impression",
+    "pos": "n"
+  },
+  "Ironie": {
+    "en": "irony",
+    "pos": "n"
+  },
+  "Ja": {
+    "en": "yes",
+    "pos": "adv"
+  },
+  "Kafi": {
+    "en": "coffee",
+    "g": "m",
+    "note": "Also 'es Kafeli' affectionately",
+    "pos": "n"
+  },
+  "Kasse": {
+    "en": "checkout, till",
+    "pos": "n"
+  },
+  "Kilo": {
+    "en": "kilo",
+    "pos": "n"
+  },
+  "Klang": {
+    "en": "sound",
+    "pos": "n"
+  },
+  "Kollege": {
+    "en": "colleague, mate",
+    "pos": "n"
+  },
+  "Komplimänt": {
+    "en": "compliment",
+    "pos": "n"
+  },
+  "Konfetti": {
+    "en": "confetti",
+    "pos": "n"
+  },
+  "Käfeli": {
+    "en": "little coffee",
+    "note": "-li diminutive of Kafi",
+    "pos": "n"
+  },
+  "Lade": {
+    "en": "shop",
+    "g": "m",
+    "pos": "n"
+  },
+  "Larve": {
+    "en": "carnival mask",
+    "note": "Swiss German for mask",
+    "pos": "n"
+  },
+  "Liebi": {
+    "en": "love",
+    "pos": "n"
+  },
+  "Lied": {
+    "en": "song",
+    "pos": "n"
+  },
+  "Linie": {
+    "en": "(bus/tram) line",
+    "pos": "n"
+  },
+  "Lohn": {
+    "en": "wage, salary",
+    "pos": "n"
+  },
+  "Luft": {
+    "en": "air",
+    "pos": "n"
+  },
+  "Läbe": {
+    "en": "life",
+    "pos": "n"
+  },
+  "Lösig": {
+    "en": "solution",
+    "pos": "n"
+  },
+  "Lüt": {
+    "en": "people",
+    "note": "plural, very common",
+    "pos": "n"
+  },
+  "Marke": {
+    "en": "stamp",
+    "pos": "n"
+  },
+  "Medikamänt": {
+    "en": "medicine",
+    "pos": "n"
+  },
+  "Meinig": {
+    "en": "opinion",
+    "pos": "n"
+  },
+  "Melodie": {
+    "en": "melody",
+    "pos": "n"
+  },
+  "Merci": {
+    "en": "thank you",
+    "note": "Borrowed from French; the everyday 'thanks'",
+    "pos": "intj"
+  },
+  "Missverständnis": {
+    "en": "misunderstanding",
+    "pos": "n"
+  },
+  "Mitglied": {
+    "en": "member",
+    "pos": "n"
+  },
+  "Momänt": {
+    "en": "moment",
+    "pos": "n"
+  },
+  "Mueter": {
+    "en": "mother",
+    "pos": "n"
+  },
+  "Mundart": {
+    "en": "dialect, vernacular",
+    "pos": "n"
+  },
+  "Musig": {
+    "en": "music",
+    "pos": "n"
+  },
+  "Märt": {
+    "en": "market",
+    "pos": "n"
+  },
+  "Möbel": {
+    "en": "furniture",
+    "pos": "n"
+  },
+  "Mönet": {
+    "en": "month",
+    "pos": "n"
+  },
+  "Mönsch": {
+    "en": "person, human",
+    "pos": "n"
+  },
+  "Müej": {
+    "en": "effort, trouble",
+    "pos": "n"
+  },
+  "Münz": {
+    "en": "coin, change",
+    "pos": "n"
+  },
+  "Nachber": {
+    "en": "neighbour",
+    "g": "m",
+    "pos": "n"
+  },
+  "Natel": {
+    "en": "mobile phone",
+    "note": "Classic Swiss term",
+    "pos": "n"
+  },
+  "Natur": {
+    "en": "nature",
+    "pos": "n"
+  },
+  "Nature": {
+    "en": "nature",
+    "pos": "n"
+  },
+  "Nebel": {
+    "en": "fog",
+    "pos": "n"
+  },
+  "Nei": {
+    "en": "no",
+    "pos": "adv"
+  },
+  "Nochber": {
+    "en": "neighbour",
+    "pos": "n"
+  },
+  "Note": {
+    "en": "banknote; grade",
+    "pos": "n"
+  },
+  "Nuance": {
+    "en": "nuance",
+    "pos": "n"
+  },
+  "Nummere": {
+    "en": "number",
+    "pos": "n"
+  },
+  "Näche": {
+    "en": "closeness",
+    "pos": "n"
+  },
+  "Nöie": {
+    "en": "the new one, newcomer",
+    "pos": "n"
+  },
+  "Ohr": {
+    "en": "ear",
+    "pos": "n"
+  },
+  "Ornig": {
+    "en": "order, tidiness",
+    "pos": "n"
+  },
+  "Papier": {
+    "en": "paper",
+    "pos": "n"
+  },
+  "Pause": {
+    "en": "break, pause",
+    "pos": "n"
+  },
+  "Plan": {
+    "en": "plan",
+    "pos": "n"
+  },
+  "Poscht": {
+    "en": "post office, mail",
+    "pos": "n"
+  },
+  "Problem": {
+    "en": "problem",
+    "pos": "n"
+  },
+  "Punkt": {
+    "en": "point",
+    "pos": "n"
+  },
+  "Päckli": {
+    "en": "small parcel",
+    "note": "-li diminutive",
+    "pos": "n"
+  },
+  "Quittig": {
+    "en": "receipt",
+    "pos": "n"
+  },
+  "Rappe": {
+    "en": "rappen (cent)",
+    "pos": "n"
+  },
+  "Reckling": {
+    "en": "recycling",
+    "pos": "n"
+  },
+  "Redensart": {
+    "en": "idiom, expression",
+    "pos": "n"
+  },
+  "Regle": {
+    "en": "rule",
+    "pos": "n"
+  },
+  "Restaurant": {
+    "en": "restaurant",
+    "pos": "n"
+  },
+  "Rezäpt": {
+    "en": "prescription; recipe",
+    "pos": "n"
+  },
+  "Rhythmus": {
+    "en": "rhythm",
+    "pos": "n"
+  },
+  "Rucksack": {
+    "en": "backpack",
+    "pos": "n"
+  },
+  "Rueh": {
+    "en": "quiet, rest",
+    "pos": "n"
+  },
+  "Rächnig": {
+    "en": "bill, invoice",
+    "pos": "n"
+  },
+  "Räge": {
+    "en": "rain",
+    "pos": "n"
+  },
+  "Räächnig": {
+    "en": "bill, invoice",
+    "pos": "n"
+  },
+  "Sack": {
+    "en": "bag",
+    "g": "m",
+    "pos": "n"
+  },
+  "Sali": {
+    "en": "hi (informal)",
+    "note": "Casual greeting for friends",
+    "pos": "intj"
+  },
+  "Sandwich": {
+    "en": "sandwich",
+    "pos": "n"
+  },
+  "Satz": {
+    "en": "sentence",
+    "pos": "n"
+  },
+  "Schalter": {
+    "en": "counter, ticket window",
+    "pos": "n"
+  },
+  "Schiff": {
+    "en": "boat/ship",
+    "g": "n",
+    "note": "The lake boats are a Lucerne staple",
+    "pos": "n"
+  },
+  "Schnee": {
+    "en": "snow",
+    "pos": "n"
+  },
+  "Schritt": {
+    "en": "step",
+    "pos": "n"
+  },
+  "Schueh": {
+    "en": "shoe(s)",
+    "pos": "n"
+  },
+  "Schuel": {
+    "en": "school",
+    "pos": "n"
+  },
+  "Schuld": {
+    "en": "fault, blame; debt",
+    "pos": "n"
+  },
+  "Schwätz": {
+    "en": "chat",
+    "pos": "n"
+  },
+  "Schwöschter": {
+    "en": "sister",
+    "pos": "n"
+  },
+  "See": {
+    "en": "lake",
+    "g": "m",
+    "note": "The Vierwaldstättersee (Lake Lucerne)",
+    "pos": "n"
+  },
+  "Sie": {
+    "en": "you (formal)",
+    "pos": "pron"
+  },
+  "Sinn": {
+    "en": "sense, meaning",
+    "pos": "n"
+  },
+  "Situation": {
+    "en": "situation",
+    "pos": "n"
+  },
+  "Sommer": {
+    "en": "summer",
+    "pos": "n"
+  },
+  "Sorge": {
+    "en": "worry, care",
+    "pos": "n"
+  },
+  "Spiischaarte": {
+    "en": "menu",
+    "pos": "n"
+  },
+  "Sport": {
+    "en": "sport",
+    "pos": "n"
+  },
+  "Sprichwort": {
+    "en": "proverb",
+    "pos": "n"
+  },
+  "Sprooch": {
+    "en": "language",
+    "pos": "n"
+  },
+  "Stadt": {
+    "en": "city, town",
+    "pos": "n"
+  },
+  "Stand": {
+    "en": "stall, stand",
+    "pos": "n"
+  },
+  "Standpunkt": {
+    "en": "standpoint, position",
+    "pos": "n"
+  },
+  "Stell": {
+    "en": "job, position",
+    "pos": "n"
+  },
+  "Stimm": {
+    "en": "voice",
+    "pos": "n"
+  },
+  "Stolz": {
+    "en": "pride",
+    "pos": "n"
+  },
+  "Stress": {
+    "en": "stress",
+    "pos": "n"
+  },
+  "Striit": {
+    "en": "argument, quarrel",
+    "pos": "n"
+  },
+  "Stutz": {
+    "en": "francs (slang)",
+    "note": "Casual word for Swiss francs (CHF)",
+    "pos": "n"
+  },
+  "Stärchi": {
+    "en": "strength",
+    "pos": "n"
+  },
+  "Stündli": {
+    "en": "little hour",
+    "note": "-li diminutive",
+    "pos": "n"
+  },
+  "Sunne": {
+    "en": "sun",
+    "pos": "n"
+  },
+  "Sunntig": {
+    "en": "Sunday",
+    "note": "A quiet day in Switzerland by custom",
+    "pos": "n"
+  },
+  "Suppe": {
+    "en": "soup",
+    "pos": "n"
+  },
+  "Sächeli": {
+    "en": "little thing",
+    "note": "-li diminutive of Sach",
+    "pos": "n"
+  },
+  "Termin": {
+    "en": "appointment",
+    "pos": "n"
+  },
+  "Tisch": {
+    "en": "table",
+    "pos": "n"
+  },
+  "Ton": {
+    "en": "tone",
+    "pos": "n"
+  },
+  "Tram": {
+    "en": "tram",
+    "pos": "n"
+  },
+  "Trinke": {
+    "en": "drink, drinking",
+    "pos": "n"
+  },
+  "Trinkgäld": {
+    "en": "tip, gratuity",
+    "pos": "n"
+  },
+  "Trommle": {
+    "en": "drums",
+    "pos": "n"
+  },
+  "Träf": {
+    "en": "meeting, get-together",
+    "pos": "n"
+  },
+  "Tschüss": {
+    "en": "bye",
+    "pos": "intj"
+  },
+  "Uhr": {
+    "en": "clock, hour",
+    "pos": "n"
+  },
+  "Umzug": {
+    "en": "parade; move (house)",
+    "pos": "n"
+  },
+  "Underschiid": {
+    "en": "difference",
+    "pos": "n"
+  },
+  "Unterschied": {
+    "en": "difference",
+    "pos": "n"
+  },
+  "Ussicht": {
+    "en": "view, prospect",
+    "pos": "n"
+  },
+  "Uswiis": {
+    "en": "ID card",
+    "pos": "n"
+  },
+  "Uussicht": {
+    "en": "view, outlook",
+    "pos": "n"
+  },
+  "Vatter": {
+    "en": "father",
+    "pos": "n"
+  },
+  "Velo": {
+    "en": "bicycle",
+    "note": "Standard Swiss word",
+    "pos": "n"
+  },
+  "Verein": {
+    "en": "club, society",
+    "note": "Central to Swiss social life",
+    "pos": "n"
+  },
+  "Vertroue": {
+    "en": "trust",
+    "pos": "n"
+  },
+  "Viertel": {
+    "en": "quarter",
+    "pos": "n"
+  },
+  "Vorstellungsgschpröch": {
+    "en": "job interview",
+    "pos": "n"
+  },
+  "Wahrheit": {
+    "en": "truth",
+    "pos": "n"
+  },
+  "Wasser": {
+    "en": "water",
+    "g": "n",
+    "pos": "n"
+  },
+  "Wii": {
+    "en": "wine",
+    "pos": "n"
+  },
+  "Wiisheit": {
+    "en": "wisdom",
+    "pos": "n"
+  },
+  "Wind": {
+    "en": "wind",
+    "pos": "n"
+  },
+  "Witz": {
+    "en": "joke",
+    "pos": "n"
+  },
+  "Wohnig": {
+    "en": "flat, apartment",
+    "pos": "n"
+  },
+  "Wort": {
+    "en": "word",
+    "pos": "n"
+  },
+  "Wortschatz": {
+    "en": "vocabulary",
+    "pos": "n"
+  },
+  "Wuche": {
+    "en": "week",
+    "pos": "n"
+  },
+  "Wucheänd": {
+    "en": "weekend",
+    "pos": "n"
+  },
+  "Wurzle": {
+    "en": "root(s)",
+    "pos": "n"
+  },
+  "Wäg": {
+    "en": "way, path",
+    "pos": "n"
+  },
+  "Wält": {
+    "en": "world",
+    "pos": "n"
+  },
+  "Wätter": {
+    "en": "weather",
+    "pos": "n"
+  },
+  "Zahl": {
+    "en": "number",
+    "pos": "n"
+  },
+  "Zeiche": {
+    "en": "sign",
+    "pos": "n"
+  },
+  "Ziit": {
+    "en": "time",
+    "pos": "n"
+  },
+  "Zile": {
+    "en": "line(s) (of text)",
+    "pos": "n"
+  },
+  "Zimmer": {
+    "en": "room",
+    "pos": "n"
+  },
+  "Zmittag": {
+    "en": "lunch",
+    "pos": "n"
+  },
+  "Znüni": {
+    "en": "mid-morning snack",
+    "note": "Swiss snack ritual ~9am",
+    "pos": "n"
+  },
+  "Zuekunft": {
+    "en": "future",
+    "pos": "n"
+  },
+  "Zug": {
+    "en": "train",
+    "g": "m",
+    "pos": "n"
+  },
+  "Zvieri": {
+    "en": "afternoon snack",
+    "note": "Swiss snack ~4pm",
+    "pos": "n"
+  },
+  "aacho": {
+    "en": "to arrive",
+    "pos": "v"
+  },
+  "aafange": {
+    "en": "to begin",
+    "pos": "v"
+  },
+  "aahänke": {
+    "en": "to attach, add on",
+    "pos": "v"
+  },
+  "aalache": {
+    "en": "to smile at",
+    "pos": "v"
+  },
+  "aalüte": {
+    "en": "to phone, call",
+    "pos": "v"
+  },
+  "aamälde": {
+    "en": "to register, sign up",
+    "pos": "v"
+  },
+  "aapasse": {
+    "en": "to adapt, adjust",
+    "pos": "v"
+  },
+  "aastelle": {
+    "en": "to queue; to hire",
+    "pos": "v"
+  },
+  "aastosse": {
+    "en": "to clink glasses, toast",
+    "pos": "v"
+  },
+  "ab": {
+    "en": "from, off",
+    "pos": "prep"
+  },
+  "abchüele": {
+    "en": "to cool down",
+    "pos": "v"
+  },
+  "abegah": {
+    "en": "to go down",
+    "pos": "v"
+  },
+  "abmache": {
+    "en": "to arrange, agree",
+    "pos": "v"
+  },
+  "absäge": {
+    "en": "to cancel",
+    "pos": "v"
+  },
+  "ahäb": {
+    "en": "stubborn, set in one's ways",
+    "pos": "adj"
+  },
+  "ahärzig": {
+    "en": "warm-hearted",
+    "pos": "adj"
+  },
+  "akzeptiere": {
+    "en": "to accept",
+    "pos": "v"
+  },
+  "alt": {
+    "en": "old",
+    "pos": "adj"
+  },
+  "anders": {
+    "en": "different, differently",
+    "pos": "adj"
+  },
+  "badi": {
+    "en": "lido, lakeside bathing area",
+    "pos": "n"
+  },
+  "baue": {
+    "en": "to build",
+    "pos": "v"
+  },
+  "beharre": {
+    "en": "to insist",
+    "pos": "v"
+  },
+  "beidi": {
+    "en": "both",
+    "pos": "pron"
+  },
+  "betone": {
+    "en": "to stress, emphasise",
+    "pos": "v"
+  },
+  "biite": {
+    "en": "to offer",
+    "pos": "v"
+  },
+  "bildlich": {
+    "en": "figurative",
+    "pos": "adj"
+  },
+  "billig": {
+    "en": "cheap",
+    "pos": "adj"
+  },
+  "binand": {
+    "en": "together",
+    "pos": "adv"
+  },
+  "bitte": {
+    "en": "please; you're welcome",
+    "pos": "intj"
+  },
+  "bitzli": {
+    "en": "a little bit",
+    "pos": "adv"
+  },
+  "blau": {
+    "en": "blue",
+    "pos": "adj"
+  },
+  "blibe": {
+    "en": "to stay, remain",
+    "pos": "v"
+  },
+  "bringe": {
+    "en": "to bring",
+    "pos": "v"
+  },
+  "brucht": {
+    "en": "needs (3sg of bruuche)",
+    "pos": "v"
+  },
+  "bschäftigt": {
+    "en": "occupied, busy",
+    "pos": "adj"
+  },
+  "bsser": {
+    "en": "better",
+    "pos": "adj"
+  },
+  "bstelle": {
+    "en": "to order",
+    "pos": "v"
+  },
+  "chalt": {
+    "en": "cold",
+    "pos": "adj"
+  },
+  "chan nöd": {
+    "en": "cannot",
+    "pos": "phr"
+  },
+  "choche": {
+    "en": "to cook",
+    "pos": "v"
+  },
+  "choschtet": {
+    "en": "costs (3sg)",
+    "pos": "v"
+  },
+  "chostet": {
+    "en": "costs",
+    "note": "'Wieviel chostet das?' = how much is that?",
+    "pos": "v"
+  },
+  "choufe": {
+    "en": "to buy",
+    "note": "Standard German 'kaufen'",
+    "pos": "v"
+  },
+  "chrank": {
+    "en": "sick, ill",
+    "pos": "adj"
+  },
+  "chume": {
+    "en": "come (I)",
+    "note": "'Ich chume us...' = I come from...",
+    "pos": "v"
+  },
+  "chunsch": {
+    "en": "come (you)",
+    "note": "'Wohär chunsch?' = where are you from?",
+    "pos": "v"
+  },
+  "chönnt": {
+    "en": "could (3sg)",
+    "pos": "v"
+  },
+  "da": {
+    "en": "here/there",
+    "pos": "adv"
+  },
+  "danke": {
+    "en": "thanks",
+    "pos": "intj"
+  },
+  "das": {
+    "en": "that/this",
+    "pos": "pron"
+  },
+  "dehei": {
+    "en": "at home",
+    "pos": "adv"
+  },
+  "deheicho": {
+    "en": "to come home",
+    "pos": "v"
+  },
+  "denke": {
+    "en": "to think",
+    "pos": "v"
+  },
+  "denn": {
+    "en": "then",
+    "pos": "adv"
+  },
+  "dezue": {
+    "en": "in addition, to it",
+    "pos": "adv"
+  },
+  "dezuäghöre": {
+    "en": "to belong to",
+    "pos": "v"
+  },
+  "direkt": {
+    "en": "direct, blunt",
+    "pos": "adj"
+  },
+  "diskutiere": {
+    "en": "to discuss",
+    "pos": "v"
+  },
+  "domals": {
+    "en": "back then",
+    "pos": "adv"
+  },
+  "drausse": {
+    "en": "outside",
+    "pos": "adv"
+  },
+  "drinn": {
+    "en": "inside",
+    "pos": "adv"
+  },
+  "du": {
+    "en": "you (informal)",
+    "pos": "pron"
+  },
+  "dänke": {
+    "en": "to think",
+    "pos": "v"
+  },
+  "döt": {
+    "en": "there",
+    "pos": "adv"
+  },
+  "eba": {
+    "en": "exactly, just so",
+    "note": "Key discourse particle",
+    "pos": "adv"
+  },
+  "ehrlich": {
+    "en": "honest",
+    "pos": "adj"
+  },
+  "eifach": {
+    "en": "easy; simple",
+    "pos": "adj"
+  },
+  "eige": {
+    "en": "own",
+    "pos": "adj"
+  },
+  "entscheide": {
+    "en": "to decide",
+    "pos": "v"
+  },
+  "entschuldige": {
+    "en": "to apologise",
+    "pos": "v"
+  },
+  "entspanne": {
+    "en": "to relax",
+    "pos": "v"
+  },
+  "erkläre": {
+    "en": "to explain",
+    "pos": "v"
+  },
+  "erzähle": {
+    "en": "to tell, narrate",
+    "pos": "v"
+  },
+  "es": {
+    "en": "a/it",
+    "note": "Indefinite article (neuter) and 'it'",
+    "pos": "art"
+  },
+  "fahre": {
+    "en": "to go/travel/drive",
+    "pos": "v"
+  },
+  "fair": {
+    "en": "fair",
+    "pos": "adj"
+  },
+  "fein": {
+    "en": "fine, tasty",
+    "pos": "adj"
+  },
+  "fescht": {
+    "en": "firm; firmly, a lot",
+    "pos": "adj"
+  },
+  "feschte": {
+    "en": "to party, celebrate",
+    "pos": "v"
+  },
+  "fiin": {
+    "en": "fine, subtle",
+    "pos": "adj"
+  },
+  "finde": {
+    "en": "to find",
+    "pos": "v"
+  },
+  "formuliere": {
+    "en": "to formulate, phrase",
+    "pos": "v"
+  },
+  "freue": {
+    "en": "to be glad, look forward",
+    "pos": "v"
+  },
+  "frisch": {
+    "en": "fresh",
+    "pos": "adj"
+  },
+  "fröge": {
+    "en": "to ask",
+    "pos": "v"
+  },
+  "fröit": {
+    "en": "pleases",
+    "note": "'Fröit mi' = pleased to meet you",
+    "pos": "v"
+  },
+  "früener": {
+    "en": "earlier, in the past",
+    "pos": "adv"
+  },
+  "fründlich": {
+    "en": "friendly",
+    "pos": "adj"
+  },
+  "fühle": {
+    "en": "to feel",
+    "pos": "v"
+  },
+  "gange": {
+    "en": "gone (pp of go)",
+    "pos": "v"
+  },
+  "ganz": {
+    "en": "whole, quite",
+    "pos": "adj"
+  },
+  "geschter": {
+    "en": "yesterday",
+    "pos": "adv"
+  },
+  "gfalle": {
+    "en": "to please",
+    "pos": "v"
+  },
+  "gfreut": {
+    "en": "pleased (pp)",
+    "pos": "v"
+  },
+  "ghaa": {
+    "en": "had (pp)",
+    "pos": "v"
+  },
+  "ghöre": {
+    "en": "to hear; to belong",
+    "pos": "v"
+  },
+  "glaube": {
+    "en": "to believe",
+    "pos": "v"
+  },
+  "glücklich": {
+    "en": "happy",
+    "pos": "adj"
+  },
+  "gmacht": {
+    "en": "made, done (pp)",
+    "pos": "v"
+  },
+  "gmüetlich": {
+    "en": "cosy, easygoing",
+    "pos": "adj"
+  },
+  "gnau": {
+    "en": "exact, precise",
+    "pos": "adj"
+  },
+  "gnüsse": {
+    "en": "to enjoy",
+    "pos": "v"
+  },
+  "grad": {
+    "en": "just, right now",
+    "pos": "adv"
+  },
+  "gradus": {
+    "en": "straight ahead",
+    "note": "Standard German 'geradeaus'",
+    "pos": "adv"
+  },
+  "grüezi": {
+    "en": "hello (formal)",
+    "pos": "intj"
+  },
+  "gschafft": {
+    "en": "managed; worked (pp)",
+    "pos": "v"
+  },
+  "gschpäble": {
+    "en": "to be thrifty, scrimp",
+    "pos": "v"
+  },
+  "gschpüre": {
+    "en": "to sense, feel",
+    "pos": "v"
+  },
+  "gschwind": {
+    "en": "quickly",
+    "pos": "adv"
+  },
+  "gseh": {
+    "en": "to see",
+    "note": "Swiss for Standard German 'sehen'",
+    "pos": "v"
+  },
+  "gsellig": {
+    "en": "sociable",
+    "pos": "adj"
+  },
+  "gsi": {
+    "en": "been (pp)",
+    "pos": "v"
+  },
+  "gspilt": {
+    "en": "played (pp)",
+    "pos": "v"
+  },
+  "guet": {
+    "en": "good",
+    "pos": "adj"
+  },
+  "gwöhne": {
+    "en": "to get used to",
+    "pos": "v"
+  },
+  "gwöhnt": {
+    "en": "accustomed (pp)",
+    "pos": "v"
+  },
+  "gäbig": {
+    "en": "handy, pleasant",
+    "pos": "adj"
+  },
+  "gäll": {
+    "en": "right?, isn't it?",
+    "note": "Seeks agreement; very common",
+    "pos": "intj"
+  },
+  "gärn": {
+    "en": "gladly",
+    "note": "'Ich hätt gärn...' = I'd like... (polite ordering)",
+    "pos": "adv"
+  },
+  "ha": {
+    "en": "have (1sg)",
+    "pos": "v"
+  },
+  "halbi": {
+    "en": "half (past)",
+    "note": "e.g. halbi achti = 7:30",
+    "pos": "adj"
+  },
+  "halt": {
+    "en": "just, simply",
+    "note": "Resigned discourse particle",
+    "pos": "adv"
+  },
+  "halte": {
+    "en": "to hold; to stop",
+    "pos": "v"
+  },
+  "han": {
+    "en": "have",
+    "note": "Also 'ha'; 'ich han/ha' = I have",
+    "pos": "v"
+  },
+  "hasse": {
+    "en": "to hate",
+    "pos": "v"
+  },
+  "heissisch": {
+    "en": "are called (you)",
+    "note": "'Wie heissisch?' = what's your name?",
+    "pos": "v"
+  },
+  "hoffe": {
+    "en": "to hope",
+    "pos": "v"
+  },
+  "hälfe": {
+    "en": "to help",
+    "pos": "v"
+  },
+  "härzig": {
+    "en": "cute, endearing",
+    "pos": "adj"
+  },
+  "höflich": {
+    "en": "polite",
+    "pos": "adj"
+  },
+  "ich": {
+    "en": "I",
+    "note": "Often shortened to 'i' before consonants",
+    "pos": "pron"
+  },
+  "iiglade": {
+    "en": "invited (pp)",
+    "pos": "v"
+  },
+  "iiheimisch": {
+    "en": "native, local",
+    "pos": "adj"
+  },
+  "iiläde": {
+    "en": "to invite",
+    "pos": "v"
+  },
+  "iistiige": {
+    "en": "to get on, board",
+    "pos": "v"
+  },
+  "iizoge": {
+    "en": "moved in (pp)",
+    "pos": "v"
+  },
+  "improvisiere": {
+    "en": "to improvise",
+    "pos": "v"
+  },
+  "in Ornig": {
+    "en": "alright, in order",
+    "pos": "phr"
+  },
+  "ineladä": {
+    "en": "to invite",
+    "pos": "v"
+  },
+  "interessiere": {
+    "en": "to interest",
+    "pos": "v"
+  },
+  "irgendwie": {
+    "en": "somehow",
+    "pos": "adv"
+  },
+  "isch": {
+    "en": "is",
+    "note": "Standard German 'ist'",
+    "pos": "v"
+  },
+  "ja": {
+    "en": "yes",
+    "pos": "intj"
+  },
+  "jasse": {
+    "en": "to play Jass (cards)",
+    "note": "The Swiss national card game",
+    "pos": "v"
+  },
+  "jetz": {
+    "en": "now",
+    "pos": "adv"
+  },
+  "kalt": {
+    "en": "cold",
+    "pos": "adj"
+  },
+  "kapütt": {
+    "en": "broken",
+    "pos": "adj"
+  },
+  "kenne": {
+    "en": "to know (a person)",
+    "note": "'Schön di z'kenne' = nice to meet you",
+    "pos": "v"
+  },
+  "kenneglärnt": {
+    "en": "got to know (pp)",
+    "pos": "v"
+  },
+  "kenneläre": {
+    "en": "to get to know",
+    "pos": "v"
+  },
+  "klar": {
+    "en": "clear; of course",
+    "pos": "adj"
+  },
+  "klärä": {
+    "en": "to clarify",
+    "pos": "v"
+  },
+  "koche": {
+    "en": "to cook",
+    "pos": "v"
+  },
+  "konzentriere": {
+    "en": "to concentrate",
+    "pos": "v"
+  },
+  "kosch": {
+    "en": "costs (2sg)",
+    "pos": "v"
+  },
+  "kurz": {
+    "en": "short",
+    "pos": "adj"
+  },
+  "lache": {
+    "en": "to laugh",
+    "pos": "v"
+  },
+  "langsam": {
+    "en": "slow",
+    "pos": "adj"
+  },
+  "langsamer": {
+    "en": "slower",
+    "pos": "adj"
+  },
+  "laut": {
+    "en": "loud",
+    "pos": "adj"
+  },
+  "leider": {
+    "en": "unfortunately",
+    "pos": "adv"
+  },
+  "letschti": {
+    "en": "last, recently",
+    "pos": "adj"
+  },
+  "liebe": {
+    "en": "to love",
+    "pos": "v"
+  },
+  "lieber": {
+    "en": "rather, preferably",
+    "pos": "adv"
+  },
+  "linggs": {
+    "en": "left",
+    "note": "Standard German 'links'",
+    "pos": "adv"
+  },
+  "locker": {
+    "en": "relaxed, casual",
+    "pos": "adj"
+  },
+  "lokal": {
+    "en": "local",
+    "pos": "adj"
+  },
+  "luege": {
+    "en": "to look",
+    "note": "Swiss for Standard German 'schauen'",
+    "pos": "v"
+  },
+  "lustig": {
+    "en": "funny",
+    "pos": "adj"
+  },
+  "läbendig": {
+    "en": "lively, alive",
+    "pos": "adj"
+  },
+  "lächle": {
+    "en": "to smile",
+    "pos": "v"
+  },
+  "läse": {
+    "en": "to read",
+    "pos": "v"
+  },
+  "löse": {
+    "en": "to solve",
+    "pos": "v"
+  },
+  "merke": {
+    "en": "to notice",
+    "pos": "v"
+  },
+  "mithäbe": {
+    "en": "to keep up",
+    "pos": "v"
+  },
+  "mitmache": {
+    "en": "to join in",
+    "pos": "v"
+  },
+  "morn": {
+    "en": "tomorrow",
+    "pos": "adv"
+  },
+  "mängisch": {
+    "en": "sometimes",
+    "pos": "adv"
+  },
+  "möge": {
+    "en": "to like",
+    "pos": "v"
+  },
+  "müed": {
+    "en": "tired",
+    "pos": "adj"
+  },
+  "naagäh": {
+    "en": "to give in, yield",
+    "pos": "v"
+  },
+  "nadänke": {
+    "en": "to reflect, ponder",
+    "pos": "v"
+  },
+  "nahfröge": {
+    "en": "to ask, enquire",
+    "pos": "v"
+  },
+  "nahmache": {
+    "en": "to imitate",
+    "pos": "v"
+  },
+  "nei": {
+    "en": "no",
+    "pos": "intj"
+  },
+  "nei säge": {
+    "en": "to say no",
+    "pos": "phr"
+  },
+  "nervös": {
+    "en": "nervous",
+    "pos": "adj"
+  },
+  "neugierig": {
+    "en": "curious",
+    "pos": "adj"
+  },
+  "neun": {
+    "en": "nine",
+    "pos": "num"
+  },
+  "nimm": {
+    "en": "take (imp.)",
+    "pos": "v"
+  },
+  "no": {
+    "en": "still/yet/another",
+    "note": "'Susch no öppis?' = anything else?",
+    "pos": "adv"
+  },
+  "no einisch": {
+    "en": "once more",
+    "pos": "phr"
+  },
+  "nochhär": {
+    "en": "afterwards",
+    "pos": "adv"
+  },
+  "nuschle": {
+    "en": "to mumble",
+    "pos": "v"
+  },
+  "näbe": {
+    "en": "next to",
+    "pos": "prep"
+  },
+  "näbed": {
+    "en": "next to",
+    "pos": "prep"
+  },
+  "näch": {
+    "en": "near",
+    "pos": "adj"
+  },
+  "näh": {
+    "en": "to take",
+    "note": "'Ich nimm...' = I'll take...",
+    "pos": "v"
+  },
+  "nöchscht": {
+    "en": "next",
+    "pos": "adj"
+  },
+  "nöi": {
+    "en": "new",
+    "pos": "adj"
+  },
+  "obe": {
+    "en": "up, above",
+    "pos": "adv"
+  },
+  "obwohl": {
+    "en": "although",
+    "pos": "conj"
+  },
+  "oder": {
+    "en": "or; right?",
+    "pos": "conj"
+  },
+  "passend": {
+    "en": "fitting, suitable",
+    "pos": "adj"
+  },
+  "pflege": {
+    "en": "to cherish, maintain",
+    "pos": "v"
+  },
+  "philosophiere": {
+    "en": "to philosophise",
+    "pos": "v"
+  },
+  "poschte": {
+    "en": "to shop, run errands",
+    "pos": "v"
+  },
+  "probiere": {
+    "en": "to try",
+    "pos": "v"
+  },
+  "präzis": {
+    "en": "precise",
+    "pos": "adj"
+  },
+  "pünktlich": {
+    "en": "punctual",
+    "pos": "adj"
+  },
+  "redde": {
+    "en": "to talk, speak",
+    "pos": "v"
+  },
+  "rede": {
+    "en": "to talk, speak",
+    "pos": "v"
+  },
+  "regelmässig": {
+    "en": "regular",
+    "pos": "adj"
+  },
+  "regional": {
+    "en": "regional",
+    "pos": "adj"
+  },
+  "reklamiere": {
+    "en": "to complain, lodge a claim",
+    "pos": "v"
+  },
+  "respektiere": {
+    "en": "to respect",
+    "pos": "v"
+  },
+  "respektvoll": {
+    "en": "respectful",
+    "pos": "adj"
+  },
+  "riich": {
+    "en": "rich",
+    "pos": "adj"
+  },
+  "ruehe": {
+    "en": "to rest",
+    "pos": "v"
+  },
+  "ruhig": {
+    "en": "calm, quiet",
+    "pos": "adj"
+  },
+  "rächne": {
+    "en": "to calculate, reckon",
+    "pos": "v"
+  },
+  "rächt": {
+    "en": "right; quite",
+    "pos": "adj"
+  },
+  "rächts": {
+    "en": "right",
+    "note": "Standard German 'rechts'",
+    "pos": "adv"
+  },
+  "sage": {
+    "en": "to say",
+    "pos": "v"
+  },
+  "schicke": {
+    "en": "to send",
+    "pos": "v"
+  },
+  "schmunzle": {
+    "en": "to grin, smirk",
+    "pos": "v"
+  },
+  "schnuufe": {
+    "en": "to breathe",
+    "pos": "v"
+  },
+  "schnäll": {
+    "en": "fast, quick",
+    "pos": "adj"
+  },
+  "scho": {
+    "en": "already; admittedly",
+    "pos": "adv"
+  },
+  "schwär": {
+    "en": "heavy; difficult",
+    "pos": "adj"
+  },
+  "schwätze": {
+    "en": "to chat",
+    "pos": "v"
+  },
+  "schwümme": {
+    "en": "to swim",
+    "pos": "v"
+  },
+  "schöö": {
+    "en": "beautiful/nice",
+    "note": "Standard German 'schön'",
+    "pos": "adj"
+  },
+  "schööni": {
+    "en": "beautiful (pl/infl)",
+    "pos": "adj"
+  },
+  "selbverständlich": {
+    "en": "self-evident, of course",
+    "pos": "adj"
+  },
+  "sicher": {
+    "en": "sure, safe",
+    "pos": "adj"
+  },
+  "singe": {
+    "en": "to sing",
+    "pos": "v"
+  },
+  "spaat": {
+    "en": "late",
+    "pos": "adj"
+  },
+  "spare": {
+    "en": "to save (money)",
+    "pos": "v"
+  },
+  "spaziere": {
+    "en": "to stroll",
+    "pos": "v"
+  },
+  "springe": {
+    "en": "to jump",
+    "pos": "v"
+  },
+  "spöter": {
+    "en": "later",
+    "pos": "adv"
+  },
+  "still": {
+    "en": "quiet, still",
+    "pos": "adj"
+  },
+  "stolz": {
+    "en": "proud",
+    "pos": "adj"
+  },
+  "subtil": {
+    "en": "subtle",
+    "pos": "adj"
+  },
+  "sueche": {
+    "en": "to look for",
+    "pos": "v"
+  },
+  "sus": {
+    "en": "otherwise, else",
+    "pos": "adv"
+  },
+  "sympathisch": {
+    "en": "likeable",
+    "pos": "adj"
+  },
+  "säge": {
+    "en": "to say",
+    "pos": "v"
+  },
+  "sälbverständlich": {
+    "en": "self-evident, of course",
+    "pos": "adj"
+  },
+  "sünnele": {
+    "en": "to sunbathe",
+    "pos": "v"
+  },
+  "teile": {
+    "en": "to share",
+    "pos": "v"
+  },
+  "teuer": {
+    "en": "expensive",
+    "pos": "adj"
+  },
+  "treffe": {
+    "en": "to meet",
+    "pos": "v"
+  },
+  "trenne": {
+    "en": "to separate",
+    "pos": "v"
+  },
+  "trochä": {
+    "en": "dry",
+    "pos": "adj"
+  },
+  "troffe": {
+    "en": "met (pp)",
+    "pos": "v"
+  },
+  "trotzdäm": {
+    "en": "nevertheless",
+    "pos": "adv"
+  },
+  "truue": {
+    "en": "to dare; to trust",
+    "pos": "v"
+  },
+  "träffe": {
+    "en": "to meet",
+    "pos": "v"
+  },
+  "träume": {
+    "en": "to dream",
+    "pos": "v"
+  },
+  "tröle": {
+    "en": "to dawdle, drag on",
+    "pos": "v"
+  },
+  "trööschte": {
+    "en": "to comfort",
+    "pos": "v"
+  },
+  "tschau": {
+    "en": "bye, ciao",
+    "pos": "intj"
+  },
+  "tönt": {
+    "en": "sounds (3sg)",
+    "pos": "v"
+  },
+  "tüüf": {
+    "en": "deep",
+    "pos": "adj"
+  },
+  "tüüfsinnig": {
+    "en": "profound",
+    "pos": "adj"
+  },
+  "tüür": {
+    "en": "expensive",
+    "pos": "adj"
+  },
+  "ufegah": {
+    "en": "to go up, rise",
+    "pos": "v"
+  },
+  "ufgwachse": {
+    "en": "grown up (pp)",
+    "pos": "v"
+  },
+  "ufpasse": {
+    "en": "to pay attention, watch out",
+    "pos": "v"
+  },
+  "ufruume": {
+    "en": "to tidy up",
+    "pos": "v"
+  },
+  "ufülle": {
+    "en": "to fill in/up",
+    "pos": "v"
+  },
+  "umgangssprachlich": {
+    "en": "colloquial",
+    "pos": "adj"
+  },
+  "umschalte": {
+    "en": "to switch (over)",
+    "pos": "v"
+  },
+  "umstiige": {
+    "en": "to change (transport)",
+    "pos": "v"
+  },
+  "umtusche": {
+    "en": "to exchange",
+    "pos": "v"
+  },
+  "und": {
+    "en": "and",
+    "pos": "conj"
+  },
+  "us": {
+    "en": "from/out of",
+    "pos": "prep"
+  },
+  "uufgää": {
+    "en": "to post, hand in; give up",
+    "pos": "v"
+  },
+  "uufstah": {
+    "en": "to get up",
+    "pos": "v"
+  },
+  "uusdrucke": {
+    "en": "to express",
+    "pos": "v"
+  },
+  "uusliehe": {
+    "en": "to borrow, lend",
+    "pos": "v"
+  },
+  "uussteige": {
+    "en": "to get off, alight",
+    "pos": "v"
+  },
+  "verbinde": {
+    "en": "to connect",
+    "pos": "v"
+  },
+  "verchleide": {
+    "en": "to dress up, disguise",
+    "pos": "v"
+  },
+  "verchliinere": {
+    "en": "to make smaller",
+    "pos": "v"
+  },
+  "verfüegbar": {
+    "en": "available",
+    "pos": "adj"
+  },
+  "verglyche": {
+    "en": "to compare",
+    "pos": "v"
+  },
+  "vergässe": {
+    "en": "to forget",
+    "pos": "v"
+  },
+  "verletzlich": {
+    "en": "vulnerable",
+    "pos": "adj"
+  },
+  "verliebt": {
+    "en": "in love",
+    "pos": "adj"
+  },
+  "verloffe": {
+    "en": "lost one's way (pp)",
+    "pos": "v"
+  },
+  "verlore": {
+    "en": "lost (pp)",
+    "pos": "v"
+  },
+  "vermisse": {
+    "en": "to miss",
+    "pos": "v"
+  },
+  "verruckt": {
+    "en": "crazy",
+    "pos": "adj"
+  },
+  "verschlucke": {
+    "en": "to swallow (words)",
+    "pos": "v"
+  },
+  "verschwunde": {
+    "en": "vanished (pp)",
+    "pos": "v"
+  },
+  "verspreche": {
+    "en": "to promise",
+    "pos": "v"
+  },
+  "verstah": {
+    "en": "to understand",
+    "pos": "v"
+  },
+  "verstärke": {
+    "en": "to reinforce, intensify",
+    "pos": "v"
+  },
+  "verteidige": {
+    "en": "to defend",
+    "pos": "v"
+  },
+  "vertraue": {
+    "en": "to trust",
+    "pos": "v"
+  },
+  "verwächsle": {
+    "en": "to mix up, confuse",
+    "pos": "v"
+  },
+  "verwände": {
+    "en": "to use",
+    "pos": "v"
+  },
+  "verzeih": {
+    "en": "forgive (imp.)",
+    "pos": "v"
+  },
+  "verzie": {
+    "en": "to forgive",
+    "pos": "v"
+  },
+  "verändere": {
+    "en": "to change",
+    "pos": "v"
+  },
+  "veränderet": {
+    "en": "changed (pp)",
+    "pos": "v"
+  },
+  "vilicht": {
+    "en": "maybe",
+    "pos": "adv"
+  },
+  "vor": {
+    "en": "before, in front of",
+    "pos": "prep"
+  },
+  "vorstelle": {
+    "en": "to introduce; imagine",
+    "pos": "v"
+  },
+  "wachse": {
+    "en": "to grow",
+    "pos": "v"
+  },
+  "wandere": {
+    "en": "to hike",
+    "pos": "v"
+  },
+  "warm": {
+    "en": "warm",
+    "pos": "adj"
+  },
+  "warte": {
+    "en": "to wait",
+    "pos": "v"
+  },
+  "weh": {
+    "en": "sore, painful (weh tue = to hurt)",
+    "pos": "adj"
+  },
+  "werded": {
+    "en": "become/will (pl)",
+    "pos": "v"
+  },
+  "wichtig": {
+    "en": "important",
+    "pos": "adj"
+  },
+  "wie": {
+    "en": "how/what",
+    "note": "'Wie heissisch?' = what's your name?",
+    "pos": "adv"
+  },
+  "wieviel": {
+    "en": "how much",
+    "pos": "adv"
+  },
+  "wiit": {
+    "en": "far, wide",
+    "pos": "adj"
+  },
+  "wiiter": {
+    "en": "further, onward",
+    "pos": "adv"
+  },
+  "willkomme": {
+    "en": "welcome",
+    "pos": "intj"
+  },
+  "witer": {
+    "en": "further, onward",
+    "pos": "adv"
+  },
+  "witergä": {
+    "en": "to pass on",
+    "pos": "v"
+  },
+  "wo": {
+    "en": "where",
+    "pos": "adv"
+  },
+  "wohne": {
+    "en": "live/reside (I)",
+    "pos": "v"
+  },
+  "wohnsch": {
+    "en": "live/reside (you)",
+    "pos": "v"
+  },
+  "wohnt": {
+    "en": "lives (3sg)",
+    "pos": "v"
+  },
+  "wohär": {
+    "en": "from where",
+    "pos": "adv"
+  },
+  "wott": {
+    "en": "want (I/he/she)",
+    "note": "'Ich wott...' = I want...",
+    "pos": "v"
+  },
+  "wächsle": {
+    "en": "to change, swap",
+    "pos": "v"
+  },
+  "wäg": {
+    "en": "because of; away",
+    "pos": "prep"
+  },
+  "wäge": {
+    "en": "because of",
+    "pos": "prep"
+  },
+  "wält": {
+    "en": "world",
+    "g": "f",
+    "note": "Standard German 'Welt'",
+    "pos": "n"
+  },
+  "wänd": {
+    "en": "want (you/they, formal)",
+    "note": "'Was wänd Sie?' = what would you like?",
+    "pos": "v"
+  },
+  "wütend": {
+    "en": "furious",
+    "pos": "adj"
+  },
+  "zahle": {
+    "en": "to pay",
+    "pos": "v"
+  },
+  "zale": {
+    "en": "to pay",
+    "pos": "v"
+  },
+  "zeige": {
+    "en": "to show",
+    "pos": "v"
+  },
+  "ziehe": {
+    "en": "to move; to pull",
+    "pos": "v"
+  },
+  "zrugg": {
+    "en": "back",
+    "pos": "adv"
+  },
+  "zrugg gäh": {
+    "en": "to give back",
+    "pos": "phr"
+  },
+  "zruggluege": {
+    "en": "to look back",
+    "pos": "v"
+  },
+  "zuelose": {
+    "en": "to listen",
+    "pos": "v"
+  },
+  "zueläse": {
+    "en": "to listen (attentively)",
+    "pos": "v"
+  },
+  "zwüsche": {
+    "en": "between",
+    "pos": "prep"
+  },
+  "zwüschet": {
+    "en": "between",
+    "pos": "prep"
+  },
+  "zähle": {
+    "en": "to count",
+    "pos": "v"
+  },
+  "zäme": {
+    "en": "together",
+    "note": "Standard German 'zusammen'",
+    "pos": "adv"
+  },
+  "Ässe": {
+    "en": "food, meal",
+    "pos": "n"
+  },
+  "Übig": {
+    "en": "exercise, practice",
+    "pos": "n"
+  },
+  "ändere": {
+    "en": "to change",
+    "pos": "v"
+  },
+  "ässe": {
+    "en": "to eat",
+    "pos": "v"
+  },
+  "äuä": {
+    "en": "probably not; hardly",
+    "note": "Discourse particle of doubt",
+    "pos": "adv"
+  },
+  "öffne": {
+    "en": "to open",
+    "pos": "v"
+  },
+  "öppis": {
+    "en": "something",
+    "note": "Very common; 'öppis z'ässe' = something to eat",
+    "pos": "pron"
+  },
+  "över": {
+    "en": "over, across",
+    "pos": "prep"
+  },
+  "über": {
+    "en": "over, about",
+    "pos": "prep"
+  },
+  "überzüge": {
+    "en": "to convince",
+    "pos": "v"
+  },
+  "überzügt": {
+    "en": "convinced (pp)",
+    "pos": "v"
+  },
+  "ünnerschriibe": {
+    "en": "to sign",
+    "pos": "v"
+  }
+}
